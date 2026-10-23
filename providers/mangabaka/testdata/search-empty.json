@@ -1,0 +1,11 @@
+{
+ "status": 200,
+ "pagination": {
+  "count": 0,
+  "next": null,
+  "previous": null,
+  "page": 1,
+  "limit": 5
+ },
+ "data": []
+}

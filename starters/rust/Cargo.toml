@@ -1,0 +1,27 @@
+[package]
+name = "example-provider"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+# The binary is `provider` whatever you rename the package to, so the Dockerfile needs no edit.
+[[bin]]
+name = "provider"
+path = "src/main.rs"
+
+[dependencies]
+axum = "0.8"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+tokio = { version = "1", features = ["macros", "net", "rt-multi-thread", "time"] }
+
+[dev-dependencies]
+tower = { version = "0.5", features = ["util"] }
+
+[profile.release]
+codegen-units = 1
+lto = true
+# Size over speed: the service waits on the network, not the CPU.
+opt-level = "z"
+panic = "abort"
+strip = true

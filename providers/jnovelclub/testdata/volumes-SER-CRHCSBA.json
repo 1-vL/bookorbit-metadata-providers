@@ -1,0 +1,44 @@
+{
+ "volumes": [
+  {
+   "id": "VOL-S2246XI",
+   "title": "Crybaby Love Song",
+   "shortTitle": "Volume 1",
+   "number": 1,
+   "position": 1,
+   "creators": [
+    {
+     "name": "Emlyn Dornemann",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Momo",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Kelly Cotaquispe",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Romeda Ando",
+     "role": "AUTHOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2026-11-11T17:00:00Z",
+   "noEbook": false,
+   "description": "For high school saxophonist Kodai, music was always his escape. Or it was, until a devastating anxiety attack onstage cost his band a competition.\n\nNow forced to confront his mother’s remarriage with no way out, he finds himself with a new family and a new stepbrother, the gloomy and withdrawn Fuyuki. Yet beneath that intimidating exterior lies a gentle, guitar-loving soul.\n\nAs Fuyuki helps Kodai overcome his fear of performing, gratitude deepens into something far deeper - and far more complicated. But when it comes time for Kodai to help Fuyuki face the trauma that silenced his own music, will their bond strike a powerful new chord or will it collapse beneath the pressure?",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01K/Z/W/5C467W530TWNBKN9SK421.png",
+    "width": 1510,
+    "height": 2147
+   }
+  }
+ ],
+ "pagination": {
+  "limit": 0,
+  "skip": 0,
+  "lastPage": true
+ }
+}

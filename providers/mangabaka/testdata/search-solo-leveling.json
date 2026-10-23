@@ -1,0 +1,1015 @@
+{
+ "status": 200,
+ "pagination": {
+  "count": 9,
+  "next": "https://api.mangabaka.org/v1/series/search?limit=5&q=solo+leveling&page=2",
+  "previous": null,
+  "page": 1,
+  "limit": 5
+ },
+ "data": [
+  {
+   "id": 3397,
+   "state": "active",
+   "merged_with": null,
+   "canonical_url": "https://mangabaka.org/manhwa/3397/Solo-Leveling",
+   "title": "Solo Leveling",
+   "native_title": "나 혼자만 레벨업",
+   "romanized_title": "Na Honjaman Lebel-eob",
+   "cover": {
+    "raw": {
+     "url": "https://images.mangabaka.dev/9/d/f/d/5/9/c/6/f032/4552/b91f/86686c9e7c8b.jpg",
+     "size": 672231,
+     "height": 972,
+     "width": 720,
+     "blurhash": "|YKK.+%2_NtQ^+Rk%LRiWX8_xaRjkCozW=ozn~tQfnRj%eozM|s:WBf6oJtlNHt8j;jYt8oIWBbHxbtRSKV?t7RjWCWBWVofRinhoMofoeM|Wqj?ofnie.j?WBWEWBR*j]WYbcofsoWAadjFaeRjt7ofWXbaRjj]j?oca#",
+     "thumbhash": "5AcKDQL62ZGHiKeohpmHhmqYsPOe",
+     "format": "jpeg"
+    },
+    "x150": {
+     "x1": "https://cdn.mangabaka.dev/imgproxy/plain/x150@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85L2QvZi9kLzUvOS9jLzYvZjAzMi80NTUyL2I5MWYvODY2ODZjOWU3YzhiLmpwZw",
+     "x2": "https://cdn.mangabaka.dev/imgproxy/plain/x150@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85L2QvZi9kLzUvOS9jLzYvZjAzMi80NTUyL2I5MWYvODY2ODZjOWU3YzhiLmpwZw",
+     "x3": "https://cdn.mangabaka.dev/imgproxy/plain/x150@3/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85L2QvZi9kLzUvOS9jLzYvZjAzMi80NTUyL2I5MWYvODY2ODZjOWU3YzhiLmpwZw"
+    },
+    "x250": {
+     "x1": "https://cdn.mangabaka.dev/imgproxy/plain/x250@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85L2QvZi9kLzUvOS9jLzYvZjAzMi80NTUyL2I5MWYvODY2ODZjOWU3YzhiLmpwZw",
+     "x2": "https://cdn.mangabaka.dev/imgproxy/plain/x250@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85L2QvZi9kLzUvOS9jLzYvZjAzMi80NTUyL2I5MWYvODY2ODZjOWU3YzhiLmpwZw",
+     "x3": "https://cdn.mangabaka.dev/imgproxy/plain/x250@3/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85L2QvZi9kLzUvOS9jLzYvZjAzMi80NTUyL2I5MWYvODY2ODZjOWU3YzhiLmpwZw"
+    },
+    "x350": {
+     "x1": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85L2QvZi9kLzUvOS9jLzYvZjAzMi80NTUyL2I5MWYvODY2ODZjOWU3YzhiLmpwZw",
+     "x2": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85L2QvZi9kLzUvOS9jLzYvZjAzMi80NTUyL2I5MWYvODY2ODZjOWU3YzhiLmpwZw",
+     "x3": "https://cdn.mangabaka.dev/imgproxy/plain/x350@3/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85L2QvZi9kLzUvOS9jLzYvZjAzMi80NTUyL2I5MWYvODY2ODZjOWU3YzhiLmpwZw"
+    }
+   },
+   "authors": [
+    "Chu-Gong"
+   ],
+   "artists": [
+    "DISCIPLES (Redice Studio)",
+    "DUBU (Redice Studio)",
+    "Redice Studio"
+   ],
+   "description": "In a world where awakened beings called “Hunters” must battle deadly monsters to protect humanity, Sung Jinwoo, nicknamed “the weakest hunter of all mankind,” finds himself in a constant struggle for survival. One day, after a brutal encounter in an overpowered dungeon wipes out his party and threatens to end his life, a mysterious System chooses him as its sole player: Jinwoo has been granted the rare opportunity to level up his abilities, possibly beyond any known limits. Follow Jinwoo’s journey as he takes on ever-stronger enemies, both human and monster, to discover the secrets deep within the dungeons and the ultimate extent of his powers.\n\n*Source: Tappytoon*\n\n---\n\nKnown as the Weakest Hunter of All Mankind, E-rank hunter Jinwoo Sung’s contribution to raids amounts to trying not to get killed. Unfortunately, between his mother’s hospital bills, his sister’s tuition, and his own lack of job prospects, he has no choice but to continue to put his life on the line. So when an opportunity arises for a bigger payout, he takes it…only to come face-to-face with a being whose power outranks anything he’s ever seen! With the party leader missing an arm and the only healer a quivering mess, can Jinwoo some­how find them a way out?\n\n*Source: Yen Press, Vol. 1*\n",
+   "year": 2018,
+   "published": {
+    "start_date": "2018-03-04",
+    "end_date": "2023-05-31",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
+   },
+   "status": "completed",
+   "type": "manhwa",
+   "content_rating": "safe",
+   "original_language": "ko",
+   "rating": 86.1483333333333,
+   "publishers": [
+    {
+     "id": 17,
+     "name": "Comikey Media",
+     "canonical_url": "https://mangabaka.org/publisher/17/Comikey-Media",
+     "language": "pt-br",
+     "note": "Digital",
+     "type": "Other"
+    },
+    {
+     "id": 5081,
+     "name": "Daum",
+     "canonical_url": "https://mangabaka.org/publisher/5081/Daum",
+     "language": "ko",
+     "note": null,
+     "type": "Original"
+    },
+    {
+     "id": 1832,
+     "name": "DNC Webtoon",
+     "canonical_url": "https://mangabaka.org/publisher/1832/DNC-Webtoon",
+     "language": "ko",
+     "note": null,
+     "type": "Original"
+    },
+    {
+     "id": 6120,
+     "name": "Ivrea Argentina",
+     "canonical_url": "https://mangabaka.org/publisher/6120/Ivrea-Argentina",
+     "language": "es-la",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 21,
+     "name": "Ize Press",
+     "canonical_url": "https://mangabaka.org/publisher/21/Ize-Press",
+     "language": "en",
+     "note": "13+2 Volumes; Complete",
+     "type": "English"
+    },
+    {
+     "id": 3109,
+     "name": "Kakao",
+     "canonical_url": "https://mangabaka.org/publisher/3109/Kakao",
+     "language": "ko",
+     "note": null,
+     "type": "Original"
+    },
+    {
+     "id": 6144,
+     "name": "Komik Şeyler",
+     "canonical_url": "https://mangabaka.org/publisher/6144/Komik-%C5%9Eeyler",
+     "language": "tr",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 3302,
+     "name": "Manga Mirai",
+     "canonical_url": "https://mangabaka.org/publisher/3302/Manga-Mirai",
+     "language": "en",
+     "note": null,
+     "type": "English"
+    },
+    {
+     "id": 2880,
+     "name": "Manta",
+     "canonical_url": "https://mangabaka.org/publisher/2880/Manta",
+     "language": "en",
+     "note": "201 Chapters; Complete",
+     "type": "English"
+    },
+    {
+     "id": 4657,
+     "name": "Norma Editorial",
+     "canonical_url": "https://mangabaka.org/publisher/4657/Norma-Editorial",
+     "language": "es",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 6211,
+     "name": "Panini Manga Brasil",
+     "canonical_url": "https://mangabaka.org/publisher/6211/Panini-Manga-Brasil",
+     "language": "pt-br",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 246,
+     "name": "Panini Manga México",
+     "canonical_url": "https://mangabaka.org/publisher/246/Panini-Manga-M%C3%A9xico",
+     "language": "es-la",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 5503,
+     "name": "Pocket Comics",
+     "canonical_url": "https://mangabaka.org/publisher/5503/Pocket-Comics",
+     "language": "en",
+     "note": "201 Chapters; Defunct",
+     "type": "English"
+    },
+    {
+     "id": 256,
+     "name": "Presença",
+     "canonical_url": "https://mangabaka.org/publisher/256/Presen%C3%A7a",
+     "language": "pt",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 1135,
+     "name": "REDICE Studio",
+     "canonical_url": "https://mangabaka.org/publisher/1135/REDICE-Studio",
+     "language": "ko",
+     "note": null,
+     "type": "Original"
+    },
+    {
+     "id": 6282,
+     "name": "Star Comics",
+     "canonical_url": "https://mangabaka.org/publisher/6282/Star-Comics",
+     "language": "it",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 5256,
+     "name": "Tapas",
+     "canonical_url": "https://mangabaka.org/publisher/5256/Tapas",
+     "language": "en",
+     "note": "201 Chapters; Complete",
+     "type": "English"
+    },
+    {
+     "id": 3520,
+     "name": "Tappytoon",
+     "canonical_url": "https://mangabaka.org/publisher/3520/Tappytoon",
+     "language": "en",
+     "note": "201 Chapters; Complete",
+     "type": "English"
+    },
+    {
+     "id": 2187,
+     "name": "Webcomics",
+     "canonical_url": "https://mangabaka.org/publisher/2187/Webcomics",
+     "language": "en",
+     "note": null,
+     "type": "English"
+    },
+    {
+     "id": 4846,
+     "name": "Webnovel",
+     "canonical_url": "https://mangabaka.org/publisher/4846/Webnovel",
+     "language": "en",
+     "note": "201 Chapters; Complete",
+     "type": "English"
+    }
+   ],
+   "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "drama",
+    "shounen"
+   ],
+   "tags": [
+    "Adult Male Lead",
+    "Based on a Novel",
+    "Politics",
+    "Invincible Protagonist",
+    "Adapted to Game",
+    "Dungeon",
+    "Video Games",
+    "Primarily Adult Cast",
+    "Creature Taming",
+    "Pyrokinesis",
+    "Level System",
+    "Handsome Male Lead",
+    "Monsters Invade Earth",
+    "Violent Characters",
+    "Sick Parents",
+    "Dragons",
+    "Demon Girls",
+    "Webtoons",
+    "Telekinesis",
+    "Snowscape",
+    "Monsters",
+    "Estranged Family",
+    "Weak to Strong",
+    "Gods",
+    "Inherited Power",
+    "Large Scale Battles",
+    "Language Barrier",
+    "Alliances",
+    "Time Manipulation",
+    "Sick Family Members",
+    "Personality Changes",
+    "Manhwa",
+    "Guild Masters",
+    "Wars",
+    "Younger Sister",
+    "Heterosexual",
+    "Demons",
+    "Chimera",
+    "21st Century",
+    "Long Strip",
+    "Magical/Spiritual Power Ranking",
+    "Elaborate Art Style",
+    "Suits",
+    "Urban Fantasy",
+    "Strong Characters",
+    "Marriage",
+    "Anti-Hero",
+    "Ruthless Protagonist",
+    "Muscular Protagonist",
+    "Coma",
+    "Overpowered Protagonist",
+    "Seeing Things Other Humans Can't",
+    "Healers",
+    "Based on a Web Novel",
+    "Necromancy",
+    "Necromancers",
+    "Training",
+    "Memory Manipulation",
+    "System",
+    "Lucky Protagonist",
+    "Magic",
+    "Poor to Rich",
+    "Webtoon/Webcomic",
+    "Smart Male Lead",
+    "Game Elements",
+    "Swordplay",
+    "Male Protagonist",
+    "Brother-Sister Relationship",
+    "Sisters",
+    "Observant Protagonist",
+    "Hunters",
+    "Dungeons",
+    "God-Human Relationship",
+    "South Korea",
+    "Adult Couple",
+    "Full Color",
+    "Age Regression",
+    "Mothers",
+    "Bullying",
+    "Adult Female Lead",
+    "Parallel Worlds",
+    "Life-Changing Events",
+    "Ruthless Male Lead",
+    "Guilds",
+    "Adapted to Anime",
+    "Foreign",
+    "Adult Cast",
+    "Character Growth",
+    "Overpowered Male Lead",
+    "Observant Male Lead",
+    "Earth Invasion",
+    "Violence",
+    "Muscular Male Lead",
+    "Skills",
+    "Adult Protagonist",
+    "Assassins",
+    "Godly Powers",
+    "Strong-Willed Male Lead",
+    "Super Powers",
+    "Tragedy",
+    "Gary Stu",
+    "Dungeon/s Exploring",
+    "Adult Characters",
+    "Stubborn Male Lead",
+    "Post-Apocalyptic",
+    "Strong Male Lead",
+    "Badass Protagonist",
+    "Pragmatic Male Lead",
+    "Contemporary Fantasy",
+    "Older Brother",
+    "Celebrities",
+    "Rivalry",
+    "Modern Era",
+    "Fearless Male Lead",
+    "Time Skip",
+    "Badass Male Lead"
+   ]
+  },
+  {
+   "id": 85266,
+   "state": "active",
+   "merged_with": null,
+   "canonical_url": "https://mangabaka.org/novel/85266/Solo-Leveling",
+   "title": "Solo Leveling",
+   "native_title": "나 혼자만 레벨업",
+   "romanized_title": "Na Honjaman Level Up",
+   "cover": {
+    "raw": {
+     "url": "https://images.mangabaka.dev/6/7/2/a/0/c/f/2/01b3/4137/ab76/b583e9452de6",
+     "size": 277937,
+     "height": 658,
+     "width": 458,
+     "blurhash": "|LQ0N?WBWUaexuofR*WARjof9FV@xuf6RiWBWBof00oLV@fkoft7ofWBofxuRjM{xbofxuRPj[t7M{Ri%Mt8jZofWAtRjtM{ofofRjxuofWBWBofW;ofxuWBInRjj[jZfkxvt7V@WBW;f6ayWBofM_R*ayWBofaexuaxWB",
+     "thumbhash": "NAgGBQCXpxinCHi4VmRbeDK4H8BS",
+     "format": "jpeg"
+    },
+    "x150": {
+     "x1": "https://cdn.mangabaka.dev/imgproxy/plain/x150@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi82LzcvMi9hLzAvYy9mLzIvMDFiMy80MTM3L2FiNzYvYjU4M2U5NDUyZGU2",
+     "x2": "https://cdn.mangabaka.dev/imgproxy/plain/x150@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi82LzcvMi9hLzAvYy9mLzIvMDFiMy80MTM3L2FiNzYvYjU4M2U5NDUyZGU2",
+     "x3": "https://cdn.mangabaka.dev/imgproxy/plain/x150@3/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi82LzcvMi9hLzAvYy9mLzIvMDFiMy80MTM3L2FiNzYvYjU4M2U5NDUyZGU2"
+    },
+    "x250": {
+     "x1": "https://cdn.mangabaka.dev/imgproxy/plain/x250@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi82LzcvMi9hLzAvYy9mLzIvMDFiMy80MTM3L2FiNzYvYjU4M2U5NDUyZGU2",
+     "x2": "https://cdn.mangabaka.dev/imgproxy/plain/x250@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi82LzcvMi9hLzAvYy9mLzIvMDFiMy80MTM3L2FiNzYvYjU4M2U5NDUyZGU2",
+     "x3": "https://cdn.mangabaka.dev/imgproxy/plain/x250@3/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi82LzcvMi9hLzAvYy9mLzIvMDFiMy80MTM3L2FiNzYvYjU4M2U5NDUyZGU2"
+    },
+    "x350": {
+     "x1": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi82LzcvMi9hLzAvYy9mLzIvMDFiMy80MTM3L2FiNzYvYjU4M2U5NDUyZGU2",
+     "x2": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi82LzcvMi9hLzAvYy9mLzIvMDFiMy80MTM3L2FiNzYvYjU4M2U5NDUyZGU2",
+     "x3": "https://cdn.mangabaka.dev/imgproxy/plain/x350@3/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi82LzcvMi9hLzAvYy9mLzIvMDFiMy80MTM3L2FiNzYvYjU4M2U5NDUyZGU2"
+    }
+   },
+   "authors": [
+    "Chugong"
+   ],
+   "artists": null,
+   "description": "**THE WEAKEST HUNTER OF ALL MANKIND!**\n\nE-rank hunter Jinwoo Sung has no money, no talent, and no prospects to speak of-and apparently, no luck, either! When he enters a hidden double dungeon one fateful day, he’s abandoned by his party and left to die at the hands of some of the most horrific monsters he’s ever encountered. But just before the last, fatal blow… PING! [Congratulations on becoming a Player.]\n\n*Source: Yen Press, Vol. 1*",
+   "year": 2016,
+   "published": {
+    "start_date": "2016-11-04",
+    "end_date": "2017-10-27",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
+   },
+   "status": "completed",
+   "type": "novel",
+   "content_rating": "safe",
+   "original_language": "ko",
+   "rating": 81.916,
+   "publishers": [
+    {
+     "id": 1829,
+     "name": "DNC Media",
+     "canonical_url": "https://mangabaka.org/publisher/1829/DNC-Media",
+     "language": "ko",
+     "note": null,
+     "type": "Original"
+    },
+    {
+     "id": 6120,
+     "name": "Ivrea Argentina",
+     "canonical_url": "https://mangabaka.org/publisher/6120/Ivrea-Argentina",
+     "language": "es-la",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 38,
+     "name": "KADOKAWA",
+     "canonical_url": "https://mangabaka.org/publisher/38/KADOKAWA",
+     "language": "ja",
+     "note": "Japan",
+     "type": "Other"
+    },
+    {
+     "id": 3114,
+     "name": "KakaoPage",
+     "canonical_url": "https://mangabaka.org/publisher/3114/KakaoPage",
+     "language": "ko",
+     "note": null,
+     "type": "Original"
+    },
+    {
+     "id": 4657,
+     "name": "Norma Editorial",
+     "canonical_url": "https://mangabaka.org/publisher/4657/Norma-Editorial",
+     "language": "es",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 246,
+     "name": "Panini Manga México",
+     "canonical_url": "https://mangabaka.org/publisher/246/Panini-Manga-M%C3%A9xico",
+     "language": "es-la",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 5256,
+     "name": "Tapas",
+     "canonical_url": "https://mangabaka.org/publisher/5256/Tapas",
+     "language": "en",
+     "note": null,
+     "type": "English"
+    },
+    {
+     "id": 4846,
+     "name": "Webnovel",
+     "canonical_url": "https://mangabaka.org/publisher/4846/Webnovel",
+     "language": "en",
+     "note": "Complete",
+     "type": "English"
+    },
+    {
+     "id": 20,
+     "name": "Yen Audio",
+     "canonical_url": "https://mangabaka.org/publisher/20/Yen-Audio",
+     "language": "en",
+     "note": "8 Audiobooks; Complete",
+     "type": "English"
+    },
+    {
+     "id": 19,
+     "name": "Yen On",
+     "canonical_url": "https://mangabaka.org/publisher/19/Yen-On",
+     "language": "en",
+     "note": "8 Volumes; Complete | 1 Physical Omnibus; Complete",
+     "type": "English"
+    }
+   ],
+   "genres": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy",
+    "shounen"
+   ],
+   "tags": [
+    "Adapted to Game",
+    "Dungeon",
+    "Smart Male Lead",
+    "Game Elements",
+    "Level System",
+    "Knights",
+    "Growth Spurt",
+    "Survival",
+    "Calm Protagonist",
+    "Time Rewind",
+    "Secret Identity",
+    "Hidden Past",
+    "Korean Ambience",
+    "Sick Parents",
+    "Dragons",
+    "Adapted to English Audiobook",
+    "Dungeons",
+    "South Korea",
+    "Overpowered",
+    "Monsters",
+    "Weapons",
+    "Weak to Strong",
+    "Parallel Worlds",
+    "Famous Characters",
+    "Determined Protagonist",
+    "Ruthless Male Lead",
+    "Adapted to Anime",
+    "Adult Cast",
+    "Hiding Powers",
+    "Character Growth",
+    "Overpowered Male Lead",
+    "Appearance Different From Actual Age",
+    "Multiple POVs",
+    "Strong Father",
+    "Famous Male Lead",
+    "Korean Novels",
+    "Orcs",
+    "Giants",
+    "Betrayal",
+    "Magical/Spiritual Power Ranking",
+    "Urban Fantasy",
+    "Strong-Willed Male Lead",
+    "Strong Characters",
+    "Web Novel",
+    "Hidden Motive",
+    "Dungeon/s Exploring",
+    "Web Novels",
+    "Quests",
+    "Ruthless Protagonist",
+    "Adapted to Webtoon",
+    "Hidden Powers",
+    "Appearance Changes",
+    "Strong Male Lead",
+    "Time Skip In Final Chapter/Epilogue",
+    "Overpowered Protagonist",
+    "Calm Male Lead",
+    "Contemporary Fantasy",
+    "Necromancy",
+    "Famous Protagonist",
+    "Necromancers",
+    "Foreigners",
+    "Magic Items",
+    "Strong-Willed Characters",
+    "Rivalry",
+    "Time Skip",
+    "Modern Era",
+    "Angels",
+    "Lucky Protagonist",
+    "Magic",
+    "Poor to Rich"
+   ]
+  },
+  {
+   "id": 1252,
+   "state": "active",
+   "merged_with": null,
+   "canonical_url": "https://mangabaka.org/manhwa/1252/Solo-Leveling-Ragnarok",
+   "title": "Solo Leveling: Ragnarok",
+   "native_title": "나 혼자만 레벨업 : 라그나로크",
+   "romanized_title": "Na Honjaman Level Up: Ragnarok",
+   "cover": {
+    "raw": {
+     "url": "https://images.mangabaka.dev/8/4/c/8/a/0/9/b/4b95/4aa1/9b7d/edf785410cff",
+     "size": 1881989,
+     "height": 2481,
+     "width": 1773,
+     "blurhash": "|FF6qu*0EUR7DONHs.WBjF^-9aWqR5IAt8t9oykCH=NKR3nlx]xts,xtWX-=%L9GV@o#SPs,tRM{9GxBads:R.NGV@RjkDE3n#S6-;%2WFWBM{t7D*VrM_R%-oo#S1RloLMwtS%MM_xua#axofxaDiNH$$S$oHM|kDofW=",
+     "thumbhash": "n9YFFQKNFk9YJEfIOXNnVwVHN5Ck",
+     "format": "jpeg"
+    },
+    "x150": {
+     "x1": "https://cdn.mangabaka.dev/imgproxy/plain/x150@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzQvYy84L2EvMC85L2IvNGI5NS80YWExLzliN2QvZWRmNzg1NDEwY2Zm",
+     "x2": "https://cdn.mangabaka.dev/imgproxy/plain/x150@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzQvYy84L2EvMC85L2IvNGI5NS80YWExLzliN2QvZWRmNzg1NDEwY2Zm",
+     "x3": "https://cdn.mangabaka.dev/imgproxy/plain/x150@3/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzQvYy84L2EvMC85L2IvNGI5NS80YWExLzliN2QvZWRmNzg1NDEwY2Zm"
+    },
+    "x250": {
+     "x1": "https://cdn.mangabaka.dev/imgproxy/plain/x250@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzQvYy84L2EvMC85L2IvNGI5NS80YWExLzliN2QvZWRmNzg1NDEwY2Zm",
+     "x2": "https://cdn.mangabaka.dev/imgproxy/plain/x250@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzQvYy84L2EvMC85L2IvNGI5NS80YWExLzliN2QvZWRmNzg1NDEwY2Zm",
+     "x3": "https://cdn.mangabaka.dev/imgproxy/plain/x250@3/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzQvYy84L2EvMC85L2IvNGI5NS80YWExLzliN2QvZWRmNzg1NDEwY2Zm"
+    },
+    "x350": {
+     "x1": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzQvYy84L2EvMC85L2IvNGI5NS80YWExLzliN2QvZWRmNzg1NDEwY2Zm",
+     "x2": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzQvYy84L2EvMC85L2IvNGI5NS80YWExLzliN2QvZWRmNzg1NDEwY2Zm",
+     "x3": "https://cdn.mangabaka.dev/imgproxy/plain/x350@3/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzQvYy84L2EvMC85L2IvNGI5NS80YWExLzliN2QvZWRmNzg1NDEwY2Zm"
+    }
+   },
+   "authors": [
+    "Daul",
+    "Do Dang"
+   ],
+   "artists": [
+    "JIN",
+    "REDICE"
+   ],
+   "description": "In a world of gates, monsters, and hunters galore, Soo-Ho Sung is…well, he’s just an ordinary college student. Sure, his parents went missing right before the gates started appearing three years ago, and he occasionally had a weird dream where he could beat up monsters and level up like a video game, but other than that? There’s absolutely nothing special about him. So when a sudden monster outbreak occurs on his campus, he must fight back every instinct screaming at him to run away as he takes a page out of his dad’s book and rushes to save his classmate. The chances of making it alive are looking bleak, until—PING! \\[Congratulations on becoming a Player.\\]\n\n(Source: Ize Press)",
+   "year": 2024,
+   "published": {
+    "start_date": "2024-07-31",
+    "end_date": null,
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": null
+   },
+   "status": "hiatus",
+   "type": "manhwa",
+   "content_rating": "safe",
+   "original_language": "ko",
+   "rating": 76.7616666666667,
+   "publishers": [
+    {
+     "id": 2654,
+     "name": "altraverse",
+     "canonical_url": "https://mangabaka.org/publisher/2654/altraverse",
+     "language": "de",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 5081,
+     "name": "Daum",
+     "canonical_url": "https://mangabaka.org/publisher/5081/Daum",
+     "language": "ko",
+     "note": null,
+     "type": "Original"
+    },
+    {
+     "id": 1832,
+     "name": "DNC Webtoon",
+     "canonical_url": "https://mangabaka.org/publisher/1832/DNC-Webtoon",
+     "language": "ko",
+     "note": null,
+     "type": "Original"
+    },
+    {
+     "id": 6120,
+     "name": "Ivrea Argentina",
+     "canonical_url": "https://mangabaka.org/publisher/6120/Ivrea-Argentina",
+     "language": "es",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 3109,
+     "name": "Kakao",
+     "canonical_url": "https://mangabaka.org/publisher/3109/Kakao",
+     "language": "ko",
+     "note": null,
+     "type": "Original"
+    },
+    {
+     "id": 1249,
+     "name": "Kbooks",
+     "canonical_url": "https://mangabaka.org/publisher/1249/Kbooks",
+     "language": "fr",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 1176,
+     "name": "KuaiKan",
+     "canonical_url": "https://mangabaka.org/publisher/1176/KuaiKan",
+     "language": "zh-Hans-CN",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 2880,
+     "name": "Manta",
+     "canonical_url": "https://mangabaka.org/publisher/2880/Manta",
+     "language": "en",
+     "note": null,
+     "type": "English"
+    },
+    {
+     "id": 4657,
+     "name": "Norma Editorial",
+     "canonical_url": "https://mangabaka.org/publisher/4657/Norma-Editorial",
+     "language": "es",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 246,
+     "name": "Panini Manga México",
+     "canonical_url": "https://mangabaka.org/publisher/246/Panini-Manga-M%C3%A9xico",
+     "language": "es-la",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 3116,
+     "name": "Piccoma",
+     "canonical_url": "https://mangabaka.org/publisher/3116/Piccoma",
+     "language": "ja",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 5256,
+     "name": "Tapas",
+     "canonical_url": "https://mangabaka.org/publisher/5256/Tapas",
+     "language": "en",
+     "note": null,
+     "type": "English"
+    },
+    {
+     "id": 3520,
+     "name": "Tappytoon",
+     "canonical_url": "https://mangabaka.org/publisher/3520/Tappytoon",
+     "language": "en",
+     "note": null,
+     "type": "English"
+    },
+    {
+     "id": 4846,
+     "name": "Webnovel",
+     "canonical_url": "https://mangabaka.org/publisher/4846/Webnovel",
+     "language": "en",
+     "note": null,
+     "type": "English"
+    }
+   ],
+   "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "comedy",
+    "drama",
+    "school_life",
+    "shounen"
+   ],
+   "tags": [
+    "Game Elements",
+    "Swordplay",
+    "Male Protagonist",
+    "Long Strip",
+    "Ranking System",
+    "Urban Fantasy",
+    "Super Powers",
+    "Cheat Skills",
+    "Dungeon/s Exploring",
+    "Dungeons",
+    "Webtoons",
+    "Full Color",
+    "Monsters",
+    "Hidden Powers",
+    "Weak to Strong",
+    "Based on a Web Novel",
+    "Contemporary Fantasy",
+    "Necromancy",
+    "Necromancers",
+    "Manhwa",
+    "Adult Cast",
+    "Character Growth",
+    "College",
+    "Based on a Novel",
+    "Wars",
+    "Magic",
+    "Confident Male Lead",
+    "Webtoon/Webcomic",
+    "Dungeon",
+    "Demons"
+   ]
+  },
+  {
+   "id": 85267,
+   "state": "active",
+   "merged_with": null,
+   "canonical_url": "https://mangabaka.org/novel/85267/Solo-Leveling-Ragnarok",
+   "title": "Solo Leveling: Ragnarok",
+   "native_title": "俺だけレベルアップな件〜ラグナロク〜",
+   "romanized_title": "Na Honjaman Level Up: Ragnarok",
+   "cover": {
+    "raw": {
+     "url": "https://media.kitsu.app/manga/67128/poster_image/64b500ce8b04cdf044dbbf518a21ce29.webp",
+     "size": 127268,
+     "height": 1030,
+     "width": 720,
+     "blurhash": "|BF$|*rC^*%$Rlnix^MxtS8w9FIp9FNHITRjbJRlWZRi-=%Mng%hRPs.MwT2ozI8Mvx]R+D*bcs+HqjVx^%MoaM{baadogn-xuo~DiIpMwxZt7x]IAxtIqtSx]%Mx^ofRj%MITMd%Ma#tSt7V?k9D+D$V=RjM{XARjkAxv",
+     "thumbhash": "IOcFDQLTjDQll8bbOVCKOvpo1b94",
+     "format": "webp"
+    },
+    "x150": {
+     "x1": "https://cdn.mangabaka.dev/imgproxy/plain/x150@1/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvbWFuZ2EvNjcxMjgvcG9zdGVyX2ltYWdlLzY0YjUwMGNlOGIwNGNkZjA0NGRiYmY1MThhMjFjZTI5LndlYnA",
+     "x2": "https://cdn.mangabaka.dev/imgproxy/plain/x150@2/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvbWFuZ2EvNjcxMjgvcG9zdGVyX2ltYWdlLzY0YjUwMGNlOGIwNGNkZjA0NGRiYmY1MThhMjFjZTI5LndlYnA",
+     "x3": "https://cdn.mangabaka.dev/imgproxy/plain/x150@3/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvbWFuZ2EvNjcxMjgvcG9zdGVyX2ltYWdlLzY0YjUwMGNlOGIwNGNkZjA0NGRiYmY1MThhMjFjZTI5LndlYnA"
+    },
+    "x250": {
+     "x1": "https://cdn.mangabaka.dev/imgproxy/plain/x250@1/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvbWFuZ2EvNjcxMjgvcG9zdGVyX2ltYWdlLzY0YjUwMGNlOGIwNGNkZjA0NGRiYmY1MThhMjFjZTI5LndlYnA",
+     "x2": "https://cdn.mangabaka.dev/imgproxy/plain/x250@2/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvbWFuZ2EvNjcxMjgvcG9zdGVyX2ltYWdlLzY0YjUwMGNlOGIwNGNkZjA0NGRiYmY1MThhMjFjZTI5LndlYnA",
+     "x3": "https://cdn.mangabaka.dev/imgproxy/plain/x250@3/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvbWFuZ2EvNjcxMjgvcG9zdGVyX2ltYWdlLzY0YjUwMGNlOGIwNGNkZjA0NGRiYmY1MThhMjFjZTI5LndlYnA"
+    },
+    "x350": {
+     "x1": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvbWFuZ2EvNjcxMjgvcG9zdGVyX2ltYWdlLzY0YjUwMGNlOGIwNGNkZjA0NGRiYmY1MThhMjFjZTI5LndlYnA",
+     "x2": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvbWFuZ2EvNjcxMjgvcG9zdGVyX2ltYWdlLzY0YjUwMGNlOGIwNGNkZjA0NGRiYmY1MThhMjFjZTI5LndlYnA",
+     "x3": "https://cdn.mangabaka.dev/imgproxy/plain/x350@3/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvbWFuZ2EvNjcxMjgvcG9zdGVyX2ltYWdlLzY0YjUwMGNlOGIwNGNkZjA0NGRiYmY1MThhMjFjZTI5LndlYnA"
+    }
+   },
+   "authors": [
+    "DAUL"
+   ],
+   "artists": null,
+   "description": "From Tapas:  \nThe Earth's existence is under threat once more as Itarim, the gods of other universes, seek to fill the void left by the Absolute Being. Sung Jinwoo has no choice but to send Beru, the shadow ant king, to awaken his son's powers and start him on the journey he once took. Suho must conquer the shadow dungeon and earn his place in the world of hunters as he navigates through a new world against a new evil looking to swallow the world whole.\n\n**Original Novel:**  \nChapters: [Kakao](https://page.kakao.com/content/61593806), [RIDI](https://ridibooks.com/books/777178285)  \nVolumes: [Kakao](https://page.kakao.com/content/69730153/), [RIDI](https://ridibooks.com/books/777181031)\n\n**Official Translations:**  \nEnglish ([Tapas](https://tapas.io/series/solo-leveling-ragnarok-novel/info), [WuxiaWorld](https://www.wuxiaworld.com/novel/solo-leveling-ragnarok)), [Japanese](https://jp.piccoma.com/web/product/170807)",
+   "year": 2023,
+   "published": {
+    "start_date": "2023-01-01",
+    "end_date": null,
+    "start_date_is_estimated": true,
+    "end_date_is_estimated": null
+   },
+   "status": "completed",
+   "type": "novel",
+   "content_rating": "safe",
+   "original_language": "ko",
+   "rating": 74.7333333333333,
+   "publishers": [
+    {
+     "id": 1829,
+     "name": "DNC Media",
+     "canonical_url": "https://mangabaka.org/publisher/1829/DNC-Media",
+     "language": "ko",
+     "note": null,
+     "type": "Original"
+    },
+    {
+     "id": 3109,
+     "name": "Kakao",
+     "canonical_url": "https://mangabaka.org/publisher/3109/Kakao",
+     "language": "ko",
+     "note": null,
+     "type": "Original"
+    },
+    {
+     "id": 246,
+     "name": "Panini Manga México",
+     "canonical_url": "https://mangabaka.org/publisher/246/Panini-Manga-M%C3%A9xico",
+     "language": "es-la",
+     "note": null,
+     "type": "Other"
+    },
+    {
+     "id": 1841,
+     "name": "PaPyrus",
+     "canonical_url": "https://mangabaka.org/publisher/1841/PaPyrus",
+     "language": "ko",
+     "note": null,
+     "type": "Original"
+    },
+    {
+     "id": 5256,
+     "name": "Tapas",
+     "canonical_url": "https://mangabaka.org/publisher/5256/Tapas",
+     "language": "en",
+     "note": null,
+     "type": "English"
+    },
+    {
+     "id": 4309,
+     "name": "WuxiaWorld",
+     "canonical_url": "https://mangabaka.org/publisher/4309/WuxiaWorld",
+     "language": "en",
+     "note": null,
+     "type": "English"
+    }
+   ],
+   "genres": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy",
+    "shounen"
+   ],
+   "tags": [
+    "Dungeon",
+    "Game Elements",
+    "Monsters",
+    "Swordplay",
+    "Weak to Strong",
+    "Web Novels",
+    "Korean Novels",
+    "Urban Fantasy",
+    "Contemporary Fantasy"
+   ]
+  },
+  {
+   "id": 3368,
+   "state": "active",
+   "merged_with": null,
+   "canonical_url": "https://mangabaka.org/manhua/3368/The-Privilege-of-the-Second-Life-is-Power-Leveling",
+   "title": "The Privilege of the Second Life is Power Leveling",
+   "native_title": "인생 2회차의 특권은 폭풍 레벨업",
+   "romanized_title": "Insaeng 2-hoechaui Teukgwoneun Pokpung Rebereop",
+   "cover": {
+    "raw": {
+     "url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201652-Y5UtAmjHjAQL.jpg",
+     "size": 110970,
+     "height": 658,
+     "width": 460,
+     "blurhash": "|RFZjuZ}8_NGwX%Mo~WEM~4UWoW9t8WAWCa$oKjY?ufSsAt7bdNGRkoMt3IwozRknNoykCoHWUoe~pkENLWZs:ofWBkBR*bKobRQjYt7WBRlogf6x[a$Roj=WAV@axaxt7o#ogWGtRoebHoeV]ogxYbEaeslozW;ogoLWY",
+     "thumbhash": "o8UJFQIVZnCX14h5eJ+XqCxw/6fG",
+     "format": "jpeg"
+    },
+    "x150": {
+     "x1": "https://cdn.mangabaka.dev/imgproxy/plain/x150@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwMTY1Mi1ZNVV0QW1qSGpBUUwuanBn",
+     "x2": "https://cdn.mangabaka.dev/imgproxy/plain/x150@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwMTY1Mi1ZNVV0QW1qSGpBUUwuanBn",
+     "x3": "https://cdn.mangabaka.dev/imgproxy/plain/x150@3/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwMTY1Mi1ZNVV0QW1qSGpBUUwuanBn"
+    },
+    "x250": {
+     "x1": "https://cdn.mangabaka.dev/imgproxy/plain/x250@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwMTY1Mi1ZNVV0QW1qSGpBUUwuanBn",
+     "x2": "https://cdn.mangabaka.dev/imgproxy/plain/x250@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwMTY1Mi1ZNVV0QW1qSGpBUUwuanBn",
+     "x3": "https://cdn.mangabaka.dev/imgproxy/plain/x250@3/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwMTY1Mi1ZNVV0QW1qSGpBUUwuanBn"
+    },
+    "x350": {
+     "x1": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwMTY1Mi1ZNVV0QW1qSGpBUUwuanBn",
+     "x2": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwMTY1Mi1ZNVV0QW1qSGpBUUwuanBn",
+     "x3": "https://cdn.mangabaka.dev/imgproxy/plain/x350@3/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwMTY1Mi1ZNVV0QW1qSGpBUUwuanBn"
+    }
+   },
+   "authors": [
+    "Yi Cheng"
+   ],
+   "artists": [
+    "Hetao"
+   ],
+   "description": "Ten years after humanity’s fall, Earth lies under demonian rule. After losing his sister and his life, Yoon is offered one last chance by an angel statue. Sent back in time with a leveling system, he must reach Lv. 99 to save her and change Earth’s fate. Yoon fights, not for the world, but for her. One brother’s journey to save his sister may be humanity’s last hope. \n\n(Source: Tapas)",
+   "year": 2024,
+   "published": {
+    "start_date": "2024-10-11",
+    "end_date": null,
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": null
+   },
+   "status": "releasing",
+   "type": "manhua",
+   "content_rating": "safe",
+   "original_language": "ko",
+   "rating": 60.5333333333333,
+   "publishers": [
+    {
+     "id": 1958,
+     "name": "BiliBili",
+     "canonical_url": "https://mangabaka.org/publisher/1958/BiliBili",
+     "language": "ko",
+     "note": null,
+     "type": "Original"
+    },
+    {
+     "id": 4294,
+     "name": "iQIYI",
+     "canonical_url": "https://mangabaka.org/publisher/4294/iQIYI",
+     "language": "ko",
+     "note": "Defunct",
+     "type": "Original"
+    },
+    {
+     "id": 1176,
+     "name": "KuaiKan",
+     "canonical_url": "https://mangabaka.org/publisher/1176/KuaiKan",
+     "language": "ko",
+     "note": null,
+     "type": "Original"
+    },
+    {
+     "id": 5032,
+     "name": "MangaToon",
+     "canonical_url": "https://mangabaka.org/publisher/5032/MangaToon",
+     "language": "en",
+     "note": null,
+     "type": "English"
+    },
+    {
+     "id": 5256,
+     "name": "Tapas",
+     "canonical_url": "https://mangabaka.org/publisher/5256/Tapas",
+     "language": "en",
+     "note": null,
+     "type": "English"
+    },
+    {
+     "id": 6323,
+     "name": "Tencent Animation and Comics",
+     "canonical_url": "https://mangabaka.org/publisher/6323/Tencent-Animation-and-Comics",
+     "language": "ko",
+     "note": null,
+     "type": "Original"
+    }
+   ],
+   "genres": [
+    "action",
+    "drama",
+    "fantasy",
+    "shounen"
+   ],
+   "tags": [
+    "Long Strip",
+    "Webtoons",
+    "Full Color",
+    "Manhua"
+   ]
+  }
+ ]
+}

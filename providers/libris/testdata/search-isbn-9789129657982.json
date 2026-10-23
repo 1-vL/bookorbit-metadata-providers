@@ -1,0 +1,468 @@
+{
+ "@type": "PartialCollectionView",
+ "totalItems": 2,
+ "items": [
+  {
+   "extent": [
+    {
+     "@type": "Extent",
+     "label": "256 sidor"
+    }
+   ],
+   "@type": "PhysicalResource",
+   "instanceOf": {
+    "contribution": [
+     {
+      "agent": {
+       "@type": "Person",
+       "familyName": "Lindgren",
+       "givenName": "Astrid"
+      },
+      "role": [
+       {
+        "code": "aut",
+        "@type": "Role",
+        "@id": "https://id.kb.se/relator/author",
+        "prefLabelByLang": {
+         "sv": "Författare",
+         "en": "Author"
+        }
+       }
+      ],
+      "@type": "PrimaryContribution"
+     },
+     {
+      "agent": {
+       "@type": "Person",
+       "familyName": "Wikland",
+       "givenName": "Ilon"
+      },
+      "role": [
+       {
+        "code": "ill",
+        "@type": "Role",
+        "@id": "https://id.kb.se/relator/illustrator",
+        "prefLabelByLang": {
+         "sv": "Illustratör",
+         "en": "Illustrator"
+        }
+       }
+      ],
+      "@type": "Contribution"
+     }
+    ],
+    "@type": "Monograph",
+    "language": [
+     {
+      "code": "swe",
+      "@type": "Language",
+      "@id": "https://id.kb.se/language/swe",
+      "prefLabelByLang": {
+       "sv": "Svenska",
+       "en": "Swedish"
+      },
+      "sameAs": [
+       {
+        "@id": "https://id.kb.se/i18n/lang/sv"
+       }
+      ]
+     }
+    ],
+    "category": [
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Skönlitteratur",
+      "@id": "https://id.kb.se/term/saogf/Sk%C3%B6nlitteratur",
+      "prefLabelByLang": {
+       "en": "Literature"
+      }
+     },
+     {
+      "code": "txt",
+      "@type": "ContentType",
+      "@id": "https://id.kb.se/term/rda/Text",
+      "prefLabelByLang": {
+       "sv": "Text",
+       "en": "Text"
+      }
+     }
+    ]
+   },
+   "publication": [
+    {
+     "agent": {
+      "@type": "Agent",
+      "label": "Rabén & Sjögren"
+     },
+     "year": "2004",
+     "@type": "PrimaryPublication"
+    }
+   ],
+   "@id": "https://libris.kb.se/cwn6mbnj9t696876#it",
+   "hasTitle": [
+    {
+     "@type": "Title",
+     "mainTitle": "Bröderna Lejonhjärta"
+    }
+   ],
+   "identifiedBy": [
+    {
+     "@type": "ISBN",
+     "qualifier": [
+      "halvklotband"
+     ],
+     "value": "9789129657982"
+    },
+    {
+     "@type": "ISBN",
+     "value": "9129657989"
+    }
+   ],
+   "summary": [
+    {
+     "@type": "Summary",
+     "label": "Astrid Lindgrens samlingsbibliotekSamla alla Astrid Lindgrens böcker! I mer än ett halvt sekel har Astrid Lindgrens böcker ingått i vårt svenska kulturarv. Nu när hon är borta kan vi inte längre hoppas på fler böcker, men de som finns lever. Och de ska fortsätta att leva länge, länge.Nu ger Rabén & Sjögren ut ett samlingsbibliotek med hennes barn- och ungdomsböcker i vackra volymer som kommer att inta sin självklara plats i vår svenska litteraturskatt. För första gången finns alla Astrid Lindgrens barn- och ungdomsböcker från Rabén & Sjögren i en enhetlig och påkostad samlarserie att bevara för kommande generationer. Serien kommer att innehålla 29 titlar och böckerna ges ut i (nästan) den ordning de ursprungligen kom ut.[Bokinfo]"
+    }
+   ],
+   "seriesMembership": [
+    {
+     "seriesStatement": [
+      "Astrid Lindgrens samlingsbibliotek"
+     ],
+     "@type": "SeriesMembership"
+    }
+   ],
+   "category": [
+    {
+     "code": "nc",
+     "@type": "CarrierType",
+     "@id": "https://id.kb.se/term/rda/Volume",
+     "prefLabelByLang": {
+      "sv": "Volym",
+      "en": "Volume"
+     }
+    },
+    {
+     "@type": "CarrierForm",
+     "@id": "https://id.kb.se/term/saobf/Print",
+     "prefLabelByLang": {
+      "sv": "Tryck",
+      "en": "Print"
+     }
+    }
+   ]
+  },
+  {
+   "extent": [
+    {
+     "@type": "Extent",
+     "label": [
+      "248, [2] s."
+     ]
+    }
+   ],
+   "@type": "PhysicalResource",
+   "instanceOf": {
+    "@type": "Monograph",
+    "subject": [
+     {
+      "@type": "Topic",
+      "prefLabel": "Bröder",
+      "@id": "https://id.kb.se/term/barn/Br%C3%B6der"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Ondska",
+      "@id": "https://id.kb.se/term/barn/Ondska"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Döden",
+      "@id": "https://id.kb.se/term/barn/D%C3%B6den"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Modig",
+      "@id": "https://id.kb.se/term/barn/Modig"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Frihetskamp",
+      "@id": "https://id.kb.se/term/barn/Frihetskamp"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Förtryck",
+      "@id": "https://id.kb.se/term/barn/F%C3%B6rtryck"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Godhet",
+      "@id": "https://id.kb.se/term/barn/Godhet"
+     },
+     {
+      "@type": "Geographic",
+      "prefLabel": "Nangijala (fiktiv plats)"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Attitude to death: novels"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Death: novels"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Medicine in literature"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Syskon",
+      "@id": "https://id.kb.se/term/barn/Syskon"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Syskonkärlek",
+      "@id": "https://id.kb.se/term/barn/Syskonk%C3%A4rlek"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Rädd",
+      "@id": "https://id.kb.se/term/barn/R%C3%A4dd"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Ensamhet",
+      "@id": "https://id.kb.se/term/barn/Ensamhet"
+     }
+    ],
+    "language": [
+     {
+      "code": "swe",
+      "@type": "Language",
+      "@id": "https://id.kb.se/language/swe",
+      "prefLabelByLang": {
+       "sv": "Svenska",
+       "en": "Swedish"
+      },
+      "sameAs": [
+       {
+        "@id": "https://id.kb.se/i18n/lang/sv"
+       }
+      ]
+     }
+    ],
+    "contribution": [
+     {
+      "agent": {
+       "lifeSpan": "1907-2002",
+       "@type": "Person",
+       "familyName": "Lindgren",
+       "givenName": "Astrid",
+       "@id": "https://libris.kb.se/fcrtpljz1qp2bdv#it"
+      },
+      "role": {
+       "code": "aut",
+       "@type": "Role",
+       "@id": "https://id.kb.se/relator/author",
+       "prefLabelByLang": {
+        "sv": "Författare",
+        "en": "Author"
+       }
+      },
+      "@type": "PrimaryContribution"
+     }
+    ],
+    "@id": "https://libris.kb.se/9s2g6qpm77pm4x42#it",
+    "hasTitle": [
+     {
+      "@type": "Title",
+      "mainTitle": "Bröderna Lejonhjärta"
+     }
+    ],
+    "category": [
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Filmade böcker",
+      "@id": "https://id.kb.se/term/barngf/Filmade%20b%C3%B6cker"
+     },
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Skönlitteratur",
+      "@id": "https://id.kb.se/term/saogf/Sk%C3%B6nlitteratur",
+      "prefLabelByLang": {
+       "en": "Literature"
+      }
+     },
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Fantasy",
+      "@id": "https://id.kb.se/term/barngf/Fantasy"
+     },
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Barn- och ungdomslitteratur",
+      "@id": "https://id.kb.se/term/barngf/Barn-%20och%20ungdomslitteratur",
+      "prefLabelByLang": {
+       "en": "Children’s and young adult literature"
+      }
+     },
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Kapitelböcker",
+      "@id": "https://id.kb.se/term/barngf/Kapitelb%C3%B6cker",
+      "prefLabelByLang": {
+       "en": "Chapter books"
+      }
+     },
+     {
+      "code": "txt",
+      "@type": "ContentType",
+      "@id": "https://id.kb.se/term/rda/Text",
+      "prefLabelByLang": {
+       "sv": "Text",
+       "en": "Text"
+      }
+     }
+    ]
+   },
+   "contribution": [
+    {
+     "agent": {
+      "lifeSpan": "1930-",
+      "@type": "Person",
+      "familyName": "Wikland",
+      "givenName": "Ilon",
+      "@id": "https://libris.kb.se/1zcfbbsk25mq52w#it"
+     },
+     "role": [
+      {
+       "code": "ill",
+       "@type": "Role",
+       "@id": "https://id.kb.se/relator/illustrator",
+       "prefLabelByLang": {
+        "sv": "Illustratör",
+        "en": "Illustrator"
+       }
+      }
+     ],
+     "@type": "Contribution"
+    }
+   ],
+   "publication": [
+    {
+     "agent": {
+      "@type": "Agent",
+      "label": [
+       "Rabén & Sjögren"
+      ]
+     },
+     "year": "2003",
+     "@type": "PrimaryPublication"
+    }
+   ],
+   "@id": "https://libris.kb.se/gzrq1kqs0c18tgv#it",
+   "hasTitle": [
+    {
+     "@type": "Title",
+     "mainTitle": "Bröderna Lejonhjärta"
+    }
+   ],
+   "identifiedBy": [
+    {
+     "@type": "ISBN",
+     "qualifier": [
+      "inb."
+     ],
+     "value": "9129657989"
+    },
+    {
+     "@type": "ISBN",
+     "qualifier": [
+      "inb.) (2. tr."
+     ],
+     "value": "9789129657982"
+    }
+   ],
+   "hasNote": [
+    {
+     "@type": "Note",
+     "label": [
+      "Originalupplaga 1973"
+     ]
+    },
+    {
+     "@type": "Note",
+     "label": [
+      "2. tr., 2006 ; 3. tr., 2007 ; 9. tr., 2014 (Lettland)"
+     ]
+    }
+   ],
+   "illustrativeContent": [
+    {
+     "code": "a",
+     "@type": "marc:BooksIllustrationsType",
+     "@id": "https://id.kb.se/marc/Illustration",
+     "prefLabelByLang": {
+      "sv": "Illustrationer finns men typen specificeras ej",
+      "en": "Illustrations"
+     }
+    }
+   ],
+   "seriesMembership": [
+    {
+     "seriesStatement": [
+      "Astrid Lindgrens samlingsbibliotek"
+     ],
+     "@type": "SeriesMembership"
+    },
+    {
+     "inSeries": {
+      "@type": "Instance",
+      "instanceOf": {
+       "contribution": [
+        {
+         "agent": {
+          "lifeSpan": "1907-2002.",
+          "@type": "Person",
+          "familyName": "Lindgren",
+          "givenName": "Astrid"
+         },
+         "@type": "PrimaryContribution"
+        }
+       ],
+       "@type": "Work",
+       "hasTitle": [
+        {
+         "@type": "Title",
+         "mainTitle": "Astrid Lindgrens samlingsbibliotek"
+        }
+       ]
+      }
+     },
+     "@type": "SeriesMembership"
+    }
+   ],
+   "category": [
+    {
+     "@type": "CarrierForm",
+     "@id": "https://id.kb.se/term/saobf/Print",
+     "prefLabelByLang": {
+      "sv": "Tryck",
+      "en": "Print"
+     }
+    },
+    {
+     "code": "nc",
+     "@type": "CarrierType",
+     "@id": "https://id.kb.se/term/rda/Volume",
+     "prefLabelByLang": {
+      "sv": "Volym",
+      "en": "Volume"
+     }
+    }
+   ]
+  }
+ ]
+}

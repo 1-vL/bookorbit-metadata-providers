@@ -1,0 +1,4 @@
+HTTP/2 301
+location: https://book.douban.com/subject/6082808/
+
+Your browser should have redirected you to https://book.douban.com/subject/6082808/

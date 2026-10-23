@@ -1,0 +1,298 @@
+{
+ "@id": "https://libris.kb.se/7jf33fwr5rfk3b87",
+ "@type": "Record",
+ "mainEntity": {
+  "@id": "https://libris.kb.se/7jf33fwr5rfk3b87#it",
+  "@type": "DigitalResource",
+  "extent": [
+   {
+    "@type": "Extent",
+    "label": "13283 sek."
+   }
+  ],
+  "summary": [
+   {
+    "@type": "Summary",
+    "label": "Pippi Långstrump är den starkaste och snällaste och roligaste och rikaste flickan i hela världen. Hon bor alldeles ensam i Villa Villekulla med sin häst och sin apa Herr Nilsson. En hel kappsäck full med gullpengar har hon också. I huset bredvid bor Tommy och Annika, och sedan Pippi flyttade in har allt blivit mycket roligare! För Pippi bakar pepparkakor direkt på golvet, hon kan lyfta sin häst på rak arm och hon leker kull med poliser när de kommer och vill hämta henne till ett barnhem. Här kan du höra allt om detta och om ännu fler av Pippis roliga påhitt tillsammans med Tommy och Annika.[WeDoBooks]"
+   }
+  ],
+  "category": [
+   {
+    "@id": "https://id.kb.se/term/rda/OnlineResource",
+    "code": "cr",
+    "@type": "CarrierType",
+    "prefLabelByLang": {
+     "en": "Online resource",
+     "sv": "Onlineresurs"
+    }
+   }
+  ],
+  "hasTitle": [
+   {
+    "@type": "Title",
+    "mainTitle": "Pippi Långstrump"
+   }
+  ],
+  "instanceOf": {
+   "@type": "Monograph",
+   "summary": [
+    {
+     "@type": "Summary",
+     "label": "Pippi Långstrump är den starkaste och snällaste och roligaste och rikaste flickan i hela världen. Hon bor alldeles ensam i Villa Villekulla med sin häst och sin apa Herr Nilsson. En hel kappsäck full med gullpengar har hon också. I huset bredvid bor Tommy och Annika, och sedan Pippi flyttade in har allt blivit mycket roligare! För Pippi bakar pepparkakor direkt på golvet, hon kan lyfta sin häst på rak arm och hon leker kull med poliser när de kommer och vill hämta henne till ett barnhem. Här kan du höra allt om detta och om ännu fler av Pippis roliga påhitt tillsammans med Tommy och Annika. [Elib]"
+    }
+   ],
+   "category": [
+    {
+     "@id": "https://id.kb.se/marc/Fiction",
+     "@type": "marc:MusicTextType",
+     "prefLabelByLang": {
+      "en": "Fiction",
+      "sv": "Skönlitterär prosa"
+     }
+    },
+    {
+     "@id": "https://id.kb.se/term/saogf/Ljudb%C3%B6cker",
+     "@type": "GenreForm",
+     "prefLabel": "Ljudböcker",
+     "scopeNote": [
+      "Genre/formterm."
+     ],
+     "prefLabelByLang": {
+      "en": "Audiobooks"
+     },
+     "singularLabelByLang": {
+      "en": "Audiobook",
+      "sv": "Ljudbok"
+     }
+    },
+    {
+     "@id": "https://id.kb.se/term/barngf/Barn-%20och%20ungdomslitteratur",
+     "@type": "GenreForm",
+     "prefLabel": "Barn- och ungdomslitteratur",
+     "scopeNote": [
+      "Genre/formterm."
+     ],
+     "altLabelByLang": {
+      "en": [
+       "Children’s literature",
+       "Juvenile literature"
+      ]
+     },
+     "prefLabelByLang": {
+      "en": "Children’s and young adult literature"
+     }
+    },
+    {
+     "@id": "https://id.kb.se/term/ktg/Audio",
+     "@type": "WorkCategory",
+     "prefLabelByLang": {
+      "en": "Audio",
+      "sv": "Ljud"
+     }
+    }
+   ],
+   "language": [
+    {
+     "@id": "https://id.kb.se/language/swe",
+     "code": "swe",
+     "@type": "Language",
+     "sameAs": [
+      {
+       "@id": "https://id.kb.se/i18n/lang/sv"
+      }
+     ],
+     "langTag": "sv",
+     "prefLabelByLang": {
+      "de": "Schwedisch",
+      "en": "Swedish",
+      "fr": "suédois",
+      "sv": "Svenska"
+     }
+    }
+   ],
+   "contribution": [
+    {
+     "role": [
+      {
+       "@id": "https://id.kb.se/relator/author",
+       "code": "aut",
+       "@type": "Role",
+       "domain": [
+        {
+         "@id": "https://id.kb.se/vocab/Work"
+        }
+       ],
+       "prefLabelByLang": {
+        "de": "Verfasser",
+        "en": "Author",
+        "fi": "kirjoittaja",
+        "sv": "Författare"
+       },
+       "definitionByLang": {
+        "sv": "Agent som 1) skapar ett verk som huvudsakligen består av text, oavsett medietyp (t.ex. tryckt text, talade ord, elektronisk text, taktil text) eller genre, (t.ex. dikter, romaner, filmmanus, bloggar), eller 2) agent som skapar ett nytt verk genom att parafrasera, skriva om eller anpassa ett annat verk så att dess innehåll, natur eller uttrycksmedium väsentligen förändras."
+       },
+       "equivalentProperty": [
+        {
+         "@id": "http://id.loc.gov/vocabulary/relators/aut"
+        }
+       ]
+      }
+     ],
+     "@type": "PrimaryContribution",
+     "agent": {
+      "@id": "https://libris.kb.se/fcrtpljz1qp2bdv#it",
+      "@type": "Person",
+      "seeAlso": [
+       {
+        "@id": "https://libris.kb.se/rp3698v938cs2l0#it",
+        "@type": "Person",
+        "familyName": "Lindgren",
+        "givenName": "Marianne"
+       },
+       {
+        "uri": [
+         "http://sv.wikipedia.org/wiki/Astrid_Lindgren"
+        ],
+        "@type": "Document"
+       }
+      ],
+      "lifeSpan": "1907-2002",
+      "givenName": "Astrid",
+      "familyName": "Lindgren",
+      "description": [
+       "Skönlitterär författare av barn- och ungdomsböcker. Född Ericsson. Översatte några Nicke Nyfikenböcker under den med Marianne Eriksson gemensamma pseudonymen Marianne Lindgren."
+      ],
+      "nationality": [
+       {
+        "@id": "https://id.kb.se/nationality/e-sw---",
+        "@type": "Nationality",
+        "prefLabelByLang": {
+         "en": "Sweden",
+         "sv": "Sverige"
+        },
+        "code": "e-sw---"
+       }
+      ],
+      "identifiedBy": [
+       {
+        "@type": "VIAF",
+        "value": "97119817"
+       },
+       {
+        "@type": "ISNI",
+        "value": "0000000084029206"
+       }
+      ]
+     }
+    },
+    {
+     "role": [
+      {
+       "@id": "https://id.kb.se/relator/narrator",
+       "code": "nrt",
+       "@type": "Role",
+       "domain": [
+        {
+         "@id": "https://id.kb.se/vocab/Work"
+        }
+       ],
+       "altLabelByLang": {
+        "sv": "Inläsare"
+       },
+       "prefLabelByLang": {
+        "de": "Sprecher",
+        "en": "Narrator",
+        "fi": "lukija",
+        "sv": "Berättare"
+       },
+       "scopeNoteByLang": {
+        "sv": "Används även för kåsörer och inläsare eller uppläsare av tal- och ljudböcker, etc."
+       },
+       "definitionByLang": {
+        "sv": "Agent som bidrar till en resurs genom att läsa eller tala för att redogöra för en handling, en händelse, ett händelseförlopp etc."
+       },
+       "equivalentProperty": [
+        {
+         "@id": "http://id.loc.gov/vocabulary/relators/nrt"
+        }
+       ]
+      }
+     ],
+     "@type": "Contribution",
+     "agent": {
+      "@id": "https://libris.kb.se/fcrtpljz1qp2bdv#it",
+      "@type": "Person",
+      "seeAlso": [
+       {
+        "@id": "https://libris.kb.se/rp3698v938cs2l0#it",
+        "@type": "Person",
+        "familyName": "Lindgren",
+        "givenName": "Marianne"
+       },
+       {
+        "uri": [
+         "http://sv.wikipedia.org/wiki/Astrid_Lindgren"
+        ],
+        "@type": "Document"
+       }
+      ],
+      "lifeSpan": "1907-2002",
+      "givenName": "Astrid",
+      "familyName": "Lindgren",
+      "description": [
+       "Skönlitterär författare av barn- och ungdomsböcker. Född Ericsson. Översatte några Nicke Nyfikenböcker under den med Marianne Eriksson gemensamma pseudonymen Marianne Lindgren."
+      ],
+      "nationality": [
+       {
+        "@id": "https://id.kb.se/nationality/e-sw---",
+        "@type": "Nationality",
+        "prefLabelByLang": {
+         "en": "Sweden",
+         "sv": "Sverige"
+        },
+        "code": "e-sw---"
+       }
+      ],
+      "identifiedBy": [
+       {
+        "@type": "VIAF",
+        "value": "97119817"
+       },
+       {
+        "@type": "ISNI",
+        "value": "0000000084029206"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "publication": [
+   {
+    "year": "2019",
+    "@type": "PrimaryPublication",
+    "agent": {
+     "@type": "Agent",
+     "label": "Astrid Lindgren AB"
+    }
+   }
+  ],
+  "identifiedBy": [
+   {
+    "@type": "ISBN",
+    "value": "9789198119237"
+   }
+  ],
+  "isPrimaryTopicOf": [
+   {
+    "uri": [
+     "https://bookbites-prod-se.covers.bookbites.com/9789198119237"
+    ],
+    "@type": "Document",
+    "cataloguersNote": [
+     "digipic"
+    ]
+   }
+  ]
+ }
+}

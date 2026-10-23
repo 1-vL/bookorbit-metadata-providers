@@ -1,0 +1,423 @@
+{
+ "@id": "https://libris.kb.se/v61jx8fbsd06xtgv",
+ "@type": "Record",
+ "mainEntity": {
+  "@id": "https://libris.kb.se/v61jx8fbsd06xtgv#it",
+  "@type": "PhysicalResource",
+  "extent": [
+   {
+    "@type": "Extent",
+    "label": "135 sidor"
+   }
+  ],
+  "hasNote": [
+   {
+    "@type": "Note",
+    "label": "Originalupplaga 1945"
+   }
+  ],
+  "summary": [
+   {
+    "@type": "Summary",
+    "label": "Pippi Långstrump är den allra första boken om Pippi Långstrump, den starkaste och snällaste och roligaste och rikaste flickan i hela världen. Hon bor i Villa Villekulla med sin häst och sin apa. En kappsäck full med gullpengar har hon också. I huset bredvid bor Tommy och Annika, och sedan Pippi flyttade in har allt blivit mycket roligare!"
+   }
+  ],
+  "category": [
+   {
+    "@id": "https://id.kb.se/term/rda/Volume",
+    "code": "nc",
+    "@type": "CarrierType",
+    "prefLabelByLang": {
+     "en": "Volume",
+     "sv": "Volym"
+    }
+   },
+   {
+    "@id": "https://id.kb.se/term/saobf/Print",
+    "@type": "CarrierForm",
+    "prefLabelByLang": {
+     "en": "Print",
+     "sv": "Tryck"
+    }
+   }
+  ],
+  "hasTitle": [
+   {
+    "@type": "Title",
+    "mainTitle": "Pippi Långstrump"
+   }
+  ],
+  "instanceOf": {
+   "@id": "https://libris.kb.se/h08ndxppf96q96ff#it",
+   "@type": "Monograph",
+   "subject": [
+    {
+     "@id": "https://id.kb.se/term/barn/Sj%C3%A4lvst%C3%A4ndig",
+     "@type": "Topic",
+     "prefLabel": "Självständig",
+     "scopeNote": [
+      "Ändrat från Självständiga barn 200909"
+     ]
+    },
+    {
+     "@id": "https://id.kb.se/term/barn/Busig",
+     "@type": "Topic",
+     "prefLabel": "Busig"
+    },
+    {
+     "@id": "https://id.kb.se/term/barn/Fr%C3%A5nvarande%20f%C3%B6r%C3%A4ldrar",
+     "@type": "Topic",
+     "prefLabel": "Frånvarande föräldrar"
+    },
+    {
+     "@id": "https://libris.kb.se/tr58c81c0qskgn8#it",
+     "@type": "Person",
+     "givenName": "Pippi",
+     "familyName": "Långstrump",
+     "description": [
+      "Fiktiv gestalt skapad av Astrid Lindgren. Förekommer i såväl litteratur som film."
+     ]
+    },
+    {
+     "@id": "https://id.kb.se/term/barn/Flickor",
+     "@type": "Topic",
+     "prefLabel": "Flickor"
+    }
+   ],
+   "category": [
+    {
+     "@id": "https://id.kb.se/term/saogf/Sk%C3%B6nlitteratur",
+     "@type": "GenreForm",
+     "prefLabel": "Skönlitteratur",
+     "scopeNote": [
+      "Genre/formterm för skönlitteratur.",
+      "Används för skönlitterära resurser där en mer specifik term inte går att använda eller för resurser bestående av flera skönlitterära genrer som inte går att sammanfatta enligt SAOGF:s riktlinjer."
+     ],
+     "altLabelByLang": {
+      "en": "Fiction literature"
+     },
+     "prefLabelByLang": {
+      "en": "Literature"
+     }
+    },
+    {
+     "@id": "https://id.kb.se/term/barngf/Barn-%20och%20ungdomslitteratur",
+     "@type": "GenreForm",
+     "prefLabel": "Barn- och ungdomslitteratur",
+     "scopeNote": [
+      "Genre/formterm."
+     ],
+     "altLabelByLang": {
+      "en": [
+       "Children’s literature",
+       "Juvenile literature"
+      ]
+     },
+     "prefLabelByLang": {
+      "en": "Children’s and young adult literature"
+     }
+    },
+    {
+     "@id": "https://id.kb.se/term/barngf/Kapitelb%C3%B6cker",
+     "@type": "GenreForm",
+     "prefLabel": "Kapitelböcker",
+     "scopeNote": [
+      "Genreämnesord för barn- och ungdomslitteratur.",
+      "Böcker för barn upp till 9 år, oftast med kapitelindelning (Hcf). Jfr Mellanåldersböcker"
+     ],
+     "prefLabelByLang": {
+      "en": "Chapter books"
+     }
+    },
+    {
+     "@id": "https://id.kb.se/term/rda/Text",
+     "code": "txt",
+     "@type": "ContentType",
+     "prefLabelByLang": {
+      "en": "Text",
+      "sv": "Text"
+     }
+    }
+   ],
+   "hasTitle": [
+    {
+     "@type": "Title",
+     "source": [
+      {
+       "@id": "https://libris.kb.se/2kc7zbnd3c9sqxf#it",
+       "@type": "PhysicalResource",
+       "extent": [
+        {
+         "@type": "Extent",
+         "label": [
+          "126, [1] s."
+         ]
+        }
+       ],
+       "category": [
+        {
+         "@id": "https://id.kb.se/term/saobf/Print",
+         "@type": "CarrierForm",
+         "prefLabelByLang": {
+          "en": "Print",
+          "sv": "Tryck"
+         }
+        },
+        {
+         "@id": "https://id.kb.se/term/rda/Volume",
+         "code": "nc",
+         "@type": "CarrierType",
+         "prefLabelByLang": {
+          "en": "Volume",
+          "sv": "Volym"
+         }
+        }
+       ],
+       "hasTitle": [
+        {
+         "@type": "Title",
+         "mainTitle": "Pippi Långstrump"
+        }
+       ],
+       "instanceOf": {
+        "@id": "https://libris.kb.se/h08ndxppf96q96ff#it"
+       },
+       "publication": [
+        {
+         "year": "1978",
+         "@type": "PrimaryPublication",
+         "agent": {
+          "@type": "Agent",
+          "label": [
+           "Rabén & Sjögren"
+          ]
+         }
+        }
+       ],
+       "contribution": [
+        {
+         "role": [
+          {
+           "@id": "https://id.kb.se/relator/illustrator"
+          },
+          {
+           "@id": "https://id.kb.se/relator/primaryRightsHolder"
+          }
+         ],
+         "@type": "Contribution",
+         "agent": {
+          "@id": "https://libris.kb.se/jgvxtq725k4836h#it"
+         }
+        }
+       ],
+       "identifiedBy": [
+        {
+         "@type": "ISBN",
+         "value": "9129527996",
+         "qualifier": [
+          "INB."
+         ]
+        }
+       ]
+      }
+     ],
+     "mainTitle": "Pippi Långstrump"
+    }
+   ],
+   "language": [
+    {
+     "@id": "https://id.kb.se/language/swe",
+     "code": "swe",
+     "@type": "Language",
+     "sameAs": [
+      {
+       "@id": "https://id.kb.se/i18n/lang/sv"
+      }
+     ],
+     "langTag": "sv",
+     "prefLabelByLang": {
+      "de": "Schwedisch",
+      "en": "Swedish",
+      "fr": "suédois",
+      "sv": "Svenska"
+     }
+    }
+   ],
+   "contribution": [
+    {
+     "role": {
+      "@id": "https://id.kb.se/relator/author",
+      "code": "aut",
+      "@type": "Role",
+      "domain": [
+       {
+        "@id": "https://id.kb.se/vocab/Work"
+       }
+      ],
+      "prefLabelByLang": {
+       "de": "Verfasser",
+       "en": "Author",
+       "fi": "kirjoittaja",
+       "sv": "Författare"
+      },
+      "definitionByLang": {
+       "sv": "Agent som 1) skapar ett verk som huvudsakligen består av text, oavsett medietyp (t.ex. tryckt text, talade ord, elektronisk text, taktil text) eller genre, (t.ex. dikter, romaner, filmmanus, bloggar), eller 2) agent som skapar ett nytt verk genom att parafrasera, skriva om eller anpassa ett annat verk så att dess innehåll, natur eller uttrycksmedium väsentligen förändras."
+      },
+      "equivalentProperty": [
+       {
+        "@id": "http://id.loc.gov/vocabulary/relators/aut"
+       }
+      ]
+     },
+     "@type": "PrimaryContribution",
+     "agent": {
+      "@id": "https://libris.kb.se/fcrtpljz1qp2bdv#it",
+      "@type": "Person",
+      "seeAlso": [
+       {
+        "@id": "https://libris.kb.se/rp3698v938cs2l0#it",
+        "@type": "Person",
+        "familyName": "Lindgren",
+        "givenName": "Marianne"
+       },
+       {
+        "uri": [
+         "http://sv.wikipedia.org/wiki/Astrid_Lindgren"
+        ],
+        "@type": "Document"
+       }
+      ],
+      "lifeSpan": "1907-2002",
+      "givenName": "Astrid",
+      "familyName": "Lindgren",
+      "description": [
+       "Skönlitterär författare av barn- och ungdomsböcker. Född Ericsson. Översatte några Nicke Nyfikenböcker under den med Marianne Eriksson gemensamma pseudonymen Marianne Lindgren."
+      ],
+      "nationality": [
+       {
+        "@id": "https://id.kb.se/nationality/e-sw---",
+        "@type": "Nationality",
+        "prefLabelByLang": {
+         "en": "Sweden",
+         "sv": "Sverige"
+        },
+        "code": "e-sw---"
+       }
+      ],
+      "identifiedBy": [
+       {
+        "@type": "VIAF",
+        "value": "97119817"
+       },
+       {
+        "@type": "ISNI",
+        "value": "0000000084029206"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "publication": [
+   {
+    "date": [
+     "[2020]"
+    ],
+    "year": "2020",
+    "@type": "PrimaryPublication",
+    "agent": {
+     "@type": "Agent",
+     "label": "Rabén & Sjögren"
+    }
+   }
+  ],
+  "contribution": [
+   {
+    "role": [
+     {
+      "@id": "https://id.kb.se/relator/illustrator",
+      "code": "ill",
+      "@type": "Role",
+      "domain": [
+       {
+        "@id": "https://id.kb.se/vocab/Creation"
+       }
+      ],
+      "prefLabelByLang": {
+       "en": "Illustrator",
+       "fi": "kuvittaja",
+       "sv": "Illustratör"
+      },
+      "scopeNoteByLang": {
+       "sv": "Om verket huvudsakligen är det konstnärliga innehåll som skapats av denna agent, använd Konstnär eller Fotograf."
+      },
+      "definitionByLang": {
+       "sv": "Agent som bidrar till en resurs med illustrationer, bilder, teckningar, diagram, fotografier etc."
+      },
+      "equivalentProperty": [
+       {
+        "@id": "http://id.loc.gov/vocabulary/relators/ill"
+       }
+      ]
+     },
+     {
+      "@id": "https://id.kb.se/relator/primaryRightsHolder",
+      "code": "9pu",
+      "@type": "Role",
+      "domain": [
+       {
+        "@id": "https://id.kb.se/vocab/Creation"
+       }
+      ],
+      "commentByLang": {
+       "sv": "Obsolet. Använd ej."
+      },
+      "prefLabelByLang": {
+       "sv": "Primärt upphovsansvarig"
+      },
+      "definitionByLang": {
+       "sv": "LIBRIS-definierad kod. Användes tidigare av Kungliga biblioteket."
+      }
+     }
+    ],
+    "@type": "Contribution",
+    "agent": {
+     "@id": "https://libris.kb.se/jgvxtq725k4836h#it",
+     "@type": "Person",
+     "lifeSpan": "1916-1959",
+     "givenName": "Ingrid",
+     "familyName": "Vang Nyman",
+     "description": [
+      "Dansk konstnär, verksam i Sverige 1940-54. Känd som illustratör till flera Astrid Lindgren-böcker, främst \"Pippi Långstrump\""
+     ],
+     "nationality": [
+      {
+       "@id": "https://id.kb.se/nationality/e-dk---",
+       "@type": "Nationality",
+       "prefLabelByLang": {
+        "en": "Denmark",
+        "sv": "Danmark"
+       },
+       "code": "e-dk---"
+      }
+     ],
+     "identifiedBy": [
+      {
+       "@type": "ISNI",
+       "value": "0000000081566495"
+      }
+     ]
+    }
+   }
+  ],
+  "identifiedBy": [
+   {
+    "@type": "ISBN",
+    "value": "9789129723632",
+    "qualifier": [
+     "inbunden"
+    ]
+   }
+  ]
+ }
+}

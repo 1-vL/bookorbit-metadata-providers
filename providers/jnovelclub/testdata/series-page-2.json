@@ -1,0 +1,101 @@
+{
+ "series": [
+  {
+   "id": "SER-CRHCSBA",
+   "type": "MANGA",
+   "title": "Crybaby Love Song",
+   "originalTitle": "あまえんぼとラブソング",
+   "slug": "crybaby-love-song",
+   "hidden": false,
+   "description": "For high school saxophonist Kodai, music was always his escape. Or it was, until a devastating anxiety attack onstage cost his band a competition.\n\nNow forced to confront his mother’s remarriage with no way out, he finds himself with a new family and a new stepbrother, the gloomy and withdrawn Fuyuki. Yet beneath that intimidating exterior lies a gentle, guitar-loving soul.\n\nAs Fuyuki helps Kodai overcome his fear of performing, gratitude deepens into something far deeper - and far more complicated. But when it comes time for Kodai to help Fuyuki face the trauma that silenced his own music, will their bond strike a powerful new chord or will it collapse beneath the pressure?",
+   "tags": [
+    "high school",
+    "drama",
+    "romance",
+    "music",
+    "coming of age",
+    "BL",
+    "j-novel knight",
+    "step-siblings",
+    "performing"
+   ]
+  },
+  {
+   "id": "SER-Y47WOHQ",
+   "type": "NOVEL",
+   "title": "The Apothecary Diaries",
+   "originalTitle": "薬屋のひとりごと",
+   "slug": "the-apothecary-diaries",
+   "hidden": false,
+   "description": "In the East is a land ruled by an emperor, whose consorts and serving women live in a sprawling complex known as the hougong, the rear palace. Maomao, an unassuming girl raised in an unassuming town by her apothecary father, never imagined the rear palace would have anything to do with her - until she was kidnapped and sold into service there.\n\nThough she looks ordinary, Maomao has a quick wit, a sharp mind, and an extensive knowledge of medicine. That’s her secret, until she encounters a resident of the palace at least as perceptive as she is: the head eunuch, Jinshi. He sees through Maomao’s façade and makes her a lady-in-waiting to none other than the Emperor’s favorite consort… so she can taste the lady’s food for poison!\n\nAt her lady’s side, Maomao starts to learn about everything that goes on in the rear palace - not all of it seemly. Can she ever lead a quiet life, or will her powers of deduction and insatiable curiosity bring her ever more adventures, and ever more dangers?",
+   "tags": [
+    "mystery",
+    "anime",
+    "drama",
+    "female protagonist",
+    "history",
+    "eunuchs",
+    "print by square enix"
+   ]
+  },
+  {
+   "id": "SER-SKDIO7Y",
+   "type": "MANGA",
+   "title": "The Faraway Paladin (Manga)",
+   "originalTitle": "最果てのパラディン",
+   "slug": "the-faraway-paladin-manga",
+   "hidden": false,
+   "description": "A man dies alone after living a stagnant and fruitless life - but that's not where his story ends, as a boy named William is born into a land of fantasy and magic.\nRaised in a city of the dead by his new family - a mummy, a skeleton, and a ghost - he can remember glimpses of his past life, enough to know his time on Earth was wasted, and he vows not to let that happen again.\nSchooled in magic and combat, Will sets out on a journey to see the world. Along the way, he'll meet beings of all shapes and sizes. Each of these people has a story to tell and a lesson to teach Will about how to live his life to the fullest.",
+   "tags": [
+    "magic",
+    "available in print",
+    "fantasy",
+    "isekai",
+    "high fantasy"
+   ]
+  },
+  {
+   "id": "SER-WLIJ2YA",
+   "type": "NOVEL",
+   "title": "The Faraway Paladin",
+   "originalTitle": "最果てのパラディン",
+   "slug": "the-faraway-paladin",
+   "hidden": false,
+   "description": "In a city of the dead, long since ruined and far from human civilization, lives a single human child. His name is Will, and he's being raised by three undead: the hearty skeletal warrior, Blood; the graceful mummified priestess, Mary; and the crotchety spectral sorcerer, Gus. The three pour love into the boy, and teach him all they know. But one day, Will starts to wonder: \"Who am I?\"\nWill must unravel the mysteries of this faraway dead man's land, and unearth the secret pasts of the undead. He must learn the love and mercy of the good gods, and the bigotry and madness of the bad. And when he knows it all, the boy will take his first step on the path to becoming a Paladin.\n\"I promised you. It's gonna take a while, but I'll tell you everything. This is the story of the deaths of many heroes. It's the story of how we died, and it's the reason you grew up here.\"",
+   "tags": [
+    "available in print",
+    "anime",
+    "fantasy",
+    "sword",
+    "reincarnation",
+    "mythology",
+    "sorcery",
+    "medieval"
+   ]
+  },
+  {
+   "id": "SER-N6KH4FA",
+   "type": "NOVEL",
+   "title": "Grimgar of Fantasy and Ash",
+   "originalTitle": "灰と幻想のグリムガル",
+   "slug": "grimar-of-fantasy-and-ash",
+   "hidden": false,
+   "description": "Why are we doing this...?\nWhen Haruhiro came to, he was in the darkness. Not knowing why was he here, or where \"here\" even was. With him were others who also remembered little more than their own names. What they found when they came out of the underground was a world that was \"just like a game.\" In order to survive, Haruhiro forms a party with others in the same situation as him, learns Skills, and takes his first steps forward into the world of Grimgar as a Trainee Volunteer Soldier.\nNot knowing what awaits him... This is a tale of adventure born from the ashes.",
+   "tags": [
+    "party mechanics",
+    "RPG",
+    "anime",
+    "print by seven seas",
+    "fantasy",
+    "action",
+    "isekai",
+    "survival"
+   ]
+  }
+ ],
+ "pagination": {
+  "limit": 250,
+  "skip": 6,
+  "lastPage": true
+ }
+}

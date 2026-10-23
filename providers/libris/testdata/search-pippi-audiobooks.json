@@ -1,0 +1,982 @@
+{
+ "@type": "PartialCollectionView",
+ "totalItems": 150,
+ "items": [
+  {
+   "@type": "PhysicalResource",
+   "instanceOf": {
+    "contribution": [
+     {
+      "agent": {
+       "@type": "Person",
+       "familyName": "Lindgren",
+       "givenName": "Astrid"
+      },
+      "role": [
+       {
+        "code": "aut",
+        "@type": "Role",
+        "@id": "https://id.kb.se/relator/author",
+        "prefLabelByLang": {
+         "sv": "Författare",
+         "en": "Author"
+        }
+       }
+      ],
+      "@type": "PrimaryContribution"
+     }
+    ],
+    "@type": "Monograph",
+    "language": [
+     {
+      "code": "swe",
+      "@type": "Language",
+      "@id": "https://id.kb.se/language/swe",
+      "prefLabelByLang": {
+       "sv": "Svenska",
+       "en": "Swedish"
+      },
+      "sameAs": [
+       {
+        "@id": "https://id.kb.se/i18n/lang/sv"
+       }
+      ]
+     }
+    ],
+    "hasTitle": [
+     {
+      "@type": "Title",
+      "mainTitle": "Pippi Långstrump"
+     }
+    ],
+    "category": [
+     {
+      "singularLabelByLang": {
+       "sv": "Ljudbok",
+       "en": "Audiobook"
+      },
+      "@type": "GenreForm",
+      "prefLabel": "Ljudböcker",
+      "@id": "https://id.kb.se/term/saogf/Ljudb%C3%B6cker",
+      "prefLabelByLang": {
+       "en": "Audiobooks"
+      }
+     },
+     {
+      "code": "spw",
+      "@type": "ContentType",
+      "@id": "https://id.kb.se/term/rda/SpokenWord",
+      "prefLabelByLang": {
+       "sv": "Tal",
+       "en": "Spoken word"
+      }
+     }
+    ]
+   },
+   "publication": [
+    {
+     "agent": {
+      "@type": "Agent",
+      "label": "Rabén & Sjögren"
+     },
+     "year": "2005",
+     "@type": "PrimaryPublication"
+    }
+   ],
+   "@id": "https://libris.kb.se/vfp6g0vvspj0sfxm#it",
+   "hasTitle": [
+    {
+     "@type": "Title",
+     "mainTitle": "Pippi Långstrump",
+     "subtitle": "60 år"
+    }
+   ],
+   "category": [
+    {
+     "code": "sd",
+     "@type": "CarrierType",
+     "@id": "https://id.kb.se/term/rda/AudioDisc",
+     "prefLabelByLang": {
+      "sv": "Ljudskiva",
+      "en": "Audio disc"
+     }
+    }
+   ],
+   "identifiedBy": [
+    {
+     "@type": "ISBN",
+     "qualifier": [
+      "CD-skiva"
+     ],
+     "value": "9789173131469"
+    },
+    {
+     "@type": "ISBN",
+     "value": "9173131466"
+    }
+   ]
+  },
+  {
+   "extent": [
+    {
+     "@type": "Extent",
+     "label": "13283 sek."
+    }
+   ],
+   "summary": [
+    {
+     "@type": "Summary",
+     "label": "Pippi Långstrump är den starkaste och snällaste och roligaste och rikaste flickan i hela världen. Hon bor alldeles ensam i Villa Villekulla med sin häst och sin apa Herr Nilsson. En hel kappsäck full med gullpengar har hon också. I huset bredvid bor Tommy och Annika, och sedan Pippi flyttade in har allt blivit mycket roligare! För Pippi bakar pepparkakor direkt på golvet, hon kan lyfta sin häst på rak arm och hon leker kull med poliser när de kommer och vill hämta henne till ett barnhem. Här kan du höra allt om detta och om ännu fler av Pippis roliga påhitt tillsammans med Tommy och Annika.[WeDoBooks]"
+    }
+   ],
+   "@type": "DigitalResource",
+   "instanceOf": {
+    "summary": [
+     {
+      "@type": "Summary",
+      "label": "Pippi Långstrump är den starkaste och snällaste och roligaste och rikaste flickan i hela världen. Hon bor alldeles ensam i Villa Villekulla med sin häst och sin apa Herr Nilsson. En hel kappsäck full med gullpengar har hon också. I huset bredvid bor Tommy och Annika, och sedan Pippi flyttade in har allt blivit mycket roligare! För Pippi bakar pepparkakor direkt på golvet, hon kan lyfta sin häst på rak arm och hon leker kull med poliser när de kommer och vill hämta henne till ett barnhem. Här kan du höra allt om detta och om ännu fler av Pippis roliga påhitt tillsammans med Tommy och Annika. [Elib]"
+     }
+    ],
+    "contribution": [
+     {
+      "agent": {
+       "lifeSpan": "1907-2002",
+       "@type": "Person",
+       "familyName": "Lindgren",
+       "givenName": "Astrid",
+       "@id": "https://libris.kb.se/fcrtpljz1qp2bdv#it"
+      },
+      "role": [
+       {
+        "code": "aut",
+        "@type": "Role",
+        "@id": "https://id.kb.se/relator/author",
+        "prefLabelByLang": {
+         "sv": "Författare",
+         "en": "Author"
+        }
+       }
+      ],
+      "@type": "PrimaryContribution"
+     },
+     {
+      "agent": {
+       "lifeSpan": "1907-2002",
+       "@type": "Person",
+       "familyName": "Lindgren",
+       "givenName": "Astrid",
+       "@id": "https://libris.kb.se/fcrtpljz1qp2bdv#it"
+      },
+      "role": [
+       {
+        "code": "nrt",
+        "@type": "Role",
+        "@id": "https://id.kb.se/relator/narrator",
+        "prefLabelByLang": {
+         "sv": "Berättare",
+         "en": "Narrator"
+        },
+        "altLabelByLang": {
+         "sv": "Inläsare"
+        }
+       }
+      ],
+      "@type": "Contribution"
+     }
+    ],
+    "@type": "Monograph",
+    "language": [
+     {
+      "code": "swe",
+      "@type": "Language",
+      "@id": "https://id.kb.se/language/swe",
+      "prefLabelByLang": {
+       "sv": "Svenska",
+       "en": "Swedish"
+      },
+      "sameAs": [
+       {
+        "@id": "https://id.kb.se/i18n/lang/sv"
+       }
+      ]
+     }
+    ],
+    "category": [
+     {
+      "code": "f",
+      "@type": "marc:MusicTextType",
+      "@id": "https://id.kb.se/marc/Fiction",
+      "prefLabelByLang": {
+       "sv": "Skönlitterär prosa",
+       "en": "Fiction"
+      }
+     },
+     {
+      "singularLabelByLang": {
+       "sv": "Ljudbok",
+       "en": "Audiobook"
+      },
+      "@type": "GenreForm",
+      "prefLabel": "Ljudböcker",
+      "@id": "https://id.kb.se/term/saogf/Ljudb%C3%B6cker",
+      "prefLabelByLang": {
+       "en": "Audiobooks"
+      }
+     },
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Barn- och ungdomslitteratur",
+      "@id": "https://id.kb.se/term/barngf/Barn-%20och%20ungdomslitteratur",
+      "prefLabelByLang": {
+       "en": "Children’s and young adult literature"
+      }
+     },
+     {
+      "@type": "WorkCategory",
+      "@id": "https://id.kb.se/term/ktg/Audio",
+      "prefLabelByLang": {
+       "sv": "Ljud",
+       "en": "Audio"
+      }
+     }
+    ]
+   },
+   "publication": [
+    {
+     "agent": {
+      "@type": "Agent",
+      "label": "Astrid Lindgren AB"
+     },
+     "year": "2019",
+     "@type": "PrimaryPublication"
+    }
+   ],
+   "@id": "https://libris.kb.se/7jf33fwr5rfk3b87#it",
+   "hasTitle": [
+    {
+     "@type": "Title",
+     "mainTitle": "Pippi Långstrump"
+    }
+   ],
+   "category": [
+    {
+     "code": "cr",
+     "@type": "CarrierType",
+     "@id": "https://id.kb.se/term/rda/OnlineResource",
+     "prefLabelByLang": {
+      "sv": "Onlineresurs",
+      "en": "Online resource"
+     }
+    }
+   ],
+   "identifiedBy": [
+    {
+     "@type": "ISBN",
+     "value": "9789198119237"
+    },
+    {
+     "@type": "ISBN",
+     "value": "9198119230"
+    }
+   ]
+  },
+  {
+   "extent": [
+    {
+     "@type": "Extent",
+     "label": [
+      "1 CD-R"
+     ]
+    }
+   ],
+   "@type": "PhysicalResource",
+   "instanceOf": {
+    "contribution": [
+     {
+      "agent": {
+       "lifeSpan": "1907-2002",
+       "@type": "Person",
+       "familyName": "Lindgren",
+       "givenName": "Astrid",
+       "@id": "https://libris.kb.se/fcrtpljz1qp2bdv#it"
+      },
+      "@type": "PrimaryContribution"
+     },
+     {
+      "agent": {
+       "@type": "Person",
+       "familyName": "Örnehed",
+       "givenName": "Britt",
+       "@id": "https://libris.kb.se/bq8vzh048q1q7k9k#it"
+      },
+      "role": [
+       {
+        "code": "nrt",
+        "@type": "Role",
+        "@id": "https://id.kb.se/relator/narrator",
+        "prefLabelByLang": {
+         "sv": "Berättare",
+         "en": "Narrator"
+        },
+        "altLabelByLang": {
+         "sv": "Inläsare"
+        }
+       }
+      ],
+      "@type": "Contribution"
+     }
+    ],
+    "@type": "Monograph",
+    "subject": [
+     {
+      "@type": "Topic",
+      "label": [
+       "Humor"
+      ]
+     },
+     {
+      "@type": "Topic",
+      "label": [
+       "Filmad bok"
+      ]
+     }
+    ],
+    "language": [
+     {
+      "code": "swe",
+      "@type": "Language",
+      "@id": "https://id.kb.se/language/swe",
+      "prefLabelByLang": {
+       "sv": "Svenska",
+       "en": "Swedish"
+      },
+      "sameAs": [
+       {
+        "@id": "https://id.kb.se/i18n/lang/sv"
+       }
+      ]
+     }
+    ],
+    "category": [
+     {
+      "code": "m",
+      "@type": [
+       "marc:TacContractionType",
+       "marc:ComputerTypeOfFileType"
+      ],
+      "@id": "https://id.kb.se/marc/Combination",
+      "prefLabelByLang": {
+       "sv": "Kombination",
+       "en": "Combination"
+      }
+     },
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Filmade böcker",
+      "@id": "https://id.kb.se/term/barngf/Filmade%20b%C3%B6cker"
+     },
+     {
+      "singularLabelByLang": {
+       "sv": "Talbok",
+       "en": "Talking Book"
+      },
+      "@type": "GenreForm",
+      "prefLabel": "Talböcker",
+      "@id": "https://id.kb.se/term/saogf/Talb%C3%B6cker",
+      "prefLabelByLang": {
+       "en": "Talking books"
+      }
+     },
+     {
+      "@type": "GenreForm",
+      "@id": "https://id.kb.se/term/ktg/Software",
+      "prefLabelByLang": {
+       "sv": "Mjukvara",
+       "en": "Software"
+      }
+     }
+    ]
+   },
+   "publication": [
+    {
+     "agent": {
+      "@type": "Agent",
+      "label": [
+       "TPB"
+      ]
+     },
+     "year": "2011",
+     "@type": "PrimaryPublication"
+    }
+   ],
+   "@id": "https://libris.kb.se/j2vx2v7v250bmk0#it",
+   "hasTitle": [
+    {
+     "@type": "Title",
+     "mainTitle": "Pippi Långstrump"
+    }
+   ],
+   "identifiedBy": [
+    {
+     "typeNote": "MTM medienummer",
+     "@type": "Identifier",
+     "qualifier": [
+      "talbok_text",
+      "bs"
+     ],
+     "value": "C97575"
+    }
+   ],
+   "summary": [
+    {
+     "@type": "Summary",
+     "label": [
+      "Pippi Långstrump är världens starkaste flicka. Hennes mamma är en ängel och hennes pappa kung så hon bor ensam i Villa Villekulla med sin häst och apan herr Nilsson. Barnen i grannhuset, Tommy och Annika, blir bästa vänner med Pippi och tillsammans är de med om många äventyr."
+     ]
+    }
+   ],
+   "hasNote": [
+    {
+     "@type": "Note",
+     "label": [
+      "Digital talbok (DAISY 2.02), text och ljud"
+     ]
+    },
+    {
+     "@type": "Note",
+     "label": [
+      "Fortsättes av: Pippi Långstrump går ombord ; Pippi Långstrump i Söderhavet"
+     ]
+    },
+    {
+     "@type": "Note",
+     "label": [
+      "Speltid: 3 tim., 25 min. : mono; 176 s. : ill."
+     ]
+    },
+    {
+     "@type": "Note",
+     "label": [
+      "Inläst ur: 17. uppl. Stockholm : Rabén & Sjögren, 1968"
+     ]
+    }
+   ],
+   "category": [
+    {
+     "@type": "CarrierForm",
+     "@id": "https://id.kb.se/term/saobf/OpticalDisc",
+     "prefLabelByLang": {
+      "sv": "Optisk datorskiva (CD-A, CD-R, CD-ROM)",
+      "en": "Optical computer disc"
+     }
+    }
+   ]
+  },
+  {
+   "extent": [
+    {
+     "@type": "Extent",
+     "label": [
+      "1 CD-R (2 tim., 34 min.)"
+     ]
+    }
+   ],
+   "@type": "PhysicalResource",
+   "instanceOf": {
+    "contribution": [
+     {
+      "agent": {
+       "lifeSpan": "1907-2002",
+       "@type": "Person",
+       "familyName": "Lindgren",
+       "givenName": "Astrid",
+       "@id": "https://libris.kb.se/fcrtpljz1qp2bdv#it"
+      },
+      "@type": "PrimaryContribution"
+     },
+     {
+      "agent": {
+       "@type": "Person",
+       "familyName": "Håkansson",
+       "givenName": "Inga"
+      },
+      "role": [
+       {
+        "code": "nrt",
+        "@type": "Role",
+        "@id": "https://id.kb.se/relator/narrator",
+        "prefLabelByLang": {
+         "sv": "Berättare",
+         "en": "Narrator"
+        },
+        "altLabelByLang": {
+         "sv": "Inläsare"
+        }
+       }
+      ],
+      "@type": "Contribution"
+     }
+    ],
+    "@type": "Monograph",
+    "subject": [
+     {
+      "@type": "Topic",
+      "label": [
+       "Humor"
+      ]
+     },
+     {
+      "@type": "Topic",
+      "label": [
+       "Filmad bok"
+      ]
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Frånvarande föräldrar",
+      "@id": "https://id.kb.se/term/barn/Fr%C3%A5nvarande%20f%C3%B6r%C3%A4ldrar"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Busig",
+      "@id": "https://id.kb.se/term/barn/Busig"
+     }
+    ],
+    "language": [
+     {
+      "code": "swe",
+      "@type": "Language",
+      "@id": "https://id.kb.se/language/swe",
+      "prefLabelByLang": {
+       "sv": "Svenska",
+       "en": "Swedish"
+      },
+      "sameAs": [
+       {
+        "@id": "https://id.kb.se/i18n/lang/sv"
+       }
+      ]
+     }
+    ],
+    "category": [
+     {
+      "code": "f",
+      "@type": "marc:MusicTextType",
+      "@id": "https://id.kb.se/marc/Fiction",
+      "prefLabelByLang": {
+       "sv": "Skönlitterär prosa",
+       "en": "Fiction"
+      }
+     },
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Filmade böcker",
+      "@id": "https://id.kb.se/term/barngf/Filmade%20b%C3%B6cker"
+     },
+     {
+      "singularLabelByLang": {
+       "sv": "Talbok",
+       "en": "Talking Book"
+      },
+      "@type": "GenreForm",
+      "prefLabel": "Talböcker",
+      "@id": "https://id.kb.se/term/saogf/Talb%C3%B6cker",
+      "prefLabelByLang": {
+       "en": "Talking books"
+      }
+     },
+     {
+      "@type": "WorkCategory",
+      "@id": "https://id.kb.se/term/ktg/Audio",
+      "prefLabelByLang": {
+       "sv": "Ljud",
+       "en": "Audio"
+      }
+     }
+    ]
+   },
+   "publication": [
+    {
+     "agent": {
+      "@type": "Agent",
+      "label": [
+       "TPB"
+      ]
+     },
+     "year": "2006",
+     "@type": "PrimaryPublication"
+    }
+   ],
+   "@id": "https://libris.kb.se/q8247v8259bv1sj#it",
+   "hasTitle": [
+    {
+     "@type": "Title",
+     "mainTitle": "Pippi Långstrump"
+    }
+   ],
+   "identifiedBy": [
+    {
+     "typeNote": "MTM medienummer",
+     "@type": "Identifier",
+     "qualifier": [
+      "talbok",
+      "bs"
+     ],
+     "value": "C49217"
+    }
+   ],
+   "summary": [
+    {
+     "@type": "Summary",
+     "label": [
+      "Pippi Långstrump är världens starkaste flicka. Hennes mamma är en ängel och hennes pappa kung så hon bor ensam i Villa Villekulla med sin häst och apan herr Nilsson. Barnen i grannhuset, Tommy och Annika, blir bästa vänner med Pippi och tillsammans är de med om många äventyr"
+     ]
+    }
+   ],
+   "hasNote": [
+    {
+     "@type": "Note",
+     "label": [
+      "Fortsättes av: Pippi Långstrump går ombord ; Pippi Långstrump i Söderhavet"
+     ]
+    },
+    {
+     "@type": "Note",
+     "label": [
+      "Digital talbok (DAISY 2.02), ljud"
+     ]
+    },
+    {
+     "@type": "Note",
+     "label": [
+      "Inläst av DBF, 1968"
+     ]
+    },
+    {
+     "@type": "Note",
+     "label": [
+      "Överföring av analog inläsning"
+     ]
+    },
+    {
+     "@type": "Note",
+     "label": [
+      "Inläst ur: 16. uppl. Stockholm : R&S, 1966"
+     ]
+    }
+   ],
+   "category": [
+    {
+     "code": "sd",
+     "@type": "CarrierType",
+     "@id": "https://id.kb.se/term/rda/AudioDisc",
+     "prefLabelByLang": {
+      "sv": "Ljudskiva",
+      "en": "Audio disc"
+     }
+    }
+   ]
+  },
+  {
+   "extent": [
+    {
+     "@type": "Extent",
+     "label": [
+      "2 CD (ca 3 tim.)"
+     ]
+    }
+   ],
+   "@type": "PhysicalResource",
+   "instanceOf": {
+    "summary": [
+     {
+      "@type": "Summary",
+      "label": [
+       "Astrid Lindgren läser sin egen bok om världens starkaste och roligaste och rikaste flicka. [Barnbokskatalogen]"
+      ]
+     }
+    ],
+    "contribution": [
+     {
+      "agent": {
+       "lifeSpan": "1907-2002",
+       "@type": "Person",
+       "familyName": "Lindgren",
+       "givenName": "Astrid",
+       "@id": "https://libris.kb.se/fcrtpljz1qp2bdv#it"
+      },
+      "role": [
+       {
+        "code": "aut",
+        "@type": "Role",
+        "@id": "https://id.kb.se/relator/author",
+        "prefLabelByLang": {
+         "sv": "Författare",
+         "en": "Author"
+        }
+       },
+       {
+        "code": "nrt",
+        "@type": "Role",
+        "@id": "https://id.kb.se/relator/narrator",
+        "prefLabelByLang": {
+         "sv": "Berättare",
+         "en": "Narrator"
+        },
+        "altLabelByLang": {
+         "sv": "Inläsare"
+        }
+       }
+      ],
+      "@type": "PrimaryContribution"
+     }
+    ],
+    "@type": "Monograph",
+    "language": [
+     {
+      "code": "swe",
+      "@type": "Language",
+      "@id": "https://id.kb.se/language/swe",
+      "prefLabelByLang": {
+       "sv": "Svenska",
+       "en": "Swedish"
+      },
+      "sameAs": [
+       {
+        "@id": "https://id.kb.se/i18n/lang/sv"
+       }
+      ]
+     }
+    ],
+    "category": [
+     {
+      "code": "f",
+      "@type": "marc:MusicTextType",
+      "@id": "https://id.kb.se/marc/Fiction",
+      "prefLabelByLang": {
+       "sv": "Skönlitterär prosa",
+       "en": "Fiction"
+      }
+     },
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Ljudböcker",
+      "@id": "https://id.kb.se/term/barngf/Ljudb%C3%B6cker"
+     },
+     {
+      "@type": "WorkCategory",
+      "@id": "https://id.kb.se/term/ktg/Audio",
+      "prefLabelByLang": {
+       "sv": "Ljud",
+       "en": "Audio"
+      }
+     }
+    ]
+   },
+   "publication": [
+    {
+     "agent": {
+      "@type": "Agent",
+      "label": [
+       "Pan Hörböcker"
+      ]
+     },
+     "year": "2005",
+     "@type": "PrimaryPublication"
+    }
+   ],
+   "@id": "https://libris.kb.se/3mff56rf0rjcpxn#it",
+   "hasTitle": [
+    {
+     "@type": "Title",
+     "mainTitle": "Pippi Långstrump"
+    }
+   ],
+   "identifiedBy": [
+    {
+     "@type": "ISBN",
+     "value": "9173131210"
+    },
+    {
+     "@type": "ISBN",
+     "value": "9789173131216"
+    }
+   ],
+   "hasNote": [
+    {
+     "@type": "Note",
+     "label": [
+      "Ljudbok CD (CD-audio)"
+     ]
+    },
+    {
+     "@type": "Note",
+     "label": [
+      "Fortsättes av: Pippi Långstrump går ombord ; Pippi Långstrump i Söderhavet"
+     ]
+    }
+   ],
+   "category": [
+    {
+     "code": "sd",
+     "@type": "CarrierType",
+     "@id": "https://id.kb.se/term/rda/AudioDisc",
+     "prefLabelByLang": {
+      "sv": "Ljudskiva",
+      "en": "Audio disc"
+     }
+    }
+   ]
+  },
+  {
+   "extent": [
+    {
+     "@type": "Extent",
+     "label": [
+      "3 ljudkassetter (4 tim. 15 min.)"
+     ]
+    }
+   ],
+   "@type": "PhysicalResource",
+   "instanceOf": {
+    "contribution": [
+     {
+      "agent": {
+       "lifeSpan": "1907-2002",
+       "@type": "Person",
+       "familyName": "Lindgren",
+       "givenName": "Astrid",
+       "@id": "https://libris.kb.se/fcrtpljz1qp2bdv#it"
+      },
+      "role": [
+       {
+        "code": "aut",
+        "@type": "Role",
+        "@id": "https://id.kb.se/relator/author",
+        "prefLabelByLang": {
+         "sv": "Författare",
+         "en": "Author"
+        }
+       },
+       {
+        "code": "nrt",
+        "@type": "Role",
+        "@id": "https://id.kb.se/relator/narrator",
+        "prefLabelByLang": {
+         "sv": "Berättare",
+         "en": "Narrator"
+        },
+        "altLabelByLang": {
+         "sv": "Inläsare"
+        }
+       }
+      ],
+      "@type": "PrimaryContribution"
+     }
+    ],
+    "@type": "Monograph",
+    "language": [
+     {
+      "code": "swe",
+      "@type": "Language",
+      "@id": "https://id.kb.se/language/swe",
+      "prefLabelByLang": {
+       "sv": "Svenska",
+       "en": "Swedish"
+      },
+      "sameAs": [
+       {
+        "@id": "https://id.kb.se/i18n/lang/sv"
+       }
+      ]
+     }
+    ],
+    "category": [
+     {
+      "code": "f",
+      "@type": "marc:MusicTextType",
+      "@id": "https://id.kb.se/marc/Fiction",
+      "prefLabelByLang": {
+       "sv": "Skönlitterär prosa",
+       "en": "Fiction"
+      }
+     },
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Ljudböcker",
+      "@id": "https://id.kb.se/term/barngf/Ljudb%C3%B6cker"
+     },
+     {
+      "@type": "WorkCategory",
+      "@id": "https://id.kb.se/term/ktg/Audio",
+      "prefLabelByLang": {
+       "sv": "Ljud",
+       "en": "Audio"
+      }
+     }
+    ]
+   },
+   "publication": [
+    {
+     "date": "cop. 1995",
+     "agent": {
+      "@type": "Agent",
+      "label": [
+       "Kassettbok"
+      ]
+     },
+     "year": "1995",
+     "@type": "PrimaryPublication"
+    }
+   ],
+   "@id": "https://libris.kb.se/sb44vjj44rb8r23#it",
+   "hasTitle": [
+    {
+     "@type": "Title",
+     "mainTitle": "Pippi Långstrump"
+    }
+   ],
+   "identifiedBy": [
+    {
+     "@type": "ISBN",
+     "value": "9179504566"
+    },
+    {
+     "@type": "ISBN",
+     "value": "9789179504564"
+    }
+   ],
+   "hasNote": [
+    {
+     "@type": "Note",
+     "label": [
+      "Ljudbok kassett"
+     ]
+    },
+    {
+     "@type": "Note",
+     "label": [
+      "Fortsättes av: Pippi långstrump går ombord ; Pippi Långstrump i Söderhavet"
+     ]
+    },
+    {
+     "@type": "Note",
+     "label": [
+      "Kassettbok"
+     ]
+    }
+   ],
+   "category": [
+    {
+     "code": "ss",
+     "@type": "CarrierType",
+     "@id": "https://id.kb.se/term/rda/Audiocassette",
+     "prefLabelByLang": {
+      "sv": "Ljudkassett",
+      "en": "Audiocassette"
+     }
+    }
+   ]
+  }
+ ]
+}

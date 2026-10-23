@@ -1,0 +1,1284 @@
+{
+ "volumes": [
+  {
+   "id": "VOL-VURSWBA",
+   "title": "Ascendance of a Bookworm (Manga) Part 1 Volume 1",
+   "shortTitle": "Part 1 Volume 1",
+   "number": 1,
+   "position": 1,
+   "creators": [
+    {
+     "name": "Aimee Zink",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Meiru",
+     "role": "LETTERER"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2019-06-01T14:00:00Z",
+   "physicalPublishing": "2020-09-01T00:00:00Z",
+   "noEbook": false,
+   "description": "A certain college girl who's loved books ever since she was a little girl dies in an accident and is reborn in another world she knows nothing about. She is now Myne, the sickly five-year-old daughter of a poor soldier. To make things worse, the world she's been reborn in has a very low literacy rate and books mostly don't exist. She'd have to pay an enormous amounts of money to buy one.\n\nMyne resolves herself: If there aren't any books, she'll just have to make them! Her goal is to become a librarian. This story begins with her quest to make books so she can live surrounded by them!\n\nDive into this biblio-fantasy written for book lovers and bookworms!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J9D9E7VVCPH80N8FJJTTG.jpg",
+    "width": 281,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-3HUUQ7Y",
+   "title": "Ascendance of a Bookworm (Manga) Part 1 Volume 2",
+   "shortTitle": "Part 1 Volume 2",
+   "number": 2,
+   "position": 2,
+   "creators": [
+    {
+     "name": "Aimee Zink",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Meiru",
+     "role": "LETTERER"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2019-12-04T11:00:00Z",
+   "physicalPublishing": "2020-11-03T08:00:00Z",
+   "noEbook": false,
+   "description": "Myne has finally started to adjust to her new life... but once a bookworm, always a bookworm. As winter sets in, there are historical methodologies to try: papyrus, clay tablets... anything that can hold letters and words. Even if it means getting well enough to visit the forest! But first there are chores to do and mythical fruits to cook.\n\nFortunately, Myne has an ally in Otto, her father's paperwork-swamped colleague. Can he teach her how to read and write in this world and put her to work somewhere that will advance her goals and status? Or will she be stuck as a poor, illiterate girl forever?",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J9DTQ9BKTBSW9Q636QV8J.jpg",
+    "width": 281,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-RZDB2VY",
+   "title": "Ascendance of a Bookworm (Manga) Part 1 Volume 3",
+   "shortTitle": "Part 1 Volume 3",
+   "number": 3,
+   "position": 3,
+   "creators": [
+    {
+     "name": "Aimee Zink",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Meiru",
+     "role": "LETTERER"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2020-03-24T23:00:00Z",
+   "physicalPublishing": "2021-01-05T08:00:00Z",
+   "noEbook": false,
+   "description": "Myne throws everything she has at paper-making while helping at the gate and preparing for Tuuli's baptism. She tries weaving faux-papyrus from fibers during winter and forming clay tablets during the spring, but both fail. Still, her love for books isn't so weak that she'd give up that easily. It's time to think up a Plan C! This is a bibliofantasy for all the bookworms of the world!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J9F5681J26TDTMR1TDNJE.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-XIGLUTQ",
+   "title": "Ascendance of a Bookworm (Manga) Part 1 Volume 4",
+   "shortTitle": "Part 1 Volume 4",
+   "number": 4,
+   "position": 4,
+   "creators": [
+    {
+     "name": "Aimee Zink",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Meiru",
+     "role": "LETTERER"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2020-05-12T22:00:00Z",
+   "physicalPublishing": "2021-03-02T00:00:00Z",
+   "noEbook": false,
+   "description": "Aspiring apprentice merchants Myne and Lutz have signed a contract with Benno, who has promised to sell their plant-based prototype. With his assistance, they finally have the materials and tools to start making their first batch of washi paper! And Benno wants to sell not only paper, but Myne's other inventions, such as the flower hairpins, as well. But getting involved in the world of merchants makes Myne's life more complicated than ever as she gets registered at the Merchant's Guild and catches the eye of the conniving guildmaster. The more people realize that Myne's ideas can be commodified, the more everyone wants a piece of her. Meanwhile, as Myne displays more and more of her otherworld knowledge and adult-like behavior, Lutz has grown suspicious of her real identity... What will Myne do when he demands to know who she really is? How could she ever explain that the real Myne is gone forever?",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J9FTT91VRDEKCCSNCD7RT.jpg",
+    "width": 281,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-MC5DULY",
+   "title": "Ascendance of a Bookworm (Manga) Part 1 Volume 5",
+   "shortTitle": "Part 1 Volume 5",
+   "number": 5,
+   "position": 5,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Meiru",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2020-09-01T22:00:00Z",
+   "physicalPublishing": "2021-05-04T07:00:00Z",
+   "noEbook": false,
+   "description": "Myne tells Lutz the truth about herself. He gets mad and confused, but in the end accepts Myne, with whom he has spent the past year making paper and such with. They successfully complete the paper and get accepted by Benno. They go to the Merchant's Guild to register so they can sell paper, where they are asked to make hairpins for the guildmaster's granddaughter. And so, they go to meet the girl herself, to ask how she would like her hairpins to look. This is a biblio-fantasy, by book lovers for book lovers!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J9HFQZK8157JK8Q86TY79.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-7QL2MBA",
+   "title": "Ascendance of a Bookworm (Manga) Part 1 Volume 6",
+   "shortTitle": "Part 1 Volume 6",
+   "number": 6,
+   "position": 6,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Meiru",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2021-01-05T23:00:00Z",
+   "physicalPublishing": "2021-07-06T07:00:00Z",
+   "noEbook": false,
+   "description": "Myne advances further into book-making so that she can have books to read. Her disease is known as “the Devouring,” and upon learning that it requires an exorbitant amount of money to cure, she resolves to stay alive by selling her knowledge from her past life. Despite her best efforts, the Devouring heat eats away at her day by day, and she loses consciousness during a business discussion! This is a biblio-fantasy by bookworms, for bookworms!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J9HG5B8060BWKRS2HJZV6.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-X7HA6ZI",
+   "title": "Ascendance of a Bookworm (Manga) Part 1 Volume 7",
+   "shortTitle": "Part 1 Volume 7",
+   "number": 7,
+   "position": 7,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Meiru",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2021-05-12T09:00:00Z",
+   "physicalPublishing": "2021-09-21T07:00:00Z",
+   "noEbook": false,
+   "description": "Myne narrowly escapes death thanks to a magic tool, but is told that she only has one year left to live at most. She decides to spend her remaining time with her family, concluding that she would rather die with them than sign her life away to a noble. Meanwhile, Lutz fights back against his parents, steeling his resolve to become a merchant no matter what. Together, they plan to continue making paper up until their baptism ceremony, but are soon called over by Freida to talk about the Devouring. This is a biblio-fantasy by bookworms, for bookworms! Part 1 concludes with this volume.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J9MZBE8WXJ55EESD1QVB3.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-J4NSCBY",
+   "title": "Ascendance of a Bookworm (Manga) Part 2 Volume 1",
+   "shortTitle": "Part 2 Volume 1",
+   "number": 8,
+   "position": 8,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2021-07-06T22:00:00Z",
+   "physicalPublishing": "2021-12-07T08:00:00Z",
+   "noEbook": false,
+   "description": "Myne successfully negotiates with the temple to become an apprentice blue shrine maiden, ensuring she will receive the same treatment as a noble. Her work there begins, and after such a long wait, she can finally read in the book room! But the temple's status-based structure and her problematic attendants mean she doesn't have it easy: she'll need to beat society to enjoy her books in peace! This is a biblio-fantasy by book lovers, for book lovers! Part 2, begin!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J9NJAB5KKFCJGJRE1D7KH.jpg",
+    "width": 286,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-PPAV47Q",
+   "title": "Ascendance of a Bookworm (Manga) Part 2 Volume 2",
+   "shortTitle": "Part 2 Volume 2",
+   "number": 9,
+   "position": 9,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2021-08-31T22:00:00Z",
+   "physicalPublishing": "2022-03-01T08:00:00Z",
+   "noEbook": false,
+   "description": "Myne slowly gets more and more used to life in the temple - she learns to speak like a noble, successfully breaks the ice with Fran, and is granted the orphanage director's chambers to live in. Her once problematic attendant Gil cleans her new chambers as ordered and learns to love being rewarded for his work, but Delia... Well... \nThis is a biblio-fantasy by book lovers, for book lovers!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J9QBVKAEKJKKJXYMPZ3SP.jpg",
+    "width": 281,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-4L2G22Q",
+   "title": "Ascendance of a Bookworm (Manga) Part 2 Volume 3",
+   "shortTitle": "Part 2 Volume 3",
+   "number": 10,
+   "position": 10,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2021-11-09T23:00:00Z",
+   "physicalPublishing": "2022-06-07T00:00:00Z",
+   "noEbook": false,
+   "description": "Myne had been steadily growing used to the life in the temple, but just as she thought everything was going to go well, she learned the templed housed a significant number of starving, emaciated orphans. She agonized over the problem, then resolved to become the orphanage director and improve their lives herself. And so the Myne Workshop's temple branch began operation. This is a bibliofantasy by bookworms, for bookworms!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J9R552PEYBGNZ97TN1HH0.jpg",
+    "width": 281,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-FO7NGZI",
+   "title": "Ascendance of a Bookworm (Manga) Part 2 Volume 4",
+   "shortTitle": "Part 2 Volume 4",
+   "number": 11,
+   "position": 11,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2022-03-15T23:00:00Z",
+   "physicalPublishing": "2022-10-03T22:00:00Z",
+   "noEbook": false,
+   "description": "Now serving as orphanage director, Myne begins her mission to save the temple’s orphans - an endeavor that earns her a great deal of respect from those whose lives she continues to improve. She arranges for the orphans to have somewhere to sleep, teaches them how to provide for themselves, and even helps them to experience the festivities of the Star Festival for the very first time. Just before the taue-throwing starts, however, Myne makes a discovery - one that she believes could play a crucial role in saving other children with the Devouring. She goes to see Benno at once, hoping to spare others from her fate, but the matter is far more complicated than she realizes... This is a biblio-fantasy by book lovers, for book lovers!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J9TJ5HMPYQ9380CZJ76KQ.jpg",
+    "width": 281,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-SLW6EUI",
+   "title": "Ascendance of a Bookworm (Manga) Part 2 Volume 5",
+   "shortTitle": "Part 2 Volume 5",
+   "number": 12,
+   "position": 12,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2022-05-03T22:00:00Z",
+   "physicalPublishing": "2022-12-12T23:00:00Z",
+   "noEbook": false,
+   "description": "\"Lutz gets into an argument with his parents and runs away from home, furious that they refuse to accept him becoming a merchant. Their dispute quickly reaches the Gilberta Company, and only when Myne and the High Priest arrange a discussion between the involved parties is the matter peacefully resolved. At last, Myne can return her focus to making books-or so she thinks. After taking Wilma and Rosina as attendants, she finds herself dealing with another clash of opinions.\nThis is a biblio-fantasy by book lovers, for book lovers!\"",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J9W52JTYK8B8T5ES9JPQF.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-EI7JI4Y",
+   "title": "Ascendance of a Bookworm (Manga) Part 2 Volume 6",
+   "shortTitle": "Part 2 Volume 6",
+   "number": 13,
+   "position": 13,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2022-08-16T22:00:00Z",
+   "physicalPublishing": "2023-04-17T22:00:00Z",
+   "noEbook": false,
+   "description": "Myne shows the High Priest her rewritten bible, hoping to secure his approval, only to cast doubt on who she claims to be. How can a girl who struggles to pen so much as a simple letter produce something so well written? The High Priest demands an answer, but Myne is unsure what to say. Will the truth convince him, and can she afford to risk losing her only ally in the temple? Find out in the continuation of this biblio-fantasy by book lovers, for book lovers!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J9XK1RVKH3QSWGX2BF518.jpg",
+    "width": 285,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-54JXEWI",
+   "title": "Ascendance of a Bookworm (Manga) Part 2 Volume 7",
+   "shortTitle": "Part 2 Volume 7",
+   "number": 14,
+   "position": 14,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2023-02-06T23:00:00Z",
+   "physicalPublishing": "2023-08-07T22:00:00Z",
+   "noEbook": false,
+   "description": "Two years after resolving to make her own books, Myne finally finishes her first one! Lutz and Tuuli join the ecstatic bookworm in celebration, but their time together is cut short by the arrival of winter. Myne must endure the bitter season in the temple, away from her family - and her first job as a blue shrine maiden is far from leisurely. How will she fare when faced with a call for aid from the Knight’s Order? Find out in this biblio-fantasy by book lovers, for book lovers!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/JA2HMGT0B8HYV7WMK6HMD.jpg",
+    "width": 280,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-EFCTU6Q",
+   "title": "Ascendance of a Bookworm (Manga) Part 2 Volume 8",
+   "shortTitle": "Part 2 Volume 8",
+   "number": 15,
+   "position": 15,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2024-01-24T15:00:00Z",
+   "physicalPublishing": "2024-12-09T23:00:00Z",
+   "noEbook": false,
+   "description": "As the High Priest battles a trombe alongside the Knight’s Order, Myne glimpses the terrors of noble society. She completes the Healing Ritual and demonstrates her worth as an apprentice blue shrine maiden, but even then, some remain unconvinced. Is she a grave threat to Ehrenfest or a most valuable asset? In this biblio-fantasy by book lovers, for book lovers, the High Priest ventures with Myne into the world of dreams...",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/JACKKNHTC66BTPC6AB0D5.jpg",
+    "width": 277,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-6ZMVEFY",
+   "title": "Ascendance of a Bookworm (Manga) Part 2 Volume 9",
+   "shortTitle": "Part 2 Volume 9",
+   "number": 16,
+   "position": 16,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2024-05-08T14:00:00Z",
+   "physicalPublishing": "2025-02-10T23:00:00Z",
+   "noEbook": false,
+   "description": "Myne reunites with her mother in the world of dreams, bringing a tear to the eye of even the High Priest. He deems Myne free of any malice, but other threats lurk in the shadows. The head of the Ink Guild expresses a sudden, concerning interest in the lower city’s resident bookworm, and an unexpected encounter forces her to be sequestered in the temple early. A long winter begins in this biblio-fantasy by book lovers, for book lovers. How is Myne going to fare without her family?",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/JAGJHSVDMCDDXMXY7J9S1.jpg",
+    "width": 273,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-4JUPUXQ",
+   "title": "Ascendance of a Bookworm (Manga) Part 2 Volume 10",
+   "shortTitle": "Part 2 Volume 10",
+   "number": 17,
+   "position": 17,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2025-11-12T15:00:00Z",
+   "physicalPublishing": "2026-11-09T23:00:00Z",
+   "noEbook": false,
+   "description": "With the help of the skilled smith Johann, Myne is on the brink of completing a fully functional printing press. Her moment of triumph is cut short, however, when a mysterious death raises troubling suspicions. Declaring that her life might be in danger, the High Priest insists she remain in the temple - and reveals the harsh truth that her adoption into the world of nobles is already set in stone. Yet as an apprentice blue shrine maiden, Myne can’t neglect her temple duties, with Spring Prayer foremost among them. The question is: Why is a seemingly ordinary blue priest so determined to accompany her?",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01K/6/3/22TZ0P0W9XJ778PCBYZJ2.jpg",
+    "width": 860,
+    "height": 1223
+   }
+  },
+  {
+   "id": "VOL-LQQTQYY",
+   "title": "Ascendance of a Bookworm (Manga) Part 2 Volume 11",
+   "shortTitle": "Part 2 Volume 11",
+   "number": 18,
+   "position": 18,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2026-05-06T13:00:00Z",
+   "noEbook": false,
+   "description": "Myne makes it home just in time for her baby brother’s arrival - then returns to the temple to find an infant left at the orphanage. The priests and shrine maidens are at a loss, especially when little Dirk shows signs of the Devouring. Meanwhile, Myne’s printing ambitions surge ahead as she lands new deals and crucial partners. Could her colored-ink breakthrough be closer than she thinks? One research-obsessed craftswoman seems to believe so.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01K/M/J/A7B6RE36ZX8Q2QZJ43MQF.png",
+    "width": 3033,
+    "height": 4309
+   }
+  },
+  {
+   "id": "VOL-GBAPMBA",
+   "title": "Ascendance of a Bookworm (Manga) Part 2 Volume 12",
+   "shortTitle": "Part 2 Volume 12",
+   "number": 19,
+   "position": 19,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2026-10-21T13:00:00Z",
+   "noEbook": false,
+   "description": "After the birth of her little brother, Kamil, Myne’s desire to make picture books burns brighter than ever. She forges ahead with the development of colored ink and new baby toys, only to end up confined at home when she and Damuel witness an unexpected signal for aid. Days pass before Myne is allowed outside again, but when she finally returns to the temple with Damuel as her guard, her enemies’ schemes come into even sharper focus.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01M/1/N/XF2BZF13QFCAYVBWMH7P5.png",
+    "width": 3024,
+    "height": 4300
+   }
+  },
+  {
+   "id": "VOL-VMVUC4Q",
+   "title": "Ascendance of a Bookworm (Manga) Part 3 Volume 1",
+   "shortTitle": "Part 3 Volume 1",
+   "number": 101,
+   "position": 20,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Ryo Namino",
+     "role": "ARTIST"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2023-06-07T14:00:00Z",
+   "physicalPublishing": "2024-04-08T22:00:00Z",
+   "noEbook": false,
+   "description": "To protect those she cares about from danger, Myne abandons the life she knows to become Rozemyne, the archduke’s mana-rich adopted daughter. But her passion for books hasn’t changed, nor does she hesitate to charge into another strange new world. In this biblio-fantasy by bookworms, for bookworms, the detailed setting continues to expand - and so too does the book-making industry!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/JA4YPYXSHDXQCJXQY3NKM.jpg",
+    "width": 276,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-KRQFYFA",
+   "title": "Ascendance of a Bookworm (Manga) Part 3 Volume 2",
+   "shortTitle": "Part 3 Volume 2",
+   "number": 102,
+   "position": 21,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Ryo Namino",
+     "role": "ARTIST"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2023-10-11T14:00:00Z",
+   "physicalPublishing": "2024-08-12T22:00:00Z",
+   "noEbook": false,
+   "description": "Rozemyne’s reunion with her family is only brief - no sooner has she completed the lower city’s Starbind Ceremony than she is whisked away to the archduke’s castle to perform another. The changes brought about by her adoption are still giving her trouble, but her second Starbinding is a huge success(?) nonetheless. Next, she must attend a meeting at the Italian restaurant, gather funds for the printing industry, and even study magic! In this biblio-fantasy by book lovers, for book lovers, Rozemyne continues to strive toward a duchy filled with books.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/JA85DY2CR2W1K8D4ZRESW.png",
+    "width": 279,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-DWDU6HA",
+   "title": "Ascendance of a Bookworm (Manga) Part 3 Volume 3",
+   "shortTitle": "Part 3 Volume 3",
+   "number": 103,
+   "position": 22,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Ryo Namino",
+     "role": "ARTIST"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2024-08-14T14:00:00Z",
+   "physicalPublishing": "2025-06-09T22:00:00Z",
+   "noEbook": false,
+   "description": "The harspiel concert is just around the corner, and there’s much that Rozemyne needs to prepare. Programs, songs, a last-minute expansion... Meanwhile, a slight misunderstanding leads to a contest between two smiths, who compete to make the best waxing machine. Is this another grand step toward a duchy-wide printing industry? Find out in the newest installment of this biblio-fantasy by book lovers, for book lovers.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/JANB7GX185GPR889GR49B.png",
+    "width": 278,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-RF2BIHY",
+   "title": "Ascendance of a Bookworm (Manga) Part 3 Volume 4",
+   "shortTitle": "Part 3 Volume 4",
+   "number": 104,
+   "position": 23,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Ryo Namino",
+     "role": "ARTIST"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2024-12-25T15:00:00Z",
+   "physicalPublishing": "2025-10-13T22:00:00Z",
+   "noEbook": false,
+   "description": "Excitement hangs over the Noble’s Quarter as a long-awaited concert finally begins. Rozemyne can’t wait to sell printed products to her very eager consumers, but is her operation as airtight as she imagines? Add a snooping Sylvester to the mix, and something is bound to go wrong. Ferdinand sings and noblewomen swoon in the newest installment of this biblio-fantasy by book lovers, for book lovers.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/A/F/P6J5CPAZZMYQP4R1NTKMJ.jpg",
+    "width": 860,
+    "height": 1206
+   }
+  },
+  {
+   "id": "VOL-U3GRQUQ",
+   "title": "Ascendance of a Bookworm (Manga) Part 3 Volume 5",
+   "shortTitle": "Part 3 Volume 5",
+   "number": 105,
+   "position": 24,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Ryo Namino",
+     "role": "ARTIST"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2026-01-14T15:00:00Z",
+   "physicalPublishing": "2027-01-11T23:00:00Z",
+   "noEbook": false,
+   "description": "After moving Hasse’s orphans into the newly built monastery, Rozemyne begins crafting an education plan to help them adapt to the temple’s culture. But when she returns to Ehrenfest, the locals attempt to reclaim the children by force! Caught completely off guard, Rozemyne must reconcile the morals of her past life with the expectations of her archducal status. Is Hasse doomed to burn, or can she find a more peaceful solution? Find out in the newest installment of this biblio-fantasy by book lovers, for book lovers.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01K/A/K/GK1T5YJBBTG1MEXZTF9EM.jpg",
+    "width": 860,
+    "height": 1223
+   }
+  },
+  {
+   "id": "VOL-MSBAOOY",
+   "title": "Ascendance of a Bookworm (Manga) Part 3 Volume 6",
+   "shortTitle": "Part 3 Volume 6",
+   "number": 106,
+   "position": 25,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Ryo Namino",
+     "role": "ARTIST"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2026-07-01T14:00:00Z",
+   "noEbook": false,
+   "description": "After moving Hasse’s orphans into the newly built monastery, Rozemyne begins crafting an education plan to help them adapt to the temple’s culture. But when she returns to Ehrenfest, the locals attempt to reclaim the children by force! Caught completely off guard, Rozemyne must reconcile the morals of her past life with the expectations of her archducal status. Is Hasse doomed to burn, or can she find a more peaceful solution? Find out in the newest installment of this biblio-fantasy by book lovers, for book lovers.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01K/R/G/ZMMEHXYX7NDWVJ1QT4XAM.png",
+    "width": 3024,
+    "height": 4300
+   }
+  },
+  {
+   "id": "VOL-LK24CWQ",
+   "title": "Ascendance of a Bookworm (Manga) Part 4 Volume 1",
+   "shortTitle": "Part 4 Volume 1",
+   "number": 201,
+   "position": 26,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Hikaru Katsuki",
+     "role": "ARTIST"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2025-02-26T15:00:00Z",
+   "physicalPublishing": "2025-12-08T23:00:00Z",
+   "noEbook": false,
+   "description": "Rozemyne has awoken from her two-year slumber. Everything and everyone has changed, which is as terrifying as it sounds, but she doesn’t have time to waste before she’s thrust toward the Royal Academy - a requirement for becoming a noble. There, she will meet all sorts of colorful teachers and students from other duchies... but can she keep her composure in the face of the most books she’s seen yet? Our bookworm goes to school in the newest installment of this biblio-fantasy by book lovers, for book lovers.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/H/8/2MF83YPTX59B0CXK5J7FH.jpg",
+    "width": 860,
+    "height": 1223
+   }
+  },
+  {
+   "id": "VOL-UQ7B22Y",
+   "title": "Ascendance of a Bookworm (Manga) Part 4 Volume 2",
+   "shortTitle": "Part 4 Volume 2",
+   "number": 202,
+   "position": 27,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Hikaru Katsuki",
+     "role": "ARTIST"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2025-04-16T14:00:00Z",
+   "physicalPublishing": "2026-02-09T23:00:00Z",
+   "noEbook": false,
+   "description": "Despite now being a student, Rozemyne finds yet more obstacles driven between her and the library she can’t wait to visit. To gain access to its treasure trove of books, she must not only finish her own classes but ensure that every other first-year passes as well. Coupled with regressive faction politics and the jureve’s impact on her mana control, that might prove even harder than anticipated. Part 4 of this biblio-fantasy by book lovers, for book lovers expands to include the stunning Royal Academy!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/N/S/6HS35MX0G3SAYF2HMB3ZA.jpg",
+    "width": 840,
+    "height": 1194
+   }
+  },
+  {
+   "id": "VOL-52RFQ6I",
+   "title": "Ascendance of a Bookworm (Manga) Part 4 Volume 3",
+   "shortTitle": "Part 4 Volume 3",
+   "number": 203,
+   "position": 28,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Hikaru Katsuki",
+     "role": "ARTIST"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2025-06-04T14:00:00Z",
+   "physicalPublishing": "2026-04-13T22:00:00Z",
+   "noEbook": false,
+   "description": "Ehrenfest’s new students begin their harsh endeavor to pass each of their written lessons on the very first day. Rozemyne oversees their feverish efforts to achieve the improbable, but keeping morale high is the least of her concerns. She now has more mana than before her two-year slumber, making her practicals even harder than she anticipated. And without the common sense of a noble, her classes are poised to be anything but normal. Can she beat the odds and gain access to the library she so desperately desires? Find out in the newest volume of this biblio-fantasy by book lovers, for book lovers!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/S/P/M27SQK7DG30M5ZBEP4Q2Z.jpg",
+    "width": 860,
+    "height": 1223
+   }
+  },
+  {
+   "id": "VOL-BHE7YSA",
+   "title": "Ascendance of a Bookworm (Manga) Part 4 Volume 4",
+   "shortTitle": "Part 4 Volume 4",
+   "number": 204,
+   "position": 29,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Hikaru Katsuki",
+     "role": "ARTIST"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2025-07-30T14:00:00Z",
+   "physicalPublishing": "2026-06-08T22:00:00Z",
+   "noEbook": false,
+   "description": "Her registration complete and two large shumils now under her command, Rozemyne finally gets a taste of the library of her dreams. But before she can lose herself in its countless books, she must first pass the rest of her practical classes. Chief among them is the acquisition of her schtappe - a vital instrument for any noble. Together with her fellow first-years, she ventures into the Farthest Hall, determined to attain her Divine Will. Has she recovered enough to succeed, or will her bookish ambitions be shelved before they even begin? Find out in the newest volume of this biblio-fantasy by book lovers, for book lovers!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/X/N/04BZXK9Z25D9FKZNMZ333.jpg",
+    "width": 860,
+    "height": 1223
+   }
+  },
+  {
+   "id": "VOL-DNKMCKI",
+   "title": "Ascendance of a Bookworm (Manga) Part 4 Volume 5",
+   "shortTitle": "Part 4 Volume 5",
+   "number": 205,
+   "position": 30,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Hikaru Katsuki",
+     "role": "ARTIST"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2025-09-17T14:00:00Z",
+   "physicalPublishing": "2026-08-10T22:00:00Z",
+   "noEbook": false,
+   "description": "Rozemyne’s charge to complete the last of her first-year lessons continues, though finishing her practical classes is proving far more difficult than expected. Fraularm’s “brush with death” has stirred up unfortunate tension, and our resident bookworm finds herself torn between fitting in and giving it her all. She blazes through schtappe fundamentals, stunning her classmates with her overwhelming mana capacity - but is speeding through the lessons really worth the unwanted attention? Eyes turn toward both past and future in the newest volume of this biblio-fantasy by book lovers, for book lovers!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01K/1/X/HRA8RHTZ7PGAE3QTZ65N7.jpg",
+    "width": 860,
+    "height": 1223
+   }
+  },
+  {
+   "id": "VOL-DFOHOFQ",
+   "title": "Ascendance of a Bookworm (Manga) Part 4 Volume 6",
+   "shortTitle": "Part 4 Volume 6",
+   "number": 206,
+   "position": 31,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Hikaru Katsuki",
+     "role": "ARTIST"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2026-03-11T14:00:00Z",
+   "noEbook": false,
+   "description": "When Rozemyne’s request to create a library committee is denied, she arranges a tea party with Professor Solange to strengthen their relationship and hopefully win the librarian’s support. The gathering makes excellent practice for her upcoming meeting with the music professors - though it does nothing to prepare her for a certain unexpected guest. Tensions rise further after Schwartz and Weiss are brought in for measurements, forcing Rozemyne to once again navigate the demands of those above her. Can she settle the matter peacefully, or will the Ehrenfest Dormitory be drawn into battle? Find out in this volume of the biblio-fantasy by book lovers, for book lovers!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01K/F/N/D3QAZT0YFR1W3Q410VZ58.jpg",
+    "width": 860,
+    "height": 1223
+   }
+  },
+  {
+   "id": "VOL-7Q4QSNI",
+   "title": "Ascendance of a Bookworm (Manga) Part 4 Volume 7",
+   "shortTitle": "Part 4 Volume 7",
+   "number": 207,
+   "position": 32,
+   "creators": [
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Hikaru Katsuki",
+     "role": "ARTIST"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2026-08-26T13:00:00Z",
+   "noEbook": false,
+   "description": "To protect Schwartz and Weiss, Rozemyne agrees to face Dunkelfelger in a game of treasure-stealing ditter. Ehrenfest is at a clear disadvantage, with fewer knights and less combat experience to rely on, but accepting defeat isn’t an option when the Royal Academy’s library is involved. Can Rozemyne convince Ehrenfest’s knights to follow her plan, or will their lack of cooperation be their undoing? Find out in the newest volume of this biblio-fantasy by book lovers, for book lovers!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01K/X/6/2XM29W8H9DSZA5XZFPH68.png",
+    "width": 3023,
+    "height": 4299
+   }
+  }
+ ],
+ "pagination": {
+  "limit": 0,
+  "skip": 0,
+  "lastPage": true
+ }
+}

@@ -1,0 +1,360 @@
+{
+ "volumes": [
+  {
+   "id": "VOL-RJDSWZQ",
+   "title": "Ascendance of a Bookworm: Fanbook 1",
+   "shortTitle": "Volume 1",
+   "number": 1,
+   "position": 1,
+   "creators": [
+    {
+     "name": "quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "You Shiina",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2021-07-06T05:00:22Z",
+   "physicalPublishing": "2021-10-26T07:00:00Z",
+   "noEbook": false,
+   "description": "Here is the first official Ascendance of a Bookworm fanbook, intended to be read after finishing Part 3 Volume 2. This book contains a slew of additional content, including all the color and cover artwork up to Part 3 Volume 1, a short story on Monika and Nicola’s first tour of the temple, a manga chapter by Suzuka, and three four-panel manga by You Shiina. Also inside are design sheets showing how Bookworm’s characters were visually brought to life, and a Q&A with author Miya Kazuki containing lesser-known details about the plot as well as information on how she planned out and developed the series.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J76MWP4WBDRPX09AJD2Y4.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-CFJBGOA",
+   "title": "Ascendance of a Bookworm: Fanbook 2",
+   "shortTitle": "Volume 2",
+   "number": 2,
+   "position": 2,
+   "creators": [
+    {
+     "name": "quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "You Shiina",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2021-11-15T06:00:22Z",
+   "physicalPublishing": "2022-08-15T22:00:00Z",
+   "noEbook": false,
+   "description": "Here is the second official Ascendance of a Bookworm fanbook, intended to be read after finishing Part 4 Volume 1. This volume contains an abundance of supplementary content, including design sheets for a variety of new characters, an extensive family tree, and seven short stories not found in the light novels. Also included are behind-the-scenes reports on the recording of a Bookworm drama CD, and another reader Q&A with author Miya Kazuki.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J7F3MWZ2CRE445P4EXKXZ.jpg",
+    "width": 282,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-XJYQS6I",
+   "title": "Ascendance of a Bookworm: Fanbook 3",
+   "shortTitle": "Volume 3",
+   "number": 3,
+   "position": 3,
+   "creators": [
+    {
+     "name": "quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "You Shiina",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2022-11-25T06:00:22Z",
+   "physicalPublishing": "2023-10-09T22:00:00Z",
+   "noEbook": false,
+   "description": "Here is the third official Ascendance of a Bookworm fanbook, intended to be read after finishing Part 4 Volume 4 and Royal Academy Stories - First Year. This volume contains more art, character design sheets, manga, and a short story not found in the light novels. Also included are a detailed map of the Royal Academy’s library, Philine’s notes on all the duchies in Yurgenschmidt, and yet another Q&A with author Miya Kazuki.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J801REYPANM6PJ172GKD5.jpg",
+    "width": 287,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-7RHEW2I",
+   "title": "Ascendance of a Bookworm: Fanbook 4",
+   "shortTitle": "Volume 4",
+   "number": 4,
+   "position": 4,
+   "creators": [
+    {
+     "name": "quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "You Shiina",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2024-07-12T05:00:22Z",
+   "physicalPublishing": "2025-07-14T22:00:00Z",
+   "noEbook": false,
+   "description": "Here is the fourth official Ascendance of a Bookworm fanbook, intended to be read after finishing Part 4 Volume 8. This volume contains even more illustrations, character design sheets, and manga, as well as a short story not found in the light novels. Also included are exclusive notes about the development of the anime, design sheets for the gods, coverage of yet another drama CD, and a new extensive Q and A with author Miya Kazuki.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J90W2Z2CEG9DW9113EB80.jpg",
+    "width": 281,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-VBQVM4I",
+   "title": "Ascendance of a Bookworm: Fanbook 5",
+   "shortTitle": "Volume 5",
+   "number": 5,
+   "position": 5,
+   "creators": [
+    {
+     "name": "quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "You Shiina",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2024-11-11T06:00:22Z",
+   "physicalPublishing": "2025-11-10T23:00:00Z",
+   "noEbook": false,
+   "description": "Here is the fifth official Ascendance of a Bookworm fanbook, intended to be read after finishing Part 5 Volume 3. As always, this volume contains plenty of art, character design sheets, manga, and a short story not found in the light novels. Also included are the end cards from the first two seasons of the anime and the longest translated Q & A with author Miya Kazuki to date!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J99AB102D4WN56J8H430Z.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-JWY22LY",
+   "title": "Ascendance of a Bookworm: Fanbook 6",
+   "shortTitle": "Volume 6",
+   "number": 6,
+   "position": 6,
+   "creators": [
+    {
+     "name": "quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "You Shiina",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Hikaru Katsuki",
+     "role": "ARTIST"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2025-08-08T05:00:22Z",
+   "physicalPublishing": "2026-07-13T22:00:00Z",
+   "noEbook": false,
+   "description": "The sixth official Ascendance of a Bookworm fanbook is here, perfect for readers who’ve finished Part 5 Volume 6. Inside, you’ll find character design sheets, manga, stunning artwork, and coverage of not one but two drama CDs. This installment also offers an exclusive look at how author Miya Kazuki plans her short stories, along with the longest Q&A yet - surpassing even that of the previous fanbook!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/V/Y/KN50RBD3MKWGMX5QYA7NW.jpg",
+    "width": 860,
+    "height": 1195
+   }
+  },
+  {
+   "id": "VOL-UQDXQBQ",
+   "title": "Ascendance of a Bookworm: Fanbook 7",
+   "shortTitle": "Volume 7",
+   "number": 7,
+   "position": 7,
+   "creators": [
+    {
+     "name": "quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "You Shiina",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Hikaru Katsuki",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Ryo Namino",
+     "role": "ARTIST"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2025-11-03T06:00:22Z",
+   "physicalPublishing": "2026-10-12T22:00:00Z",
+   "noEbook": false,
+   "description": "The seventh official Ascendance of a Bookworm fanbook has arrived, recommended to be enjoyed after finishing the final volume of the light novels. This edition is packed with fresh content: new character design sheets, exclusive manga, stunning artwork, and coverage of two more drama CDs. Featuring the first full map of the Royal Academy and another enormous Q&A with author Miya Kazuki, there’s plenty for fans to sink their teeth into!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01K/2/2/RRED2FBZ4FPWAN26CNH02.jpg",
+    "width": 860,
+    "height": 1214
+   }
+  },
+  {
+   "id": "VOL-WEFXQEA",
+   "title": "Ascendance of a Bookworm: Fanbook 8",
+   "shortTitle": "Volume 8",
+   "number": 8,
+   "position": 8,
+   "creators": [
+    {
+     "name": "quof",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Miya Kazuki",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Kieran Redgewell",
+     "role": "EDITOR"
+    },
+    {
+     "name": "You Shiina",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Suzuka",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Nicole Roderick",
+     "role": "LETTERER"
+    },
+    {
+     "name": "Hikaru Katsuki",
+     "role": "ARTIST"
+    },
+    {
+     "name": "Ryo Namino",
+     "role": "ARTIST"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2026-08-03T05:00:22Z",
+   "noEbook": false,
+   "description": "This is the eighth official Ascendance of a Bookworm fanbook, best enjoyed after finishing the light novels. Character design details, stunning artwork, exclusive manga, drama CD reports, and a unique short story await readers in this new volume. Together with the first full map of Alexandria and the longest translated Q&A yet with author Miya Kazuki, there’s plenty here for Bookworm fans to sink their teeth into!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01K/N/7/SEADK33CVDFZ6X2HEXQY0.jpg",
+    "width": 860,
+    "height": 1216
+   }
+  }
+ ],
+ "pagination": {
+  "limit": 0,
+  "skip": 0,
+  "lastPage": true
+ }
+}

@@ -1,0 +1,1357 @@
+{
+ "work_id": 1279,
+ "work_name": "Дозоры",
+ "work_type": "Цикл",
+ "children": [
+  {
+   "work_id": 1255,
+   "work_name": "Ночной Дозор",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 1,
+   "plus": null,
+   "work_year": 1998
+  },
+  {
+   "work_id": 1260,
+   "work_name": "Дневной Дозор",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 1,
+   "plus": null,
+   "work_year": 2000
+  },
+  {
+   "work_id": 1276,
+   "work_name": "Сумеречный Дозор",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 1,
+   "plus": null,
+   "work_year": 2003
+  },
+  {
+   "work_id": 12167,
+   "work_name": "Последний Дозор",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 1,
+   "plus": null,
+   "work_year": 2005
+  },
+  {
+   "work_id": 239082,
+   "work_name": "Новый Дозор",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 1,
+   "plus": null,
+   "work_year": 2012
+  },
+  {
+   "work_id": 513545,
+   "work_name": "Шестой Дозор",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 1,
+   "plus": null,
+   "work_year": 2014
+  },
+  {
+   "work_id": 1090326,
+   "work_name": "Вечный Дозор",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 1,
+   "plus": null,
+   "work_year": null
+  },
+  {
+   "work_id": 46960,
+   "work_name": "Мелкий Дозор",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 1,
+   "plus": 1,
+   "work_year": 2007
+  },
+  {
+   "work_id": 504460,
+   "work_name": "Новогодний Дозор",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 1,
+   "plus": 1,
+   "work_year": 2013
+  },
+  {
+   "work_id": 845811,
+   "work_name": "Снежный король",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 1,
+   "plus": 1,
+   "work_year": 2016
+  },
+  {
+   "work_id": 154806,
+   "work_name": "Ночной Дозор",
+   "work_type": "комикс",
+   "work_type_id": 41,
+   "deep": 1,
+   "plus": 1,
+   "work_year": 2009
+  },
+  {
+   "work_id": 801994,
+   "work_name": "Дозоры Сергея Лукьяненко",
+   "work_type": "цикл",
+   "work_type_id": 4,
+   "deep": 1,
+   "plus": null,
+   "work_year": null
+  },
+  {
+   "work_id": 837322,
+   "work_name": "Именем Тьмы",
+   "work_type": "цикл",
+   "work_type_id": 4,
+   "deep": 2,
+   "plus": null,
+   "work_year": null
+  },
+  {
+   "work_id": 9998,
+   "work_name": "Лик Чёрной Пальмиры",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2003
+  },
+  {
+   "work_id": 406301,
+   "work_name": "Время инверсий",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2014
+  },
+  {
+   "work_id": 1891551,
+   "work_name": "Чужое знание",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2024
+  },
+  {
+   "work_id": 66821,
+   "work_name": "Иной среди Иных",
+   "work_type": "повесть",
+   "work_type_id": 44,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2004
+  },
+  {
+   "work_id": 837323,
+   "work_name": "Школа Инквизиции",
+   "work_type": "цикл",
+   "work_type_id": 4,
+   "deep": 2,
+   "plus": null,
+   "work_year": null
+  },
+  {
+   "work_id": 499073,
+   "work_name": "Школьный Надзор",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2013
+  },
+  {
+   "work_id": 611173,
+   "work_name": "Теневой Дозор",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2015
+  },
+  {
+   "work_id": 918147,
+   "work_name": "Книжный Дозор",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 948490,
+   "work_name": "Узники Сумрака",
+   "work_type": "цикл",
+   "work_type_id": 4,
+   "deep": 2,
+   "plus": null,
+   "work_year": null
+  },
+  {
+   "work_id": 528102,
+   "work_name": "Печать Сумрака",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2014
+  },
+  {
+   "work_id": 872295,
+   "work_name": "Время желаний",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 832079,
+   "work_name": "Светлый Клин",
+   "work_type": "цикл",
+   "work_type_id": 4,
+   "deep": 2,
+   "plus": null,
+   "work_year": null
+  },
+  {
+   "work_id": 536964,
+   "work_name": "Участковый",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2014
+  },
+  {
+   "work_id": 634383,
+   "work_name": "По Иному этапу",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2015
+  },
+  {
+   "work_id": 780139,
+   "work_name": "Сын Дога",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2016
+  },
+  {
+   "work_id": 634384,
+   "work_name": "Санаторно-курортная монография",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": 1,
+   "work_year": 2015
+  },
+  {
+   "work_id": 858937,
+   "work_name": "Затерянный Дозор",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2016
+  },
+  {
+   "work_id": 598405,
+   "work_name": "Умник",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2014
+  },
+  {
+   "work_id": 152166,
+   "work_name": "Шаг невидимки",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2014
+  },
+  {
+   "work_id": 634382,
+   "work_name": "Мелкий Дозор",
+   "work_type": "антология",
+   "work_type_id": 17,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2015
+  },
+  {
+   "work_id": 853949,
+   "work_name": "Изначальные силы",
+   "work_type": "цикл",
+   "work_type_id": 4,
+   "deep": 2,
+   "plus": null,
+   "work_year": null
+  },
+  {
+   "work_id": 701182,
+   "work_name": "Оперативный резерв",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2015
+  },
+  {
+   "work_id": 853950,
+   "work_name": "Одиночный Дозор",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2016
+  },
+  {
+   "work_id": 738543,
+   "work_name": "Цветной Дозор",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2016
+  },
+  {
+   "work_id": 1341375,
+   "work_name": "Изнанка Договора",
+   "work_type": "цикл",
+   "work_type_id": 4,
+   "deep": 2,
+   "plus": null,
+   "work_year": null
+  },
+  {
+   "work_id": 761388,
+   "work_name": "Дозоры не работают вместе",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2016
+  },
+  {
+   "work_id": 889384,
+   "work_name": "Тайный Дозор",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 1238135,
+   "work_name": "Сердце Сумрака",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 12332,
+   "work_name": "Глубокий Сумрак",
+   "work_type": "цикл",
+   "work_type_id": 4,
+   "deep": 2,
+   "plus": null,
+   "work_year": null
+  },
+  {
+   "work_id": 634391,
+   "work_name": "Солнце глубин",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": 1,
+   "work_year": 2015
+  },
+  {
+   "work_id": 777300,
+   "work_name": "Глубокий Сумрак",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2016
+  },
+  {
+   "work_id": 1203112,
+   "work_name": "Сергей  Воробьёв",
+   "work_type": "цикл",
+   "work_type_id": 4,
+   "deep": 2,
+   "plus": null,
+   "work_year": null
+  },
+  {
+   "work_id": 778931,
+   "work_name": "Севастопольский Дозор",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2016
+  },
+  {
+   "work_id": 1203111,
+   "work_name": "Светлая Тень",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 828849,
+   "work_name": "Масть",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2016
+  },
+  {
+   "work_id": 929313,
+   "work_name": "Невский Дозор",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 634392,
+   "work_name": "Ребус для фотографа",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2015
+  },
+  {
+   "work_id": 943383,
+   "work_name": "Чужой Дозор",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 970959,
+   "work_name": "Дозорный навсегда",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 1055094,
+   "work_name": "Дозор с бульвара Капуцинов",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2018
+  },
+  {
+   "work_id": 975648,
+   "work_name": "Клинки кардинала",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2018
+  },
+  {
+   "work_id": 1034562,
+   "work_name": "Запах Сумрака",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2018
+  },
+  {
+   "work_id": 1090192,
+   "work_name": "Территория Дозоров",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2018
+  },
+  {
+   "work_id": 1095737,
+   "work_name": "Дикий артефакт",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 1144203,
+   "work_name": "Тень сумеречных крыльев",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 1904200,
+   "work_name": "Обвальщик",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 1904203,
+   "work_name": "Мёртвые не кусаются",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 1904213,
+   "work_name": "Происхождение видов",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2018
+  },
+  {
+   "work_id": 1305522,
+   "work_name": "Нахимовский Дозор",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2020
+  },
+  {
+   "work_id": null,
+   "work_name": "Фанфики",
+   "work_type": null,
+   "work_type_id": 7,
+   "deep": 2,
+   "plus": null,
+   "work_year": null
+  },
+  {
+   "work_id": 1431417,
+   "work_name": "Батарейки",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2012
+  },
+  {
+   "work_id": 1264437,
+   "work_name": "Физика и лирика",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2015
+  },
+  {
+   "work_id": 1858319,
+   "work_name": "Почему коты не падают с крыш",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2015
+  },
+  {
+   "work_id": 1903666,
+   "work_name": "Не уйти, не спрятаться, не скрыться",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2015
+  },
+  {
+   "work_id": 1904144,
+   "work_name": "Геном Иного",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2015
+  },
+  {
+   "work_id": 1904145,
+   "work_name": "Аура купюры",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2015
+  },
+  {
+   "work_id": 1904158,
+   "work_name": "Не пара",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2015
+  },
+  {
+   "work_id": 1904184,
+   "work_name": "Заговор шутов",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2015
+  },
+  {
+   "work_id": 1904185,
+   "work_name": "Марш, марш левой",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2015
+  },
+  {
+   "work_id": 1264438,
+   "work_name": "Холод наших сердец",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2016
+  },
+  {
+   "work_id": 1264439,
+   "work_name": "Мёд поэзии",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2016
+  },
+  {
+   "work_id": 1903671,
+   "work_name": "Морской дозор",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2016
+  },
+  {
+   "work_id": 1904186,
+   "work_name": "Гений сантехники",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2016
+  },
+  {
+   "work_id": 1904187,
+   "work_name": "Солдатская шинель",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2016
+  },
+  {
+   "work_id": 1904188,
+   "work_name": "Оле Лукойе и его друзья",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2016
+  },
+  {
+   "work_id": 1904189,
+   "work_name": "Юбилейный рубль",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2016
+  },
+  {
+   "work_id": 1904190,
+   "work_name": "Ядреный аргумент",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2016
+  },
+  {
+   "work_id": 1264379,
+   "work_name": "Аве, Цезарь",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 1264442,
+   "work_name": "Я люблю лето",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 1265056,
+   "work_name": "Увидеть свет",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 1265057,
+   "work_name": "Страшная сказка",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 1265058,
+   "work_name": "Проклятие",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 1904141,
+   "work_name": "Девять странных тату",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 1904147,
+   "work_name": "Лесной найдёныш",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 1904148,
+   "work_name": "Одной крови",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 1904161,
+   "work_name": "Мера",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 1904163,
+   "work_name": "Ойса",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 1904206,
+   "work_name": "Месть силы",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 1264380,
+   "work_name": "Светлая башня",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2018
+  },
+  {
+   "work_id": 1884261,
+   "work_name": "Тайное становится явным",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2018
+  },
+  {
+   "work_id": 1904164,
+   "work_name": "Игра",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2018
+  },
+  {
+   "work_id": 1264383,
+   "work_name": "Свет, который он несёт",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 1884262,
+   "work_name": "Тохта",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 1904165,
+   "work_name": "Барышня на коммутаторе",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132519,
+   "work_name": "Мой личный Мир Дозоров",
+   "work_type": "сборник",
+   "work_type_id": 3,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132520,
+   "work_name": "Одна минута войны",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132521,
+   "work_name": "Дозор №7",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132522,
+   "work_name": "Бой",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132523,
+   "work_name": "Дай мне шанс все исправить",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132524,
+   "work_name": "Темно-светлая инициация или Дрянной рассказ о Добре и Зле",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132525,
+   "work_name": "Случайности не случайны",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132526,
+   "work_name": "Кукла колдуна",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132527,
+   "work_name": "Дьяволица в жёлтом платье",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132528,
+   "work_name": "Мой ласковый и нежный участковый",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132529,
+   "work_name": "Сумрак",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132530,
+   "work_name": "Ящер",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132532,
+   "work_name": "Инсепшен",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132533,
+   "work_name": "Шашлычок",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132534,
+   "work_name": "Светлые не те, кем кажутся",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132536,
+   "work_name": "Пешка для ферзя",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132537,
+   "work_name": "Блицкриг",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132538,
+   "work_name": "Линии озера жизни",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132539,
+   "work_name": "Безумный Семён: Небоскрёб ярости",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132540,
+   "work_name": "О делах минувших",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132541,
+   "work_name": "Во имя благой цели",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132542,
+   "work_name": "В унисон",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132543,
+   "work_name": "Начинался новый день",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132544,
+   "work_name": "Дежурный по маю",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132545,
+   "work_name": "Рукописи не горят",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132546,
+   "work_name": "Совершенный Свет",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132547,
+   "work_name": "Заходят как-то в бар...",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132548,
+   "work_name": "Подлинные мечты Императора",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2132549,
+   "work_name": "Один день простого человека",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": 2347221,
+   "work_name": "Дозорные байки",
+   "work_type": "сборник",
+   "work_type_id": 3,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2020
+  },
+  {
+   "work_id": 1904160,
+   "work_name": "Меньшее зло",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2016
+  },
+  {
+   "work_id": 2347222,
+   "work_name": "Жестокая игра",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2020
+  },
+  {
+   "work_id": 1904162,
+   "work_name": "Ваниль",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 1904157,
+   "work_name": "Аргентина – Ямайка",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2015
+  },
+  {
+   "work_id": 2347224,
+   "work_name": "Если б не было войны",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2020
+  },
+  {
+   "work_id": 1904159,
+   "work_name": "Зеркало души",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2015
+  },
+  {
+   "work_id": 2347225,
+   "work_name": "Зверь",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2020
+  },
+  {
+   "work_id": 2347226,
+   "work_name": "Ивасик",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2020
+  },
+  {
+   "work_id": 2347234,
+   "work_name": "Дозорные рукописи",
+   "work_type": "сборник",
+   "work_type_id": 3,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2020
+  },
+  {
+   "work_id": 2347236,
+   "work_name": "Клыки кардинала",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2018
+  },
+  {
+   "work_id": 2347237,
+   "work_name": "Мастер",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 2347238,
+   "work_name": "Волчья зима",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2014
+  },
+  {
+   "work_id": 2347239,
+   "work_name": "Пляска Смерти",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2015
+  },
+  {
+   "work_id": 2347240,
+   "work_name": "Благие намерения",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2017
+  },
+  {
+   "work_id": 2347241,
+   "work_name": "Сумрак в их глазах",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 4,
+   "plus": null,
+   "work_year": 2015
+  },
+  {
+   "work_id": 2347231,
+   "work_name": "Уральский Дозор: Ключ земли",
+   "work_type": "роман",
+   "work_type_id": 1,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2025
+  },
+  {
+   "work_id": 1205901,
+   "work_name": "Патруль",
+   "work_type": "рассказ",
+   "work_type_id": 45,
+   "deep": 3,
+   "plus": null,
+   "work_year": 2019
+  },
+  {
+   "work_id": null,
+   "work_name": "Фрагменты, отдельно опубликованные главы:",
+   "work_type": null,
+   "work_type_id": 7,
+   "deep": 1,
+   "plus": 1,
+   "work_year": null
+  },
+  {
+   "work_id": 1253,
+   "work_name": "Свой среди своих",
+   "work_type": "повесть",
+   "work_type_id": 44,
+   "deep": 2,
+   "plus": null,
+   "work_year": 1998
+  },
+  {
+   "work_id": 115576,
+   "work_name": "Ничьё время",
+   "work_type": "повесть",
+   "work_type_id": 44,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2002
+  },
+  {
+   "work_id": 289985,
+   "work_name": "Смутные цели",
+   "work_type": "повесть",
+   "work_type_id": 44,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2011
+  },
+  {
+   "work_id": 543023,
+   "work_name": "Участковый",
+   "work_type": "отрывок",
+   "work_type_id": 49,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2014
+  },
+  {
+   "work_id": 591648,
+   "work_name": "Обыденный дозор",
+   "work_type": "повесть",
+   "work_type_id": 44,
+   "deep": 2,
+   "plus": null,
+   "work_year": 2014
+  }
+ ]
+}

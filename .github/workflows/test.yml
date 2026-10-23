@@ -1,0 +1,61 @@
+name: Test
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  rust:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        dir: [providers/douban, providers/fantlab, providers/jnovelclub, providers/libris, providers/lubimyczytac, providers/mangabaka, starters/rust]
+    defaults:
+      run:
+        working-directory: ${{ matrix.dir }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          components: clippy, rustfmt
+      - run: cargo fmt --check
+      - run: cargo clippy --all-targets -- -D warnings
+      - run: cargo test
+
+  go:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        dir: [starters/go, conformance]
+    defaults:
+      run:
+        working-directory: ${{ matrix.dir }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: ${{ matrix.dir }}/go.mod
+      - run: test -z "$(gofmt -l .)"
+      - run: go vet ./...
+      - run: go test ./...
+
+  directory:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      # BookOrbit reads directory.json to list the providers an admin can install.
+      - name: Check directory.json lists every provider, with the fields BookOrbit needs
+        run: |
+          jq -e '.providers | length > 0' directory.json > /dev/null
+          jq -e '.providers | all(.key and .name and .summary and .image and .version and .docsUrl)' directory.json > /dev/null
+          for dir in providers/*/; do
+            key=$(basename "$dir")
+            jq -e --arg key "$key" 'any(.providers[]; .key == $key)' directory.json > /dev/null \
+              || { echo "::error::providers/$key is missing from directory.json"; exit 1; }
+          done

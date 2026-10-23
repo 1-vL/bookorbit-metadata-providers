@@ -1,0 +1,1135 @@
+{
+ "@type": "PartialCollectionView",
+ "totalItems": 1413,
+ "items": [
+  {
+   "extent": [
+    {
+     "@type": "Extent",
+     "label": [
+      "123 s."
+     ]
+    }
+   ],
+   "@type": "PhysicalResource",
+   "instanceOf": {
+    "contribution": [
+     {
+      "agent": {
+       "lifeSpan": "1907-2002",
+       "@type": "Person",
+       "familyName": "Lindgren",
+       "givenName": "Astrid",
+       "@id": "https://libris.kb.se/fcrtpljz1qp2bdv#it"
+      },
+      "role": {
+       "code": "aut",
+       "@type": "Role",
+       "@id": "https://id.kb.se/relator/author",
+       "prefLabelByLang": {
+        "sv": "Författare",
+        "en": "Author"
+       }
+      },
+      "@type": "PrimaryContribution"
+     }
+    ],
+    "@type": "Monograph",
+    "subject": [
+     {
+      "@type": "Geographic",
+      "prefLabel": "Oceanien",
+      "@id": "https://id.kb.se/term/sao/Oceanien"
+     },
+     {
+      "@type": "Person",
+      "familyName": "Långstrump",
+      "givenName": "Pippi",
+      "@id": "https://libris.kb.se/tr58c81c0qskgn8#it"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Busig",
+      "@id": "https://id.kb.se/term/barn/Busig"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Frånvarande föräldrar",
+      "@id": "https://id.kb.se/term/barn/Fr%C3%A5nvarande%20f%C3%B6r%C3%A4ldrar"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Självständig",
+      "@id": "https://id.kb.se/term/barn/Sj%C3%A4lvst%C3%A4ndig"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Flickor",
+      "@id": "https://id.kb.se/term/barn/Flickor"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Resor",
+      "@id": "https://id.kb.se/term/barn/Resor"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Pappor",
+      "@id": "https://id.kb.se/term/barn/Pappor"
+     }
+    ],
+    "language": [
+     {
+      "code": "swe",
+      "@type": "Language",
+      "@id": "https://id.kb.se/language/swe",
+      "prefLabelByLang": {
+       "sv": "Svenska",
+       "en": "Swedish"
+      },
+      "sameAs": [
+       {
+        "@id": "https://id.kb.se/i18n/lang/sv"
+       }
+      ]
+     }
+    ],
+    "@id": "https://libris.kb.se/3lv80j9b1pmfsk2w#it",
+    "hasTitle": [
+     {
+      "@type": "Title",
+      "mainTitle": "Pippi Långstrump i Söderhavet"
+     }
+    ],
+    "category": [
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Skönlitteratur",
+      "@id": "https://id.kb.se/term/saogf/Sk%C3%B6nlitteratur",
+      "prefLabelByLang": {
+       "en": "Literature"
+      }
+     },
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Barn- och ungdomslitteratur",
+      "@id": "https://id.kb.se/term/barngf/Barn-%20och%20ungdomslitteratur",
+      "prefLabelByLang": {
+       "en": "Children’s and young adult literature"
+      }
+     },
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Kapitelböcker",
+      "@id": "https://id.kb.se/term/barngf/Kapitelb%C3%B6cker",
+      "prefLabelByLang": {
+       "en": "Chapter books"
+      }
+     },
+     {
+      "code": "txt",
+      "@type": "ContentType",
+      "@id": "https://id.kb.se/term/rda/Text",
+      "prefLabelByLang": {
+       "sv": "Text",
+       "en": "Text"
+      }
+     }
+    ]
+   },
+   "publication": [
+    {
+     "agent": {
+      "@type": "Agent",
+      "label": [
+       "Rabén & Sjögren"
+      ]
+     },
+     "year": "2016",
+     "@type": "PrimaryPublication"
+    }
+   ],
+   "@id": "https://libris.kb.se/wf7kt9071bvj902#it",
+   "hasTitle": [
+    {
+     "@type": "Title",
+     "mainTitle": "Pippi Långstrump i Söderhavet / Astrid Lindgren ; illustrationer av Ingrid Vang Nyman"
+    }
+   ],
+   "identifiedBy": [
+    {
+     "@type": "ISBN",
+     "qualifier": [
+      "halvklotband"
+     ],
+     "value": "9789129699821"
+    },
+    {
+     "@type": "ISBN",
+     "value": "9129699827"
+    }
+   ],
+   "category": [
+    {
+     "@type": "CarrierForm",
+     "@id": "https://id.kb.se/term/saobf/Print",
+     "prefLabelByLang": {
+      "sv": "Tryck",
+      "en": "Print"
+     }
+    },
+    {
+     "code": "nc",
+     "@type": "CarrierType",
+     "@id": "https://id.kb.se/term/rda/Volume",
+     "prefLabelByLang": {
+      "sv": "Volym",
+      "en": "Volume"
+     }
+    }
+   ]
+  },
+  {
+   "@type": "DigitalResource",
+   "instanceOf": {
+    "@type": "Monograph",
+    "subject": [
+     {
+      "@type": "Topic",
+      "prefLabel": "Självständig",
+      "@id": "https://id.kb.se/term/barn/Sj%C3%A4lvst%C3%A4ndig"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Busig",
+      "@id": "https://id.kb.se/term/barn/Busig"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Frånvarande föräldrar",
+      "@id": "https://id.kb.se/term/barn/Fr%C3%A5nvarande%20f%C3%B6r%C3%A4ldrar"
+     },
+     {
+      "@type": "Person",
+      "familyName": "Långstrump",
+      "givenName": "Pippi",
+      "@id": "https://libris.kb.se/tr58c81c0qskgn8#it"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Flickor",
+      "@id": "https://id.kb.se/term/barn/Flickor"
+     }
+    ],
+    "language": [
+     {
+      "code": "swe",
+      "@type": "Language",
+      "@id": "https://id.kb.se/language/swe",
+      "prefLabelByLang": {
+       "sv": "Svenska",
+       "en": "Swedish"
+      },
+      "sameAs": [
+       {
+        "@id": "https://id.kb.se/i18n/lang/sv"
+       }
+      ]
+     }
+    ],
+    "contribution": [
+     {
+      "agent": {
+       "lifeSpan": "1907-2002",
+       "@type": "Person",
+       "familyName": "Lindgren",
+       "givenName": "Astrid",
+       "@id": "https://libris.kb.se/fcrtpljz1qp2bdv#it"
+      },
+      "role": {
+       "code": "aut",
+       "@type": "Role",
+       "@id": "https://id.kb.se/relator/author",
+       "prefLabelByLang": {
+        "sv": "Författare",
+        "en": "Author"
+       }
+      },
+      "@type": "PrimaryContribution"
+     }
+    ],
+    "@id": "https://libris.kb.se/h08ndxppf96q96ff#it",
+    "hasTitle": [
+     {
+      "@type": "Title",
+      "mainTitle": "Pippi Långstrump"
+     }
+    ],
+    "category": [
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Skönlitteratur",
+      "@id": "https://id.kb.se/term/saogf/Sk%C3%B6nlitteratur",
+      "prefLabelByLang": {
+       "en": "Literature"
+      }
+     },
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Barn- och ungdomslitteratur",
+      "@id": "https://id.kb.se/term/barngf/Barn-%20och%20ungdomslitteratur",
+      "prefLabelByLang": {
+       "en": "Children’s and young adult literature"
+      }
+     },
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Kapitelböcker",
+      "@id": "https://id.kb.se/term/barngf/Kapitelb%C3%B6cker",
+      "prefLabelByLang": {
+       "en": "Chapter books"
+      }
+     },
+     {
+      "code": "txt",
+      "@type": "ContentType",
+      "@id": "https://id.kb.se/term/rda/Text",
+      "prefLabelByLang": {
+       "sv": "Text",
+       "en": "Text"
+      }
+     }
+    ]
+   },
+   "contribution": [
+    {
+     "agent": {
+      "lifeSpan": "1916-1959",
+      "@type": "Person",
+      "familyName": "Vang Nyman",
+      "givenName": "Ingrid",
+      "@id": "https://libris.kb.se/jgvxtq725k4836h#it"
+     },
+     "role": [
+      {
+       "code": "ill",
+       "@type": "Role",
+       "@id": "https://id.kb.se/relator/illustrator",
+       "prefLabelByLang": {
+        "sv": "Illustratör",
+        "en": "Illustrator"
+       }
+      },
+      {
+       "code": "9pu",
+       "@type": "Role",
+       "@id": "https://id.kb.se/relator/primaryRightsHolder",
+       "prefLabelByLang": {
+        "sv": "Primärt upphovsansvarig"
+       }
+      }
+     ],
+     "@type": "Contribution"
+    }
+   ],
+   "publication": [
+    {
+     "year": "2019",
+     "@type": "PrimaryPublication"
+    },
+    {
+     "agent": {
+      "@type": "Agent",
+      "label": "Astrid Lindgren AB"
+     },
+     "@type": "Publication"
+    }
+   ],
+   "@id": "https://libris.kb.se/095p9hsgxln9mjfr#it",
+   "hasTitle": [
+    {
+     "@type": "Title",
+     "mainTitle": "Pippi Långstrump"
+    }
+   ],
+   "identifiedBy": [
+    {
+     "@type": "ISBN",
+     "value": "9789189035003"
+    },
+    {
+     "@type": "ISBN",
+     "value": "9189035003"
+    }
+   ],
+   "summary": [
+    {
+     "@type": "Summary",
+     "label": "Pippi Långstrump är den starkaste och snällaste och roligaste och rikaste flickan i hela världen. Hon bor alldeles ensam i Villa Villekulla med sin häst och sin apa Herr Nilsson. En hel kappsäck full med gullpengar har hon också. I huset bredvid bor Tommy och Annika, och sedan Pippi flyttade in har allt blivit mycket roligare! För Pippi bakar pepparkakor direkt på golvet, hon kan lyfta sin häst på rak arm och hon leker kull med poliser när de kommer och vill hämta henne till ett barnhem. Pippi Långstrump ställde till med revolution i barnkammaren när den först kom ut 1945, och sedan dess har flera generationer barn över hela världen lärt känna och älska henne.[WeDoBooks]"
+    }
+   ],
+   "hasNote": [
+    {
+     "@type": "Note",
+     "label": "E-bok"
+    }
+   ],
+   "category": [
+    {
+     "code": "cr",
+     "@type": "CarrierType",
+     "@id": "https://id.kb.se/term/rda/OnlineResource",
+     "prefLabelByLang": {
+      "sv": "Onlineresurs",
+      "en": "Online resource"
+     }
+    }
+   ]
+  },
+  {
+   "@type": "DigitalResource",
+   "instanceOf": {
+    "contribution": [
+     {
+      "agent": {
+       "lifeSpan": "1907-2002",
+       "@type": "Person",
+       "familyName": "Lindgren",
+       "givenName": "Astrid",
+       "@id": "https://libris.kb.se/fcrtpljz1qp2bdv#it"
+      },
+      "role": {
+       "code": "aut",
+       "@type": "Role",
+       "@id": "https://id.kb.se/relator/author",
+       "prefLabelByLang": {
+        "sv": "Författare",
+        "en": "Author"
+       }
+      },
+      "@type": "PrimaryContribution"
+     }
+    ],
+    "@type": "Monograph",
+    "subject": [
+     {
+      "@type": "Geographic",
+      "prefLabel": "Oceanien",
+      "@id": "https://id.kb.se/term/sao/Oceanien"
+     },
+     {
+      "@type": "Person",
+      "familyName": "Långstrump",
+      "givenName": "Pippi",
+      "@id": "https://libris.kb.se/tr58c81c0qskgn8#it"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Busig",
+      "@id": "https://id.kb.se/term/barn/Busig"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Frånvarande föräldrar",
+      "@id": "https://id.kb.se/term/barn/Fr%C3%A5nvarande%20f%C3%B6r%C3%A4ldrar"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Självständig",
+      "@id": "https://id.kb.se/term/barn/Sj%C3%A4lvst%C3%A4ndig"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Flickor",
+      "@id": "https://id.kb.se/term/barn/Flickor"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Resor",
+      "@id": "https://id.kb.se/term/barn/Resor"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Pappor",
+      "@id": "https://id.kb.se/term/barn/Pappor"
+     }
+    ],
+    "language": [
+     {
+      "code": "swe",
+      "@type": "Language",
+      "@id": "https://id.kb.se/language/swe",
+      "prefLabelByLang": {
+       "sv": "Svenska",
+       "en": "Swedish"
+      },
+      "sameAs": [
+       {
+        "@id": "https://id.kb.se/i18n/lang/sv"
+       }
+      ]
+     }
+    ],
+    "@id": "https://libris.kb.se/3lv80j9b1pmfsk2w#it",
+    "hasTitle": [
+     {
+      "@type": "Title",
+      "mainTitle": "Pippi Långstrump i Söderhavet"
+     }
+    ],
+    "category": [
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Skönlitteratur",
+      "@id": "https://id.kb.se/term/saogf/Sk%C3%B6nlitteratur",
+      "prefLabelByLang": {
+       "en": "Literature"
+      }
+     },
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Barn- och ungdomslitteratur",
+      "@id": "https://id.kb.se/term/barngf/Barn-%20och%20ungdomslitteratur",
+      "prefLabelByLang": {
+       "en": "Children’s and young adult literature"
+      }
+     },
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Kapitelböcker",
+      "@id": "https://id.kb.se/term/barngf/Kapitelb%C3%B6cker",
+      "prefLabelByLang": {
+       "en": "Chapter books"
+      }
+     },
+     {
+      "code": "txt",
+      "@type": "ContentType",
+      "@id": "https://id.kb.se/term/rda/Text",
+      "prefLabelByLang": {
+       "sv": "Text",
+       "en": "Text"
+      }
+     }
+    ]
+   },
+   "contribution": [
+    {
+     "agent": {
+      "lifeSpan": "1916-1959",
+      "@type": "Person",
+      "familyName": "Vang Nyman",
+      "givenName": "Ingrid",
+      "@id": "https://libris.kb.se/jgvxtq725k4836h#it"
+     },
+     "role": [
+      {
+       "code": "cov",
+       "@type": "Role",
+       "@id": "https://id.kb.se/relator/coverDesigner",
+       "prefLabelByLang": {
+        "sv": "Omslagsformgivare",
+        "en": "Cover designer"
+       }
+      },
+      {
+       "code": "ill",
+       "@type": "Role",
+       "@id": "https://id.kb.se/relator/illustrator",
+       "prefLabelByLang": {
+        "sv": "Illustratör",
+        "en": "Illustrator"
+       }
+      }
+     ],
+     "@type": "Contribution"
+    }
+   ],
+   "publication": [
+    {
+     "date": [
+      "[2019]"
+     ],
+     "year": "2019",
+     "@type": "PrimaryPublication"
+    },
+    {
+     "agent": {
+      "@type": "Agent",
+      "label": "Astrid Lindgren AB"
+     },
+     "@type": "Publication"
+    }
+   ],
+   "@id": "https://libris.kb.se/p0vd06vmm2t5xrhp#it",
+   "hasTitle": [
+    {
+     "@type": "Title",
+     "mainTitle": "Pippi Långstrump i Söderhavet"
+    }
+   ],
+   "identifiedBy": [
+    {
+     "@type": "ISBN",
+     "value": "9789189035027"
+    },
+    {
+     "@type": "ISBN",
+     "value": "918903502X"
+    }
+   ],
+   "summary": [
+    {
+     "@type": "Summary",
+     "label": "Pippi Långstrump är den starkaste och snällaste och roligaste och rikaste flickan i hela världen. Hon bor alldeles ensam i Villa Villekulla med sin häst och sin apa Herr Nilsson. En hel kappsäck full med gullpengar har hon också. I huset bredvid bor Tommy och Annika, och sedan Pippi flyttade in har allt blivit mycket roligare! I tredje boken om Pippi letar barnen efter en spunk och ordnar frågesport på Pippis vis. Tommy och Annika får följa med Pippi till Kurrekurreduttön i Söderhavet och Pippi tämjer skurkar som vill stjäla pärlorna som kurredutt-barnen spelar kula med. Till sist äter de krumelurpiller - då behöver de aldrig bli stora![WeDoBooks]"
+    }
+   ],
+   "hasNote": [
+    {
+     "@type": "Note",
+     "label": "E-bok"
+    }
+   ],
+   "category": [
+    {
+     "code": "cr",
+     "@type": "CarrierType",
+     "@id": "https://id.kb.se/term/rda/OnlineResource",
+     "prefLabelByLang": {
+      "sv": "Onlineresurs",
+      "en": "Online resource"
+     }
+    }
+   ]
+  },
+  {
+   "@type": "DigitalResource",
+   "instanceOf": {
+    "contribution": [
+     {
+      "agent": {
+       "lifeSpan": "1907-2002",
+       "@type": "Person",
+       "familyName": "Lindgren",
+       "givenName": "Astrid",
+       "@id": "https://libris.kb.se/fcrtpljz1qp2bdv#it"
+      },
+      "role": {
+       "code": "aut",
+       "@type": "Role",
+       "@id": "https://id.kb.se/relator/author",
+       "prefLabelByLang": {
+        "sv": "Författare",
+        "en": "Author"
+       }
+      },
+      "@type": "PrimaryContribution"
+     }
+    ],
+    "@type": "Monograph",
+    "subject": [
+     {
+      "@type": "Topic",
+      "prefLabel": "Självständig",
+      "@id": "https://id.kb.se/term/barn/Sj%C3%A4lvst%C3%A4ndig"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Flickor",
+      "@id": "https://id.kb.se/term/barn/Flickor"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Föräldralös",
+      "@id": "https://id.kb.se/term/barn/F%C3%B6r%C3%A4ldral%C3%B6s"
+     },
+     {
+      "@type": "Person",
+      "familyName": "Långstrump",
+      "givenName": "Pippi",
+      "@id": "https://libris.kb.se/tr58c81c0qskgn8#it"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Busig",
+      "@id": "https://id.kb.se/term/barn/Busig"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Frånvarande föräldrar",
+      "@id": "https://id.kb.se/term/barn/Fr%C3%A5nvarande%20f%C3%B6r%C3%A4ldrar"
+     }
+    ],
+    "language": [
+     {
+      "code": "swe",
+      "@type": "Language",
+      "@id": "https://id.kb.se/language/swe",
+      "prefLabelByLang": {
+       "sv": "Svenska",
+       "en": "Swedish"
+      },
+      "sameAs": [
+       {
+        "@id": "https://id.kb.se/i18n/lang/sv"
+       }
+      ]
+     }
+    ],
+    "@id": "https://libris.kb.se/q7hwm5xxn55w3v2q#it",
+    "hasTitle": [
+     {
+      "@type": "Title",
+      "mainTitle": "Pippi Långstrump går ombord"
+     }
+    ],
+    "category": [
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Skönlitteratur",
+      "@id": "https://id.kb.se/term/saogf/Sk%C3%B6nlitteratur",
+      "prefLabelByLang": {
+       "en": "Literature"
+      }
+     },
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Kapitelböcker",
+      "@id": "https://id.kb.se/term/barngf/Kapitelb%C3%B6cker",
+      "prefLabelByLang": {
+       "en": "Chapter books"
+      }
+     },
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Barn- och ungdomslitteratur",
+      "@id": "https://id.kb.se/term/barngf/Barn-%20och%20ungdomslitteratur",
+      "prefLabelByLang": {
+       "en": "Children’s and young adult literature"
+      }
+     },
+     {
+      "code": "txt",
+      "@type": "ContentType",
+      "@id": "https://id.kb.se/term/rda/Text",
+      "prefLabelByLang": {
+       "sv": "Text",
+       "en": "Text"
+      }
+     }
+    ]
+   },
+   "contribution": [
+    {
+     "agent": {
+      "lifeSpan": "1916-1959",
+      "@type": "Person",
+      "familyName": "Vang Nyman",
+      "givenName": "Ingrid",
+      "@id": "https://libris.kb.se/jgvxtq725k4836h#it"
+     },
+     "role": [
+      {
+       "code": "ill",
+       "@type": "Role",
+       "@id": "https://id.kb.se/relator/illustrator",
+       "prefLabelByLang": {
+        "sv": "Illustratör",
+        "en": "Illustrator"
+       }
+      }
+     ],
+     "@type": "Contribution"
+    }
+   ],
+   "publication": [
+    {
+     "date": [
+      "[2019]"
+     ],
+     "year": "2019",
+     "@type": "PrimaryPublication"
+    },
+    {
+     "agent": {
+      "@type": "Agent",
+      "label": "Astrid Lindgren AB"
+     },
+     "@type": "Publication"
+    }
+   ],
+   "@id": "https://libris.kb.se/r2xg28h0pfhkjcv9#it",
+   "hasTitle": [
+    {
+     "@type": "Title",
+     "mainTitle": "Pippi Långstrump går ombord"
+    }
+   ],
+   "identifiedBy": [
+    {
+     "@type": "ISBN",
+     "value": "9789189035010"
+    },
+    {
+     "@type": "ISBN",
+     "value": "9189035011"
+    }
+   ],
+   "summary": [
+    {
+     "@type": "Summary",
+     "label": "Pippi Långstrump är den starkaste och snällaste och roligaste och rikaste flickan i hela världen. Hon bor alldeles ensam i Villa Villekulla med sin häst och sin apa Herr Nilsson. En hel kappsäck full med gullpengar har hon också. I huset bredvid bor Tommy och Annika, och sedan Pippi flyttade in har allt blivit mycket roligare! Här får vi följa med när hon köper arton kilo karameller, när hon går på marknad och tämjer boaormar och busar, när hon tar Tommy och Annika till en öde ö och är skeppsbruten i två dagar. Man har aldrig tråkigt i sällskap med Pippi Långstrump![WeDoBooks]"
+    }
+   ],
+   "hasNote": [
+    {
+     "@type": "Note",
+     "label": "E-bok"
+    }
+   ],
+   "category": [
+    {
+     "code": "cr",
+     "@type": "CarrierType",
+     "@id": "https://id.kb.se/term/rda/OnlineResource",
+     "prefLabelByLang": {
+      "sv": "Onlineresurs",
+      "en": "Online resource"
+     }
+    }
+   ]
+  },
+  {
+   "extent": [
+    {
+     "@type": "Extent",
+     "label": [
+      "69 s."
+     ]
+    }
+   ],
+   "@type": "PhysicalResource",
+   "instanceOf": {
+    "summary": [
+     {
+      "@type": "Summary",
+      "language": [
+       {
+        "@id": "https://id.kb.se/language/swe"
+       }
+      ]
+     }
+    ],
+    "contribution": [
+     {
+      "agent": {
+       "@type": "Person",
+       "familyName": "Pyun",
+       "givenName": "Hegyong",
+       "@id": "https://libris.kb.se/gdsvz6q00mkr82g#it"
+      },
+      "role": [
+       {
+        "code": "aut",
+        "@type": "Role",
+        "@id": "https://id.kb.se/relator/author",
+        "prefLabelByLang": {
+         "sv": "Författare",
+         "en": "Author"
+        }
+       }
+      ],
+      "@type": "PrimaryContribution"
+     }
+    ],
+    "@type": "Monograph",
+    "subject": [
+     {
+      "lifeSpan": "1907-2002",
+      "@type": "Person",
+      "familyName": "Lindgren",
+      "givenName": "Astrid",
+      "@id": "https://libris.kb.se/fcrtpljz1qp2bdv#it"
+     },
+     {
+      "termComponentList": [
+       {
+        "@type": "Topic",
+        "prefLabel": "Svensk barn- och ungdomslitteratur",
+        "@id": "https://id.kb.se/term/sao/Svensk%20barn-%20och%20ungdomslitteratur"
+       },
+       {
+        "@type": "TopicSubdivision",
+        "prefLabel": "historia",
+        "@id": "https://id.kb.se/term/sao/historia"
+       }
+      ],
+      "@type": "ComplexSubject"
+     },
+     {
+      "@type": "Topic",
+      "prefLabel": "Pippi Långstrump (fiktiv gestalt)"
+     }
+    ],
+    "language": [
+     {
+      "code": "kor",
+      "@type": "Language",
+      "@id": "https://id.kb.se/language/kor",
+      "prefLabelByLang": {
+       "sv": "Koreanska",
+       "en": "Korean"
+      },
+      "sameAs": [
+       {
+        "@id": "https://id.kb.se/i18n/lang/ko"
+       }
+      ]
+     }
+    ],
+    "category": [
+     {
+      "@type": "GenreForm",
+      "prefLabel": "Analys och tolkning",
+      "@id": "https://id.kb.se/term/saogf/Analys%20och%20tolkning",
+      "prefLabelByLang": {
+       "en": "Criticism and interpretation"
+      }
+     },
+     {
+      "code": "txt",
+      "@type": "ContentType",
+      "@id": "https://id.kb.se/term/rda/Text",
+      "prefLabelByLang": {
+       "sv": "Text",
+       "en": "Text"
+      }
+     }
+    ]
+   },
+   "contribution": [
+    {
+     "agent": {
+      "@type": "Organization",
+      "@id": "https://libris.kb.se/hftw07r12g4lzv4#it",
+      "isPartOf": {
+       "@type": "Organization",
+       "name": "Hankuk University of Foreign Studies."
+      }
+     },
+     "role": [
+      {
+       "code": "pbl",
+       "@type": "Role",
+       "@id": "https://id.kb.se/relator/publisher",
+       "prefLabelByLang": {
+        "sv": "Utgivare",
+        "en": "Publisher"
+       }
+      }
+     ],
+     "@type": "Contribution"
+    }
+   ],
+   "publication": [
+    {
+     "year": "1997",
+     "@type": "PrimaryPublication"
+    },
+    {
+     "agent": {
+      "@type": "Agent",
+      "label": [
+       "Hankuk oekuk ŏdae hakkyo, Taehakwŏn, Sŭk'andinabiaŏkwa"
+      ]
+     },
+     "year": "2000",
+     "@type": "Publication"
+    }
+   ],
+   "@id": "https://libris.kb.se/k2vtmlww4mhzs6t#it",
+   "hasTitle": [
+    {
+     "@type": "Title",
+     "mainTitle": "Astrid Lindgren-ŭi chakp'umbunsŏk",
+     "subtitle": "\"Pippi Långstrump\"-rŭl chungsimuŭro"
+    }
+   ],
+   "category": [
+    {
+     "@type": "CarrierForm",
+     "@id": "https://id.kb.se/term/saobf/Print",
+     "prefLabelByLang": {
+      "sv": "Tryck",
+      "en": "Print"
+     }
+    },
+    {
+     "code": "nc",
+     "@type": "CarrierType",
+     "@id": "https://id.kb.se/term/rda/Volume",
+     "prefLabelByLang": {
+      "sv": "Volym",
+      "en": "Volume"
+     }
+    }
+   ]
+  },
+  {
+   "extent": [
+    {
+     "@type": "Extent",
+     "label": "144 sidor"
+    }
+   ],
+   "@type": "PhysicalResource",
+   "instanceOf": {
+    "contribution": [
+     {
+      "agent": {
+       "@type": "Person",
+       "familyName": "Lindgren",
+       "givenName": "Astrid"
+      },
+      "role": [
+       {
+        "code": "aut",
+        "@type": "Role",
+        "@id": "https://id.kb.se/relator/author",
+        "prefLabelByLang": {
+         "sv": "Författare",
+         "en": "Author"
+        }
+       }
+      ],
+      "@type": "PrimaryContribution"
+     },
+     {
+      "agent": {
+       "@type": "Person",
+       "familyName": "Vang Nyman",
+       "givenName": "Ingrid"
+      },
+      "role": [
+       {
+        "code": "ill",
+        "@type": "Role",
+        "@id": "https://id.kb.se/relator/illustrator",
+        "prefLabelByLang": {
+         "sv": "Illustratör",
+         "en": "Illustrator"
+        }
+       }
+      ],
+      "@type": "Contribution"
+     }
+    ],
+    "@type": "Monograph",
+    "language": [
+     {
+      "code": "swe",
+      "@type": "Language",
+      "@id": "https://id.kb.se/language/swe",
+      "prefLabelByLang": {
+       "sv": "Svenska",
+       "en": "Swedish"
+      },
+      "sameAs": [
+       {
+        "@id": "https://id.kb.se/i18n/lang/sv"
+       }
+      ]
+     }
+    ],
+    "hasTitle": [
+     {
+      "@type": "Title",
+      "mainTitle": "Pippi Långstrump"
+     }
+    ],
+    "category": [
+     {
+      "@type": "GenreForm",
+      "@id": "https://id.kb.se/term/ktg/NonFictionLiterature",
+      "prefLabelByLang": {
+       "sv": "Ej skönlitteratur",
+       "en": "Non-fiction literature"
+      }
+     },
+     {
+      "code": "txt",
+      "@type": "ContentType",
+      "@id": "https://id.kb.se/term/rda/Text",
+      "prefLabelByLang": {
+       "sv": "Text",
+       "en": "Text"
+      }
+     }
+    ]
+   },
+   "publication": [
+    {
+     "agent": {
+      "@type": "Agent",
+      "label": "Rabén & Sjögren"
+     },
+     "year": "2016",
+     "@type": "PrimaryPublication"
+    }
+   ],
+   "@id": "https://libris.kb.se/zh9mwc29528d253#it",
+   "hasTitle": [
+    {
+     "@type": "Title",
+     "mainTitle": "Pippi Långstrump"
+    }
+   ],
+   "identifiedBy": [
+    {
+     "@type": "ISBN",
+     "qualifier": [
+      "halvklotband"
+     ],
+     "value": "9789129699845"
+    },
+    {
+     "@type": "ISBN",
+     "value": "9129699843"
+    }
+   ],
+   "summary": [
+    {
+     "@type": "Summary",
+     "label": "Pippi Långstrump är den starkaste och snällaste och roligaste och rikaste flickan i hela världen. Hon bor alldeles ensam i Villa Villekulla med sin häst och sin apa Herr Nilsson. En hel kappsäck full med gullpengar har hon också. I huset bredvid bor Tommy och Annika, och sedan Pippi flyttade in har allt blivit mycket roligare! För Pippi bakar pepparkakor direkt på golvet, hon kan lyfta sin häst på rak arm och hon leker kull med poliser när de kommer och vill hämta henne till ett barnhem. Pippi Långstrump ställde till med revolution i barnkammaren när den först kom ut 1945, och sedan dess har flera generationer barn över hela världen lärt känna och älska henne. Läs också de andra berättelserna om Pippi: Pippi Långstrump går ombord och Pippi Långstrump i Söderhavet.Boken ingår i ASTRID LINDGRENS SAMLINGSBIBLIOTEK, en vacker samlarserie som omfattar alla Astrid Lindgrens barn- och ungdomsböcker utgivna av Rabén & Sjögren.[Bokinfo]"
+    }
+   ],
+   "seriesMembership": [
+    {
+     "seriesStatement": [
+      "Astrid Lindgrens samlingsbibliotek"
+     ],
+     "@type": "SeriesMembership"
+    }
+   ],
+   "category": [
+    {
+     "code": "nc",
+     "@type": "CarrierType",
+     "@id": "https://id.kb.se/term/rda/Volume",
+     "prefLabelByLang": {
+      "sv": "Volym",
+      "en": "Volume"
+     }
+    },
+    {
+     "@type": "CarrierForm",
+     "@id": "https://id.kb.se/term/saobf/Print",
+     "prefLabelByLang": {
+      "sv": "Tryck",
+      "en": "Print"
+     }
+    }
+   ]
+  }
+ ]
+}

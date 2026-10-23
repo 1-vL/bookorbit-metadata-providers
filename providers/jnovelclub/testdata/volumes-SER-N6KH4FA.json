@@ -1,0 +1,884 @@
+{
+ "volumes": [
+  {
+   "id": "VOL-N3F7WRY",
+   "title": "Grimgar of Fantasy and Ash level.1 Whisper, Chant, Prayer, Awaken",
+   "shortTitle": "Level 1",
+   "number": 1,
+   "position": 1,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Emily Sorensen",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2016-12-15T15:00:00Z",
+   "noEbook": false,
+   "description": "Why are we doing this...?\nWhen Haruhiro came to, he was in the darkness. Not knowing why was he here, or where \"here\" even was. With him were others who also remembered little more than their own names. What they found when they came out of the underground was a world that was \"just like a game.\" In order to survive, Haruhiro forms a party with others in the same situation as him, learns Skills, and takes his first steps forward into the world of Grimgar as a Trainee Volunteer Soldier.\nNot knowing what awaits him... This is a tale of adventure born from the ashes.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J60YTZX8FPNNVR2W9KTM1.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-QQKUUAQ",
+   "title": "Grimgar of Fantasy and Ash level.2 Everything is Precious",
+   "shortTitle": "Level 2",
+   "number": 2,
+   "position": 2,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Emily Sorensen",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2017-02-23T15:00:00Z",
+   "noEbook": false,
+   "description": "“...We can't abandon him. Or rather, I don't think we should.”\n\nHaruhiro and the others who were taken away to the unfamiliar world of Grimgar have now gained experience and are finally maturing as volunteer soldiers. In order to bring things up a level, they’ve traveled to a new dungeon, the Cyrene Mines, but this is also the place where Merry, the newest addition to their party, once lost her comrades.\n\nHaruhiro thought their exploration would go easily, but one member of the party is unexpectedly separated from the rest, and they are all attacked by the famous giant kobold, Death  Spots.\n\nWith new trials to overcome, the tale of adventure born from the ashes enters its second chapter!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J61W4XDRQ8FA06A70E9CZ.jpg",
+    "width": 284,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-G3RIIFQ",
+   "title": "Grimgar of Fantasy and Ash level.3 You Have To Accept That Things Won't Always Go Your Way",
+   "shortTitle": "Level 3",
+   "number": 3,
+   "position": 3,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Emily Sorensen",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2017-04-21T15:00:00Z",
+   "noEbook": false,
+   "description": "“Choco. Wait, could it be that Choco...?”\nHaruhiro and his comrades have become famous due to achievements no one expected from them. With his comrades more confident, Haruhiro is still agonizing over what to do when more experienced volunteer soldiers come to him. Among them is a girl whose name is still in Haruhiro's memories.\nAt that same time, the town of Alterna moves to retake the Deadhead Watchtower held by orcs. Looking to earn some of the reward money, Haruhiro's party ends up joining their first raid alongside Renji and Choco.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J61TCQKSDB0A5VDZK0MTT.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-3SMQI5Y",
+   "title": "Grimgar of Fantasy and Ash level.4 The Leaders and the Led",
+   "shortTitle": "Level 4",
+   "number": 4,
+   "position": 4,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Emily Sorensen",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2017-06-24T15:00:00Z",
+   "noEbook": false,
+   "description": "“Don’t scare me like that, Moguzo.”\n“Sorry, sorry.”\nMoguzo let out an embarrassed laugh and scratched the back of his head. Still, he sure is bleeding a lot, Haruhiro thought. With all that blood, it’s impossible to tell what kind of face he’s making. But, well, it looks like he’s fine somehow.\nHaruhiro and his party reached the end of one major battle. However, with there being some comrades they couldn't save, they couldn't be entirely happy with how things were. Meanwhile, because they managed to accomplish more than anyone had expected, some members of the party receive offers from other teams wanting to poach them, too. As Haruhiro agonizes over what to do as a leader, he is forced to come to grips with what the party wants to do once again.\nThe story of adventure born from the ashes now enters a new stage!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J630CAJGZ76WS3H25TNYS.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-2B7EWQI",
+   "title": "Grimgar of Fantasy and Ash level.5 Hear Me Out, and Try Not to Laugh",
+   "shortTitle": "Level 5",
+   "number": 5,
+   "position": 5,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Emily Sorensen",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2017-09-02T15:00:00Z",
+   "noEbook": false,
+   "description": "\"...So, this thing, what do you think it is?\"\nIt has now been some months since the party came to the Wonder Hole. Haruhiro and his companions have been slowly but steadily improving their skills as they clear the labyrinth. One day, while exploring, they find a \"hole\" they've never seen before. A hole that, as far as they know... wasn't there when they passed through the area three days earlier. It may lead to a new and unexplored area, which would be highly profitable for them if they are the first to set foot in it. Haruhiro is hesitant on whether to go inside or not, but Team Tokimune, a group known for being full of eccentrics, but still highly capable, appear and propose exploring it together.\nThe tale of adventure born from the ashes continues with new encounters.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J642C97VBJ3FVJHTZAEBF.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-MDFXYYY",
+   "title": "Grimgar of Fantasy and Ash level.6 Towards a Glory Not Worth Taking",
+   "shortTitle": "Level 6",
+   "number": 6,
+   "position": 6,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Emily Sorensen",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2017-11-11T15:00:00Z",
+   "noEbook": false,
+   "description": "\"Our goal is already decided, right? So what do you mean, we're turning back?\"\nThe Dusk Realm that Haruhiro and the others discovered had begun to attract attention as a new hunting ground. Haruhiro and the party had also gotten to the point where they could now slay the white giants that they could only run from before and were able to make a steady income there. However, due to the actions of one clan, the danger level in the Dusk Realm rises dramatically. Meanwhile, Haruhiro and the others re-encounter Souma, the head of the Day Breakers which they had joined before, and are slowly but surely dragged into taking part in a large-scale mission involving multiple clans.\nWhen he fights alongside these powerful volunteer soldiers, what will Haruhiro see, and what will he think?",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J653Z8NSS24FVXZ3CNB80.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-PW3UKYY",
+   "title": "Grimgar of Fantasy and Ash level.7 The Rainbow on the Other Side",
+   "shortTitle": "Level 7",
+   "number": 7,
+   "position": 7,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Emily Sorensen",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2018-01-27T15:00:00Z",
+   "noEbook": false,
+   "description": "Having escaped the Dusk Realm, Haruhiro and the party enter another world that is not Grimgar, one where the sun never rises. Even with no information to go on, Haruhiro still must lead his comrades. Fortunately, they discover a town where the residents of this new world live and they are able secure their safety for the time being. However, the environment is harsh and there are still a mountain of problems left to deal with. What's more, they have no leads on the all-important method for returning to Grimgar.\n\nThey question whether they will they be able to go home, and if the real home that sometimes flashes through their minds is actually some other place entirely. With many feelings in their hearts, Haruhiro and the others proceed to explore the new world. As they wander through the ashes, what lies ahead for them?",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J6659R6C7JRG50D22AWFK.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-JCE6Q5Y",
+   "title": "Grimgar of Fantasy and Ash level.8 And So We Wait For Tomorrow",
+   "shortTitle": "Level 8",
+   "number": 8,
+   "position": 8,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Emily Sorensen",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2018-04-01T12:00:00Z",
+   "noEbook": false,
+   "description": "Having overcome many trials and tribulations, Haruhiro and the others succeed in returning to Grimgar. However, though they have returned, they are a long way from the human sphere of influence. When Haruhiro and Yume go scouting, they're lucky enough to encounter members of another party in the Day Breakers clan, the Typhoon Rocks. However, they engaged in a battle against groups of orcs and undead in order to accomplish a certain goal, and Haruhiro and Yume, along with the other four who were left behind, are caught up in the fighting.\n\nIn the world they've returned to, more comrades, encounters, and battles await. As the ashes dance, no one yet knows what lies waiting beyond the fantasy.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J67BWF76YRQQBD0Z70T5C.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-HRXC6QA",
+   "title": "Grimgar of Fantasy and Ash level.9 Here and Now, to Far Far Away",
+   "shortTitle": "Level 9",
+   "number": 9,
+   "position": 9,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Emily Sorensen",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2018-06-11T00:00:00Z",
+   "noEbook": false,
+   "description": "As the battle against the orc Jumbo and his group Forgan descends into utter chaos, Haruhiro and the party face a crisis unlike any before: Ranta has betrayed them to join Forgan.\n\nFrom there, they are split up again and fight an intense retreating battle. Without knowing who among the other party members is safe, Haruhiro and his comrades realize anew what the other members of the group mean to them. Having only realized what they had now that it may be gone, will Haruhiro and the others really lose it, or...?\n\nWhen they encounter an enemy known as \"solitude\" in the misty Thousand Valley, this tale of adventure that crawled out of the ashes will begin to weave a new act.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J68F4NBVYJTT6V1G3E9C9.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-PZYRW5Q",
+   "title": "Grimgar of Fantasy and Ash level.10 Love Songs Won't Reach",
+   "shortTitle": "Level 10",
+   "number": 10,
+   "position": 10,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Emily Sorensen",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2018-08-15T05:00:00Z",
+   "noEbook": false,
+   "description": "There is a certain volunteer soldier in the mountains, deeply wounded and about to meet his end.\nOn the verge of death, he remembers fragments of the world he once inhabited. And then, he questions.\n\nWhat is this world called \"Grimgar\"?\n\nMeanwhile, Haruhiro and his party have left Thousand Valley and are on their way to Alterna. In a forest along their route, they are attacked by massive ape-like monsters called guorellas. This forces them into a difficult battle against a troop of guorellas following a leader called Redback. While narrowly fending off their pursuers, they flee into a village where failed orcs live in hiding...\n\nHe knows. In this world, there is no tomorrow that's guaranteed to come.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J69DXTTWGMFS5AJDA9QG3.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-HKEWSEY",
+   "title": "Grimgar of Fantasy and Ash level.11 That Time, We Each Dreamed on Our Own Paths",
+   "shortTitle": "Level 11",
+   "number": 11,
+   "position": 11,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Emily Sorensen",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2018-10-16T14:00:00Z",
+   "noEbook": false,
+   "description": "\"I'll do what I have to. I'll do it. Now.\"\nGritting his teeth, and bracing his legs, Haruhiro faces the guorella onslaught once more. He rouses himself with a sense of purpose, and tries to avert his eyes from the reality of her death.\nThen, when he finds himself facing a regret and despair greater than he can handle, that mysterious man, Jessie, whispers to him, \"There is a way. Just one.\"\nMeanwhile, Ranta, having left Forgan, is desperately fleeing his former keeper Takasagi's pursuit. In Thousand Valley, there's no telling when his flight might end. When his stamina and will are pushed to their limit, what is it that comes back to Ranta's mind...?",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J6AG4D11CFXJMVK4092YB.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-NXLACTQ",
+   "title": "Grimgar of Fantasy and Ash level.12 That was the Beginning of a Legend Revolving Around a Certain Island and Dragon",
+   "shortTitle": "Level 12",
+   "number": 12,
+   "position": 12,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Emily Sorensen",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2018-12-16T20:00:00Z",
+   "noEbook": false,
+   "description": "While attempting to return to Alterna, Haruhiro and the party push through mountainous enemy territory towards the sea.\nFollowing one adventure after another, they reach the seashore at last, and they find a single ship landed there.\nWhen they go to investigate, a girl with a fake mustache, of all things, appears!\n\"I am Momohina! Name yourselves!\"\nLed on by their meeting with the mysterious pirate (?) Momohina, the party heads for the Emerald Archipelago, where dragons have long been said to reside. What the group finds when they arrive is a pirate's haven, thrown into chaos by a dragon attack?!\nThe tale of adventure born from the ashes moves its stage to the sea, and a new tale is woven.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J6C0GNDG839C6K2CNYJ75.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-COGYCLA",
+   "title": "Grimgar of Fantasy and Ash level.13 Heart, Open, A New Door",
+   "shortTitle": "Level 13",
+   "number": 13,
+   "position": 13,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Emily Sorensen",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2019-02-18T06:00:00Z",
+   "noEbook": false,
+   "description": "Leaving behind Yume, who has parted ways with the rest of them, Haruhiro and the rest travel on a pirate ship to the free city of Vele. There, they decide to make their way towards the still-distant Alterna by defending the suspicious trader Kejiman's caravan.\n\nTheir journey goes surprisingly well. Or so they think, until they encounter the legendary Leslie Camp... or at least a massive tent they think might be it. In what may be a twist of fate, they set foot inside it, and...?!\n\n\"Haruhiro... welcome to Parano.\"\n\nLed on by a mysterious individual in a raincoat, their mysterious adventure into the next world, Parano, begins!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J6D2TB847KRBGGRK9T633.jpg",
+    "width": 284,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-PKZZAGA",
+   "title": "Grimgar of Fantasy and Ash level.14 Parano-mania [parano_mania]",
+   "shortTitle": "Level 14",
+   "number": 14,
+   "position": 14,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Emily Sorensen",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2019-06-04T05:00:00Z",
+   "noEbook": false,
+   "description": "\"This isn't Grimgar. We have to get out of here.\"\n\nThe party have been split up in Parano, the other world, where dream monsters and mages run wild. Without their trusty comrades, they can only rely on themselves.\n\n\"But how far can I believe that 'I' am me?\"\n\nThe goals are to find his comrades and to escape. The king holds the keys. Sharing their hearts and strength with Alice C and Io's party who also wandered into Parano, will Haruhiro and company be able to make it back to Grimgar?! This is the concluding chapter to the story of the other world colored by different illusions, Parano.\n\nThen, the tale of adventure born from the ashes will reach a major turning point!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J6E4VCTA4PWDTY8KY3V9T.jpg",
+    "width": 284,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-P56WMLY",
+   "title": "Grimgar of Fantasy and Ash level.14+ Things Cannot Remain the Same",
+   "shortTitle": "Level 14+",
+   "number": 15,
+   "position": 15,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Emily Sorensen",
+     "role": "EDITOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2019-11-11T06:00:00Z",
+   "noEbook": false,
+   "description": "While Haruhiro and the others were in Parano, a major incident was happening in Grimgar...\n\nIn a fast-moving world, a man hides his face beneath a mask, making his way towards Alterna alone...\n\n\"Am I being true to my own heart? Well, then there's no problem.\"\n\nIn addition to the new story telling of Ranta's struggles, \"Feelings of the Mask,\" there is also \"Please, Just a Little Longer,\" about the feelings of Manato, the volunteer soldier trainee who died before he could reach his goal, and \"Let's Rest for Today,\" which depicts Yume and Shihoru's interactions with their respective masters at the guilds they joined. This volume contains four short stories, including those made as extras for the TV anime!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J6JBPDXYR2454DYXZ4Z1D.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-SEMUUDA",
+   "title": "Grimgar of Fantasy and Ash level.14++ If I Could Meet You Again",
+   "shortTitle": "Level 14++",
+   "number": 16,
+   "position": 16,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Adam Fogle",
+     "role": "EDITOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2020-05-04T05:00:00Z",
+   "noEbook": false,
+   "description": "Having left the party to continue her training with Momohina, Yume overcomes a desperate crisis to return to Alterna. However, something is wrong. Will she be able to meet her comrades again? What is the true nature of the dark clouds hanging over Alterna? “Until she gets stronger, Yume's just gonna have to keep givin' it her all as her weak ol' self.” Yume enters the spotlight, showing her determination and growth in the episode “Howling Beneath the Moon, I am a Wolf.” Plus, three stories written as bonuses for the anime, including the story of Ranta recklessly challenging Moguzo to a cooking battle, “Justice and Justice,” and an afterstory revolving around the bounty that the party received for slaying Death Spots, “The Fun has Just Begun.”",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J6QYWHQVNT4HBMFDK624D.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-UWCVGGQ",
+   "title": "Grimgar of Fantasy and Ash level.15 A Fleeting New Game Plus",
+   "shortTitle": "Level 15",
+   "number": 17,
+   "position": 17,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Adam Fogle",
+     "role": "EDITOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2020-08-04T05:00:00Z",
+   "noEbook": false,
+   "description": "“Honestly, none of this makes sense...”\n\nWhen they come to, Haruhiro and the others find themselves in the darkness. None of them remember much more than their own names. The only one they can rely on is Merry, who, for some reason, hasn't lost her memories. Once they get out of the darkness, they find Alterna destroyed.\n\nFirst and foremost, what they need is information. Narrowly escaping the town with their lives, they use the skills and abilities their bodies remember to race across the frontier of Grimgar. Then, they meet the forces of the Kingdom of Arabakia, set to take back Alterna?!\nThe tale of adventure born from the ashes enters its end game!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J6VKFCRJ2T6DJXYEC4YSN.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-OUMEYRI",
+   "title": "Grimgar of Fantasy and Ash level.16 Without Even Knowing the Reason for Our Good-bye",
+   "shortTitle": "Level 16",
+   "number": 18,
+   "position": 18,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Adam Fogle",
+     "role": "EDITOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2021-01-03T06:00:00Z",
+   "noEbook": false,
+   "description": "With great sacrifice, the Arabakia Kingdom Expeditionary Force succeeded in retaking Alterna, but Haruhiro finds himself crushed under the weight of what he's lost. The ambitious General Jin Mogis of the Expeditionary Force, the survivors of the Volunteer Soldier Corps, and the mysterious residents of the Forbidden Tower. In the middle of these different factions, each with their own goals, Haruhiro's party has one of their own members taken hostage, and are forced to go on a dangerous mission. Incredibly, their goal is... an alliance with the goblins?! As the team struggles, unable to find a way out, the man who once shared their joys and sorrows, but was forced to go down a different path, reappears! Now that Haruhiro and his party have lost their memory once more, the bonds they formed in Grimgar will become their strength.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J709Z35HVPN1BRPKAE3P5.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-UCQPSIQ",
+   "title": "Grimgar of Fantasy and Ash level.17 Someday We Shall Bid Farewell to These War-Torn Days",
+   "shortTitle": "Level 17",
+   "number": 19,
+   "position": 19,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Adam Fogle",
+     "role": "EDITOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2021-07-07T05:00:00Z",
+   "noEbook": false,
+   "description": "Under the command of Jin Mogis, the Kingdom of Arabakia's Expeditionary Force declared independence as the new Frontier Army. They then formed an alliance with the king of the goblins. Now, their next move is to conquer Mount Grief, occupied by an army of orcs.\n\nEntrusted with an important mission to infiltrate and disrupt the enemy from within, Haruhiro and his team work with the members of Shinohara's Orion, Team Renji, and the Tokkis in order to break through the \"Graveyard\" beneath Mount Grief. However, the mission proves more difficult than they imagined, and they are faced with nothing but close calls and dangerous foes. Forget about taking Mount Grief, are they even going to be able to survive this?!\n\nFighting alongside old comrades. Feeling conflicting emotions during a battle to the death. Is the team headed toward hope or despair?",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J76N72X23BQGYQBW2R6CC.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-6N6VAQA",
+   "title": "Grimgar of Fantasy and Ash level.18 The World Hates Me",
+   "shortTitle": "Level 18",
+   "number": 20,
+   "position": 20,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Adam Fogle",
+     "role": "EDITOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2022-09-14T05:00:00Z",
+   "noEbook": false,
+   "description": "After taking Mount Grief at great cost, the Frontier Army receives a visit from an envoy of the dwarven Ironblood Kingdom, now imperiled by the orcs and undead of the Southern Expedition. When Jin Mogis learns the dwarves have been resisting the enemy with a new secret weapon, he decides to dispatch a delegation to negotiate with them. Chosen to be part of that delegation, Haruhiro and company cross the Quickwind Plains, contending with terrifying giants and dangerous beasts as they head toward the dwarven kingdom in the distant Kurogane Mountain Range. What awaits them at the end of their journey’s twisting path - a negotiation, a decisive battle, or something else?! When the answer appears before them, everything will change!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/9/V/J7SJHMA5EQGQK0GBZV99F.jpg",
+    "width": 283,
+    "height": 400
+   }
+  },
+  {
+   "id": "VOL-Y2IMELA",
+   "title": "Grimgar of Fantasy and Ash level.19 To Embrace This World Is Pain",
+   "shortTitle": "Level 19",
+   "number": 21,
+   "position": 21,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Adam Fogle",
+     "role": "EDITOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2022-12-29T06:00:00Z",
+   "noEbook": false,
+   "description": "The party has suffered crushing losses attempting to flee the Ironblood Kingdom. Kuzaku was cut down by Jumbo, and Setora was feasted upon by the orc’s great black eagle. No one had the power to prevent it. No one except the No-Life King, who has been sleeping inside of Merry. And with his awakening comes great upheaval.\nNow, the sekaishu has overrun Grimgar, eating away at the world. In this chaotic situation, the Frontier Army, the volunteer soldiers, the various races that populate the land, and even people who ought to be dead all take action in order to survive and to achieve their own wishes. As the world is stained black, they each live out their own tales of adventure.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/A/Y/B29BFJT6JCQJPZC31QNY1.jpg",
+    "width": 860,
+    "height": 1215
+   }
+  },
+  {
+   "id": "VOL-3QDXIGA",
+   "title": "Grimgar of Fantasy and Ash level.20 Thus the Star Fell, and Time Went By",
+   "shortTitle": "Level 20",
+   "number": 22,
+   "position": 22,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Adam Fogle",
+     "role": "EDITOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2025-06-23T05:00:00Z",
+   "noEbook": false,
+   "description": "The sekaishu are everywhere, and people have been dying left and right - even Kuzaku and Setora. Why has the world turned out like this? Because of Merry? No. It’s because of the No-Life King that took her place. And Haruhiro can’t help but blame himself for all of it.\nAt least there’s a light beyond the darkness: a reunion with the strongest volunteer soldiers. A new life will be conceived in the base where the survivors are gathering. The world may be falling apart, but this isn’t the end yet. There may be a way to stop the devastation.\nAccording to an old legend, a red star was once struck down by the primordial dragon, and its fragments became the black tumors known as the sekaishu that are infesting the world. This story may hold the key to saving Grimgar. It’s time for friends to stand together and put an end to this threat once and for all.",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01J/T/R/2XBB48X27817YK7SXSQBJ.jpg",
+    "width": 860,
+    "height": 1210
+   }
+  },
+  {
+   "id": "VOL-ZQHSWIQ",
+   "title": "Grimgar of Fantasy and Ash level.21 Cleaving Through Light and Darkness",
+   "shortTitle": "Level 21",
+   "number": 23,
+   "position": 23,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Adam Fogle",
+     "role": "EDITOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2025-12-31T06:00:00Z",
+   "noEbook": false,
+   "description": "The star fell, the two gods reemerged, and the children of humanity were reduced to servants.\nWith fate having thrust yet another burden on him, Haruhiro’s journey isn’t over yet...\n“Awaken.”\nA boy awakens. His comrades are nowhere to be seen. Where is he? The masked man in front of him says, “That’s...your name, is it? Manato?”\nGrimgar has become a battlefield where the believers of Lumiaris and servants of Skullhell fight a neverending battle. Manato will live in this new land rife with death. Together with a new group of comrades, he must cut a path for himself through the light and the darkness!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01K/5/R/TMHXZDGYH028Z5ZYK45CM.jpg",
+    "width": 860,
+    "height": 1214
+   }
+  },
+  {
+   "id": "VOL-OWDLWZQ",
+   "title": "Grimgar of Fantasy and Ash level.22 We Bloom on the Border Between Life and Death",
+   "shortTitle": "Level 22",
+   "number": 24,
+   "position": 24,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Adam Fogle",
+     "role": "EDITOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2026-04-22T05:00:00Z",
+   "noEbook": false,
+   "description": "[Are you going to eat me?]\n\n“No, I’m not. You’re just like a human, except that you’ve got three eyes.” \n\nCaught up in the battle between the fiend Chegbrete of Penitence and the saint Taidael, Manato is separated from the group and meets someone - or is it something?\n\nWho is this...girl? Boy? Being? They definitely aren’t human at least. What lies beyond the cave where they met? Perhaps Manato found his way to the Wonder Hole! \n\nAs Manato encounters the mysterious gnome race and the undead, he may discover what is the key to saving Grimgar!",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01K/B/J/N655TZXHB82QPHGK5516J.jpg",
+    "width": 860,
+    "height": 1211
+   }
+  },
+  {
+   "id": "VOL-7GPI44I",
+   "title": "Grimgar of Fantasy and Ash level.23 The Witch of the Westland",
+   "shortTitle": "Level 23",
+   "number": 25,
+   "position": 25,
+   "creators": [
+    {
+     "name": "Ao Jyumonji",
+     "role": "AUTHOR"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "TRANSLATOR"
+    },
+    {
+     "name": "Eiri Shirai",
+     "role": "ILLUSTRATOR"
+    },
+    {
+     "name": "Adam Fogle",
+     "role": "EDITOR"
+    }
+   ],
+   "hidden": false,
+   "publishing": "2026-11-04T06:00:00Z",
+   "noEbook": false,
+   "description": "Is there no way to save Grimgar now that it’s been torn apart by the gods? They say that, long ago, the two divinities fought in Darunggar. Could that be where the key is?!\n\nHowever, after boarding the Ark to escape from a new pair of saints, the trio of Haruhiro, Yori, and Riyo arrive in the Westland, a section of Grimgar unfamiliar to them - they must face red seas, desiccated forests, and a mysterious race called noblins, all while separated from Manato. And then...the black witch appears!\n\n“Who are you? Someone who knows me?”",
+   "cover": {
+    "originalUrl": "",
+    "coverUrl": "https://cdn.j-novel.club/pub/img/480/webp/01K/W/A/JT9ZTFPA6GG5C88SX5VGP.jpg",
+    "width": 860,
+    "height": 1212
+   }
+  }
+ ],
+ "pagination": {
+  "limit": 0,
+  "skip": 0,
+  "lastPage": true
+ }
+}
