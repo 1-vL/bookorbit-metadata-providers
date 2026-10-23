@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "books": [
+    {
+      "_id": "5484ecd47a5936fb0405756c",
+      "info": {
+        "title": "Pride and Prejudice",
+        "avgRating": 4.56,
+        "numRating": 1670
+      },
+      "url": "/books/5484ecd47a5936fb0405756c/pride-and-prejudice-jane-austen",
+      "series": [],
+      "authors": [
+        {
+          "_id": "545523418c7d2382c5296f43",
+          "name": "Jane Austen",
+          "url": "/authors/545523418c7d2382c5296f43/jane-austen"
+        }
+      ]
+    },
+    {
+      "_id": "64aae9ea0f498c040bf904ad",
+      "info": {
+        "title": "Pride & Prejudice",
+        "avgRating": 4.14,
+        "numRating": 34
+      },
+      "authors": [
+        { "name": "Stacy King" },
+        { "name": "Jane Austen" }
+      ],
+      "series": [
+        {
+          "title": "Manga Classics",
+          "no_display": "2",
+          "no": 2,
+          "series": "644969bfaac60479c37bf97e"
+        }
+      ]
+    }
+  ],
+  "ratings": [],
+  "bookmarks": [],
+  "steam": []
+}

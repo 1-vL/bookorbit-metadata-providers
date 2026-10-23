@@ -105,6 +105,21 @@
         "comic"
       ],
       "languages": []
+    },
+    {
+      "key": "romanceio",
+      "name": "Romance.io",
+      "summary": "Romance books from Romance.io: community topics, ratings and steam/spice levels.",
+      "image": "ghcr.io/bookorbit/romanceio-provider",
+      "version": "0.1.0",
+      "port": 8080,
+      "docsUrl": "https://github.com/bookorbit/bookorbit-metadata-providers/tree/main/providers/romanceio",
+      "homepage": "https://www.romance.io",
+      "color": "#dd0489",
+      "mediaTypes": [
+        "book"
+      ],
+      "languages": []
     }
   ]
 }

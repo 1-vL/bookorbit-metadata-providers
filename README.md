@@ -16,6 +16,7 @@ release.
 | [Libris](providers/libris) | Swedish books from [Libris](https://libris.kb.se), the National Library of Sweden's catalogue | `ghcr.io/bookorbit/libris-provider` |
 | [LubimyCzytac](providers/lubimyczytac) | Polish books from [lubimyczytac.pl](https://lubimyczytac.pl): titles, authors, series, genres | `ghcr.io/bookorbit/lubimyczytac-provider` |
 | [MangaBaka](providers/mangabaka) | Manga, manhwa, manhua and light novels from [mangabaka.org](https://mangabaka.org), with the volume number taken from the file's title | `ghcr.io/bookorbit/mangabaka-provider` |
+| [Romance.io](providers/romanceio) | Romance books from [Romance.io](https://www.romance.io): community topics, ratings and steam/spice levels | `ghcr.io/bookorbit/romanceio-provider` |
 
 LubimyCzytac used to be built into BookOrbit. It keeps its old key, so the ids already on your books
 and the field rules that name it carry on once the provider is added.
