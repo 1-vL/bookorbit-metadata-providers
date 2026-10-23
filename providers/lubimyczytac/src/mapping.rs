@@ -524,7 +524,7 @@ fn parse_json_ld(doc: &Html) -> JsonLd {
             fields.genre = node
                 .get("genre")
                 .and_then(Value::as_str)
-                .and_then(|genre| genre.split('/').filter(|s| !s.is_empty()).next_back())
+                .and_then(|genre| genre.split('/').rfind(|s| !s.is_empty()))
                 .map(str::to_string);
         }
         if fields.language.as_deref().unwrap_or_default().is_empty() {
