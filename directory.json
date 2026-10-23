@@ -120,6 +120,25 @@
         "book"
       ],
       "languages": []
+    },
+    {
+      "key": "yandexbooks",
+      "name": "Yandex Books",
+      "summary": "Russian books, audiobooks and comics from Yandex Books: descriptions, publishers, series, genres, narrators and running times.",
+      "image": "ghcr.io/bookorbit/yandexbooks-provider",
+      "version": "0.1.0",
+      "port": 8080,
+      "docsUrl": "https://github.com/bookorbit/bookorbit-metadata-providers/tree/main/providers/yandexbooks",
+      "homepage": "https://books.yandex.ru",
+      "color": "#ff5d5d",
+      "mediaTypes": [
+        "book",
+        "audiobook",
+        "comic"
+      ],
+      "languages": [
+        "ru"
+      ]
     }
   ]
 }
