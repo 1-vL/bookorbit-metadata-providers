@@ -10,6 +10,7 @@ release.
 
 | Provider | What it covers | Image |
 |---|---|---|
+| [AudioSilo](providers/audiosilo) | Audiobook metadata from the [AudioSilo Meta](https://meta.audiosilo.app) community catalogue | `ghcr.io/bookorbit/audiosilo-provider` |
 | [Douban](providers/douban) | Chinese books from [book.douban.com](https://book.douban.com): titles, authors, publishers, ratings, ISBN lookups. No covers, which Douban serves only to its own pages | `ghcr.io/bookorbit/douban-provider` |
 | [FantLab](providers/fantlab) | Russian-language science fiction and fantasy from [fantlab.ru](https://fantlab.ru): works, editions by ISBN, series, genres, ratings | `ghcr.io/bookorbit/fantlab-provider` |
 | [J-Novel Club](providers/jnovelclub) | Light novels and manga published in English by [J-Novel Club](https://j-novel.club), with the volume number taken from the file's title | `ghcr.io/bookorbit/jnovelclub-provider` |
@@ -60,7 +61,9 @@ covers the contract, recommendations, testing and publishing.
 
 BookOrbit lists the providers in [`directory.json`](directory.json) under **Settings > Metadata >
 Providers > External**, with a ready-to-paste Compose snippet. Add a new provider there, and bump its
-`version` when you release one, so admins are offered the current image.
+`version` when you release one, so admins are offered the current image. CI finds and tests every
+crate under `providers/` on its own, with the Rust version its Dockerfile builds with, so there is no
+list in the workflow to add it to.
 
 Tag the commit `<provider>-v<version>`, such as `mangabaka-v0.2.0`, and push the tag.
 [`publish.yml`](.github/workflows/publish.yml) builds the image for `linux/amd64` and `linux/arm64`

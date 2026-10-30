@@ -8,20 +8,47 @@ on:
 permissions:
   contents: read
 
+# A newer push to a pull request supersedes its running check; pushes to main each get their own run.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event_name == 'pull_request' && github.ref || github.run_id }}
+  cancel-in-progress: true
+
 jobs:
+  # Every Rust crate is tested without being listed here, so adding a provider never touches this file.
+  rust-dirs:
+    runs-on: ubuntu-latest
+    outputs:
+      dirs: ${{ steps.find.outputs.dirs }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: find
+        run: |
+          dirs=$(for f in providers/*/Cargo.toml starters/*/Cargo.toml; do dirname "$f"; done | jq -Rnc '[inputs]')
+          echo "dirs=$dirs" >> "$GITHUB_OUTPUT"
+
   rust:
+    needs: rust-dirs
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
       matrix:
-        dir: [providers/douban, providers/fantlab, providers/jnovelclub, providers/libris, providers/lubimyczytac, providers/mangabaka, providers/romanceio, providers/yandexbooks, starters/rust]
+        dir: ${{ fromJSON(needs.rust-dirs.outputs.dirs) }}
     defaults:
       run:
         working-directory: ${{ matrix.dir }}
     steps:
       - uses: actions/checkout@v4
-      - uses: dtolnay/rust-toolchain@stable
+      # Test with the compiler the image is built with, so a new Rust release cannot fail a crate
+      # nobody touched.
+      - name: Read the Rust version from the Dockerfile
+        id: rust
+        run: |
+          version=$(sed -n 's/^FROM rust:\([0-9.]*\).*/\1/p' Dockerfile | head -n 1)
+          test -n "$version" || { echo "::error::Dockerfile has no FROM rust:<version> line"; exit 1; }
+          echo "version=$version" >> "$GITHUB_OUTPUT"
+      - uses: dtolnay/rust-toolchain@master
         with:
+          toolchain: ${{ steps.rust.outputs.version }}
           components: clippy, rustfmt
       - run: cargo fmt --check
       - run: cargo clippy --all-targets -- -D warnings
