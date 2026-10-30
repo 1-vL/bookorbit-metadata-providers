@@ -60,7 +60,9 @@ covers the contract, recommendations, testing and publishing.
 
 BookOrbit lists the providers in [`directory.json`](directory.json) under **Settings > Metadata >
 Providers > External**, with a ready-to-paste Compose snippet. Add a new provider there, and bump its
-`version` when you release one, so admins are offered the current image.
+`version` when you release one, so admins are offered the current image. CI finds and tests every
+crate under `providers/` on its own, with the Rust version its Dockerfile builds with, so there is no
+list in the workflow to add it to.
 
 Tag the commit `<provider>-v<version>`, such as `mangabaka-v0.2.0`, and push the tag.
 [`publish.yml`](.github/workflows/publish.yml) builds the image for `linux/amd64` and `linux/arm64`
